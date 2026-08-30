@@ -1,59 +1,59 @@
 {
-  "updated_at": "2026년 08월 31일 기준 (초기 데이터)",
   "stocks": [
     {
-      "headline": "급락 출발했던 코스피, 건설·증권주 순환매로 6,700선 사수",
-      "summary": "반도체 투심 악화로 급락 출발했지만 저가 매수세로 낙폭을 만회, 건설·증권주로 순환매가 나타났다.",
+      "headline": "글로벌 큰손이 뽑은 韓 기대주는? [한경 프리미엄9 TODAY]",
+      "summary": "글로벌 큰손이 뽑은 韓 기대주는? [한경 프리미엄9 TODAY]",
       "source": "한국경제",
-      "url": "https://markets.hankyung.com/indices/kospi"
+      "url": "https://www.hankyung.com/article/2026083020241"
     },
     {
-      "headline": "반도체 투심 회복에 코스피 6,800선 회복",
-      "summary": "미국 AI 관련 기업 실적 호조로 삼성전자·SK하이닉스가 동반 강세, 코스피가 나흘 연속 상승했다.",
-      "source": "MBC 뉴스",
-      "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6844601_37004.html"
+      "headline": "태양광이 올린 은값, 태양광이 끌어내리나",
+      "summary": "태양광이 올린 은값, 태양광이 끌어내리나",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026083020081"
     }
   ],
   "global": [
     {
-      "headline": "연준, 5회 연속 금리 동결…국채금리는 급등",
-      "summary": "미 연준이 기준금리를 3.50~3.75%로 동결했지만 소수의견이 나오며 국채금리가 급등했다.",
-      "source": "MBC 뉴스",
-      "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6841097_37012.html"
+      "headline": "네팔 대홍수 실종자 구조 '사력'…중국 당국 \"네팔 측 위험 여전\"",
+      "summary": "네팔 대홍수 실종자 구조 '사력'…중국 당국 \"네팔 측 위험 여전\"",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026083022547"
     },
     {
-      "headline": "잭슨홀서 매파 발언한 워시 의장…9월 인상 확률 급등",
-      "summary": "케빈 워시 의장의 물가 우려 발언 이후 9월 금리 인상 확률이 절반을 넘어섰다.",
-      "source": "파이낸셜뉴스",
-      "url": "https://www.fnnews.com/news/202608301309591030"
+      "headline": "\"키프로스 북부서 승객 300여명 태운 여객선 전복\"",
+      "summary": "\"키프로스 북부서 승객 300여명 태운 여객선 전복\"",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026083022187"
     }
   ],
   "industry": [
     {
-      "headline": "삼성전자, 차세대 3D 메모리로 SK하이닉스에 정면 승부",
-      "summary": "삼성전자가 FMS 2026에서 차세대 3D 메모리 zHBM·zNAND-O 목업을 세계 최초 공개했다.",
-      "source": "다음뉴스",
-      "url": "https://v.daum.net/v/20260805110127672"
+      "headline": "게임 신작도 넷플릭스서 공개…GTA6가 연 'OTT·게임 동맹'",
+      "summary": "게임 신작도 넷플릭스서 공개…GTA6가 연 'OTT·게임 동맹'",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026083018981"
     },
     {
-      "headline": "정부, 반도체 클러스터 인프라 직접 관리…투자 속도 붙나",
-      "summary": "정부가 반도체 클러스터 인허가·전력 공급을 직접 챙기며 대규모 투자 실행에 속도가 붙고 있다.",
-      "source": "파이낸셜뉴스",
-      "url": "https://www.fnnews.com/news/202608110616184629"
+      "headline": "KAIST, '몰카' 찾는 스마트폰용 AI 개발",
+      "summary": "KAIST, '몰카' 찾는 스마트폰용 AI 개발",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026083018971"
     }
   ],
   "realestate": [
     {
-      "headline": "서울 편입설에 김포·광명 부동산 검색량 급증",
-      "summary": "서울 인접 도시 편입 추진 소식에 해당 지역 아파트 실거래 검색량이 급등했다.",
-      "source": "아시아경제",
-      "url": "https://www.asiae.co.kr/ranking/realestate/20180611/20231031"
+      "headline": "\"원전·AI로 골든타임 맞은 해외건설…고부가 투자로 영역 넓혀야\"",
+      "summary": "\"원전·AI로 골든타임 맞은 해외건설…고부가 투자로 영역 넓혀야\"",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026083019861"
     },
     {
-      "headline": "정기국회 앞두고 여야 '입법전쟁'…부동산 세제개편 핵심 쟁점",
-      "summary": "9월 정기국회를 앞두고 부동산 공급 정책과 세제 개편을 둘러싼 여야 대립이 예고됐다.",
-      "source": "다음뉴스",
-      "url": "https://news.daum.net/economy"
+      "headline": "K컬처에 아파트 접목…'융복합 시티'를 수출 모델로",
+      "summary": "K컬처에 아파트 접목…'융복합 시티'를 수출 모델로",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026083019851"
     }
-  ]
+  ],
+  "updated_at": "2026년 08월 31일 01:56 기준"
 }
