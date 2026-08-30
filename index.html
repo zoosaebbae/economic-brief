@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>경제 브리프 — 하루, 두 걸음</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@400;500;600;700;900&family=Pretendard:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg: #0c1420;
+    --bg-card: #121d2e;
+    --gold: #c9a35f;
+    --gold-bright: #e2c07f;
+    --text: #ece6d8;
+    --text-dim: #8d96a8;
+    --rule: rgba(201,163,95,0.28);
+    --serif: 'Noto Serif KR', serif;
+    --sans: 'Pretendard', -apple-system, sans-serif;
+  }
+  *{box-sizing:border-box; margin:0; padding:0;}
+  html{scroll-behavior:smooth;}
+  body{
+    background:
+      radial-gradient(ellipse 900px 500px at 15% -10%, rgba(201,163,95,0.08), transparent 60%),
+      radial-gradient(ellipse 700px 500px at 100% 10%, rgba(201,163,95,0.05), transparent 60%),
+      var(--bg);
+    color:var(--text);
+    font-family:var(--sans);
+    line-height:1.6;
+    min-height:100vh;
+  }
+
+  .ticker-wrap{
+    border-bottom:1px solid var(--rule);
+    background:#0a111c;
+    overflow:hidden;
+    white-space:nowrap;
+    padding:9px 0;
+  }
+  .ticker{
+    display:inline-block;
+    padding-left:100%;
+    animation: scroll-left 32s linear infinite;
+    font-size:12.5px;
+    letter-spacing:0.02em;
+    color:var(--text-dim);
+  }
+  .ticker span{margin-right:48px;}
+  .ticker b{color:var(--gold-bright); font-weight:600;}
+  .up{color:#9fd1a8;}
+  @keyframes scroll-left{ 0%{transform:translateX(0);} 100%{transform:translateX(-100%);} }
+  @media (prefers-reduced-motion: reduce){ .ticker{animation:none; padding-left:24px;} }
+
+  header{ max-width:1040px; margin:0 auto; padding:72px 28px 40px; text-align:center; }
+  .eyebrow{ font-size:12px; letter-spacing:0.32em; color:var(--gold); font-weight:600; text-transform:uppercase; }
+  h1{
+    font-family:var(--serif); font-weight:900; font-size:clamp(40px, 7vw, 68px);
+    letter-spacing:-0.01em; margin:16px 0 14px;
+    background:linear-gradient(180deg, #f4ecd8 0%, var(--gold-bright) 120%);
+    -webkit-background-clip:text; background-clip:text; color:transparent;
+  }
+  .sub{ color:var(--text-dim); font-size:15.5px; max-width:480px; margin:0 auto; }
+  .date-row{
+    margin-top:28px; display:flex; align-items:center; justify-content:center;
+    gap:14px; color:var(--text-dim); font-size:13px; letter-spacing:0.04em;
+  }
+  .date-row .line{width:36px; height:1px; background:var(--rule);}
+
+  .status-row{
+    margin-top:20px; display:flex; align-items:center; justify-content:center; gap:8px;
+    font-size:12px; color:var(--text-dim);
+  }
+  .dot{ width:6px; height:6px; border-radius:50%; background:#9fd1a8; box-shadow:0 0 8px #9fd1a8; }
+  #refresh-btn{
+    margin-left:6px; background:none; border:1px solid var(--rule); color:var(--gold);
+    font-size:11.5px; padding:5px 12px; border-radius:20px; cursor:pointer;
+    font-family:var(--sans); transition:.2s ease;
+  }
+  #refresh-btn:hover{ border-color:var(--gold); background:rgba(201,163,95,0.08); }
+  #refresh-btn:disabled{ opacity:.5; cursor:default; }
+
+  main{max-width:1040px; margin:0 auto; padding:10px 28px 80px;}
+  section{margin-top:76px;}
+  .cat-head{ display:flex; align-items:baseline; gap:18px; margin-bottom:30px; }
+  .cat-num{ font-family:var(--serif); font-size:15px; color:var(--gold); font-weight:600; letter-spacing:0.08em; }
+  .cat-title{ font-family:var(--serif); font-size:27px; font-weight:700; color:var(--text); letter-spacing:-0.01em; }
+  .cat-rule{ flex:1; height:1px; background:linear-gradient(90deg, var(--rule), transparent); }
+
+  .grid{ display:grid; grid-template-columns:1fr 1fr; gap:22px; min-height:120px; }
+  @media (max-width:760px){ .grid{grid-template-columns:1fr;} }
+
+  article.card{
+    background:linear-gradient(180deg, var(--bg-card), #0e1727);
+    border:1px solid rgba(201,163,95,0.14);
+    border-radius:3px; padding:30px 28px 26px; position:relative;
+    transition: transform .35s ease, border-color .35s ease, box-shadow .35s ease;
+  }
+  article.card::before{
+    content:""; position:absolute; top:0; left:0; width:2px; height:0;
+    background:var(--gold); transition:height .45s ease;
+  }
+  article.card:hover{ transform:translateY(-3px); border-color:rgba(201,163,95,0.4); box-shadow:0 18px 40px -20px rgba(0,0,0,0.6); }
+  article.card:hover::before{ height:100%; }
+
+  .tag{ font-size:11px; letter-spacing:0.14em; color:var(--gold); font-weight:600; text-transform:uppercase; }
+  .headline{ font-family:var(--serif); font-size:21px; line-height:1.4; font-weight:600; margin:12px 0 12px; color:#f4efe2; }
+  .summary{ font-size:14.5px; color:#b8c0cd; line-height:1.75; }
+  .card-foot{
+    margin-top:20px; padding-top:16px; border-top:1px solid rgba(255,255,255,0.06);
+    display:flex; justify-content:space-between; align-items:center;
+  }
+  .source{ font-size:12.5px; color:var(--text-dim); }
+  .source b{ color:#c8cfda; font-weight:600; }
+  .read-link{ font-size:12.5px; color:var(--gold); text-decoration:none; border-bottom:1px solid transparent; white-space:nowrap; }
+  .read-link:hover{ border-bottom-color:var(--gold); }
+  .empty-note{ color:var(--text-dim); font-size:13px; padding:20px 4px; grid-column:1/-1; }
+
+  footer{
+    max-width:1040px; margin:40px auto 0; padding:40px 28px 60px; text-align:center;
+    color:var(--text-dim); font-size:12.5px; border-top:1px solid var(--rule);
+  }
+  footer .brand{ font-family:var(--serif); color:var(--gold); letter-spacing:0.1em; font-size:13px; margin-bottom:8px; display:block; }
+
+  .fade{ opacity:0; transform:translateY(14px); animation:fadeUp .6s ease forwards; }
+  @keyframes fadeUp{ to{opacity:1; transform:translateY(0);} }
+</style>
+</head>
+<body>
+
+  <div class="ticker-wrap">
+    <div class="ticker">
+      <span>KOSPI <b>6,742.74</b> <span class="up">▲0.68%</span></span>
+      <span>KOSDAQ <b>827.15</b> <span class="up">▲1.70%</span></span>
+      <span>미 기준금리 <b>3.50–3.75%</b> 동결</span>
+      <span>삼성전자 · SK하이닉스 <span class="up">반도체 투심 회복</span></span>
+      <span>KOSPI <b>6,742.74</b> <span class="up">▲0.68%</span></span>
+      <span>KOSDAQ <b>827.15</b> <span class="up">▲1.70%</span></span>
+      <span>미 기준금리 <b>3.50–3.75%</b> 동결</span>
+      <span>삼성전자 · SK하이닉스 <span class="up">반도체 투심 회복</span></span>
+    </div>
+  </div>
+
+  <header>
+    <div class="eyebrow fade" style="animation-delay:.05s">DAILY ECONOMIC BRIEF</div>
+    <h1 class="fade" style="animation-delay:.12s">경제 브리프</h1>
+    <p class="sub fade" style="animation-delay:.18s">하루 네 개 분야, 분야마다 꼭 필요한 기사 두 편. 매일 아침 자동으로 갱신됩니다.</p>
+    <div class="date-row fade" style="animation-delay:.24s">
+      <span class="line"></span>
+      <span id="today-date"></span>
+      <span class="line"></span>
+    </div>
+    <div class="status-row fade" style="animation-delay:.3s">
+      <span class="dot"></span>
+      <span id="update-status">불러오는 중…</span>
+      <button id="refresh-btn" onclick="loadNews(true)">새로고침</button>
+    </div>
+  </header>
+
+  <main>
+    <section>
+      <div class="cat-head">
+        <span class="cat-num">01</span><h2 class="cat-title">증시 · 금융</h2><div class="cat-rule"></div>
+      </div>
+      <div class="grid" id="grid-stocks"></div>
+    </section>
+
+    <section>
+      <div class="cat-head">
+        <span class="cat-num">02</span><h2 class="cat-title">글로벌 경제</h2><div class="cat-rule"></div>
+      </div>
+      <div class="grid" id="grid-global"></div>
+    </section>
+
+    <section>
+      <div class="cat-head">
+        <span class="cat-num">03</span><h2 class="cat-title">산업 · 기업</h2><div class="cat-rule"></div>
+      </div>
+      <div class="grid" id="grid-industry"></div>
+    </section>
+
+    <section>
+      <div class="cat-head">
+        <span class="cat-num">04</span><h2 class="cat-title">부동산</h2><div class="cat-rule"></div>
+      </div>
+      <div class="grid" id="grid-realestate"></div>
+    </section>
+  </main>
+
+  <footer>
+    <span class="brand">ECONOMIC BRIEF</span>
+    하루 두 걸음으로 충분한 경제 읽기 · 매일 아침 7시(KST) 자동 갱신
+  </footer>
+
+<script>
+  const days = ['일','월','화','수','목','금','토'];
+  const d = new Date();
+  document.getElementById('today-date').textContent =
+    `${d.getFullYear()}년 ${d.getMonth()+1}월 ${d.getDate()}일 ${days[d.getDay()]}요일`;
+
+  const CATEGORY_META = {
+    stocks:      { gridId: 'grid-stocks',      tag: 'Market'   },
+    global:      { gridId: 'grid-global',      tag: 'Global'   },
+    industry:    { gridId: 'grid-industry',    tag: 'Industry' },
+    realestate:  { gridId: 'grid-realestate',  tag: 'Housing'  },
+  };
+
+  function escapeHtml(str){
+    if(!str) return '';
+    return str.replace(/[&<>"']/g, ch => ({
+      '&':'&amp;', '<':'&lt;', '>':'&gt;', '"':'&quot;', "'":'&#39;'
+    }[ch]));
+  }
+
+  function cardHTML(item, tag){
+    const url = /^https?:\/\//.test(item.url || '') ? item.url : '#';
+    return `
+      <article class="card fade">
+        <span class="tag">${escapeHtml(tag)}</span>
+        <h3 class="headline">${escapeHtml(item.headline)}</h3>
+        <p class="summary">${escapeHtml(item.summary)}</p>
+        <div class="card-foot">
+          <span class="source">출처 · <b>${escapeHtml(item.source || '')}</b></span>
+          <a class="read-link" href="${url}" target="_blank" rel="noopener">원문 읽기 →</a>
+        </div>
+      </article>`;
+  }
+
+  function renderCategory(key, items){
+    const meta = CATEGORY_META[key];
+    const grid = document.getElementById(meta.gridId);
+    if(!items || !items.length){
+      grid.innerHTML = `<div class="empty-note">오늘은 이 분야의 뉴스를 불러오지 못했습니다.</div>`;
+      return;
+    }
+    grid.innerHTML = items.slice(0,2).map(it => cardHTML(it, meta.tag)).join('');
+  }
+
+  async function loadNews(manual){
+    const btn = document.getElementById('refresh-btn');
+    const status = document.getElementById('update-status');
+    if(manual){ btn.disabled = true; status.textContent = '새로고침 중…'; }
+    try{
+      // 캐시를 피해 매번 최신 news.json을 가져옵니다 (같은 폴더에 위치)
+      const res = await fetch(`./news.json?t=${Date.now()}`);
+      if(!res.ok) throw new Error('news.json을 찾을 수 없습니다');
+      const data = await res.json();
+
+      renderCategory('stocks', data.stocks);
+      renderCategory('global', data.global);
+      renderCategory('industry', data.industry);
+      renderCategory('realestate', data.realestate);
+
+      status.textContent = data.updated_at ? data.updated_at + ' 업데이트' : '업데이트 완료';
+    }catch(err){
+      console.error(err);
+      status.textContent = '뉴스를 불러오지 못했습니다';
+    }finally{
+      if(manual) btn.disabled = false;
+    }
+  }
+
+  loadNews(false);
+</script>
+
+</body>
+</html>
