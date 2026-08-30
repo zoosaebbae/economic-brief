@@ -1,0 +1,32 @@
+name: Update Economic Brief
+
+on:
+  schedule:
+    - cron: '0 22 * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 저장소 체크아웃
+        uses: actions/checkout@v4
+
+      - name: 파이썬 설치
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: 최신 뉴스 가져오기
+        run: python scripts/update_news.py
+
+      - name: 변경사항 커밋 & 푸시
+        run: |
+          git config user.name "news-bot"
+          git config user.email "news-bot@users.noreply.github.com"
+          git add news.json
+          git diff --staged --quiet || git commit -m "chore: 매일 아침 뉴스 자동 갱신 $(date -u +'%Y-%m-%d')"
+          git push
