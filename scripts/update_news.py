@@ -1,22 +1,48 @@
 """
 매일 아침 GitHub Actions가 이 스크립트를 실행해서 news.json을 갱신합니다.
-- 외부 유료 API를 전혀 쓰지 않습니다 (한국경제 RSS만 사용, 무료/키 불필요)
+- 외부 유료 API를 전혀 쓰지 않습니다 (RSS만 사용, 무료/키 불필요)
 - 표준 라이브러리만 사용하므로 별도 설치가 필요 없습니다
+
+소스 구성
+- 한국경제: 카테고리별 RSS가 있어서 그대로 매핑 (finance→stocks, international→global, it→industry, realestate→realestate)
+- 연합뉴스: 카테고리별 RSS가 없어서 경제 전체 피드를 가져온 뒤 키워드로 분류
 """
 import urllib.request
 import xml.etree.ElementTree as ET
 import re
 import json
 import datetime
+from email.utils import parsedate_to_datetime
 from zoneinfo import ZoneInfo
 
-# 카테고리별 RSS 피드 (한국경제 공식 RSS, 무료)
-FEEDS = {
-    "stocks":     ("https://www.hankyung.com/feed/finance",      "한국경제"),
-    "global":     ("https://www.hankyung.com/feed/international","한국경제"),
-    "industry":   ("https://www.hankyung.com/feed/it",           "한국경제"),
-    "realestate": ("https://www.hankyung.com/feed/realestate",   "한국경제"),
-}
+# 카테고리가 이미 정해진 피드 (source, category)
+CATEGORIZED_FEEDS = [
+    ("https://www.hankyung.com/feed/finance",       "한국경제", "stocks"),
+    ("https://www.hankyung.com/feed/international", "한국경제", "global"),
+    ("https://www.hankyung.com/feed/it",             "한국경제", "industry"),
+    ("https://www.hankyung.com/feed/realestate",     "한국경제", "realestate"),
+]
+
+# 카테고리 없이 통으로 오는 피드 (키워드로 자동 분류)
+UNCATEGORIZED_FEEDS = [
+    ("https://www.yna.co.kr/rss/economy.xml", "연합뉴스"),
+]
+
+# 키워드 → 카테고리 매핑 (위에서부터 먼저 매칭되는 카테고리로 분류)
+KEYWORD_RULES = [
+    ("realestate", ["부동산", "아파트", "전세", "월세", "분양", "종부세", "양도세", "재건축", "재개발", "청약"]),
+    ("stocks",     ["코스피", "코스닥", "증시", "주가", "환율", "채권", "펀드", "ETF", "상장"]),
+    ("industry",   ["반도체", "삼성전자", "sk하이닉스", "SK하이닉스", "자동차", "조선", "수출", "생산", "공장", "산업"]),
+    ("global",     ["연준", "미국", "중국", "유럽", "무역", "금리", "관세", "달러", "글로벌", "세계"]),
+]
+
+def classify(text):
+    lower = text.lower()
+    for category, keywords in KEYWORD_RULES:
+        for kw in keywords:
+            if kw.lower() in lower:
+                return category
+    return None
 
 def clean(text):
     if not text:
@@ -26,38 +52,81 @@ def clean(text):
     text = re.sub(r"\s+", " ", text).strip()
     return text
 
-def fetch_feed(url, source, limit=2):
+def fetch_items(url, source):
     req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
     with urllib.request.urlopen(req, timeout=15) as resp:
         data = resp.read()
     root = ET.fromstring(data)
-    items = []
-    for item in root.findall(".//item")[:limit]:
-        title = clean(item.findtext("title"))
-        link = (item.findtext("link") or "").strip()
-        desc = clean(item.findtext("description"))
+
+    # RSS 2.0(<item>)뿐 아니라 RSS 1.0/RDF(네임스페이스 붙은 item)도 잡아내기 위해
+    # 태그 이름의 네임스페이스 부분을 떼고 'item'인 요소를 전부 찾는다.
+    raw_items = [el for el in root.iter() if el.tag.split('}')[-1] == 'item']
+
+    def get_child_text(el, name):
+        for child in el:
+            if child.tag.split('}')[-1] == name:
+                return child.text
+        return None
+
+    results = []
+    for item in raw_items:
+        title = clean(get_child_text(item, "title"))
+        link = (get_child_text(item, "link") or "").strip()
+        desc = clean(get_child_text(item, "description"))
         if not desc or desc == title:
             desc = title
         if len(desc) > 110:
             desc = desc[:108].rstrip() + "…"
-        if title and link:
-            items.append({
-                "headline": title,
-                "summary": desc,
-                "source": source,
-                "url": link,
-            })
-    return items
+        if not title or not link:
+            continue
+        raw_date = get_child_text(item, "pubDate") or get_child_text(item, "date")
+        pubdate = None
+        if raw_date:
+            try:
+                pubdate = parsedate_to_datetime(raw_date)
+            except Exception:
+                pubdate = None
+        results.append({
+            "headline": title,
+            "summary": desc,
+            "source": source,
+            "url": link,
+            "_date": pubdate,
+        })
+    print(f"  → {source} ({url}): {len(results)}개 항목 파싱됨")
+    return results
 
 def main():
-    result = {}
-    for key, (url, source) in FEEDS.items():
+    buckets = {"stocks": [], "global": [], "industry": [], "realestate": []}
+
+    for url, source, category in CATEGORIZED_FEEDS:
         try:
-            items = fetch_feed(url, source)
+            items = fetch_items(url, source)
         except Exception as e:
-            print(f"[경고] {key} 피드를 가져오지 못했습니다: {e}")
+            print(f"[경고] {source}({category}) 피드를 가져오지 못했습니다: {e}")
             items = []
-        result[key] = items
+        buckets[category].extend(items)
+
+    for url, source in UNCATEGORIZED_FEEDS:
+        try:
+            items = fetch_items(url, source)
+        except Exception as e:
+            print(f"[경고] {source} 피드를 가져오지 못했습니다: {e}")
+            items = []
+        matched = 0
+        for it in items:
+            category = classify(it["headline"] + " " + it["summary"])
+            if category:
+                buckets[category].append(it)
+                matched += 1
+        print(f"  → {source}: {len(items)}개 중 {matched}개 카테고리 분류 성공")
+
+    result = {}
+    for category, items in buckets.items():
+        items.sort(key=lambda x: x["_date"] or datetime.datetime.min.replace(tzinfo=datetime.timezone.utc), reverse=True)
+        for it in items:
+            it.pop("_date", None)
+        result[category] = items[:2]
 
     kst_now = datetime.datetime.now(ZoneInfo("Asia/Seoul"))
     result["updated_at"] = kst_now.strftime("%Y년 %m월 %d일 %H:%M 기준")
