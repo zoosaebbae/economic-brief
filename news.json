@@ -7,24 +7,24 @@
       "url": "https://www.yna.co.kr/view/AKR20260902149651008"
     },
     {
-      "headline": "\"사두기만 해도 10% 번다?\"…올해 역대급 고배당 유망 종목은",
-      "summary": "\"사두기만 해도 10% 번다?\"…올해 역대급 고배당 유망 종목은",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/202609020065i"
+      "headline": "국고채 금리 일제히 상승…3년물 연 3.930%",
+      "summary": "(서울=연합뉴스) 2일 국고채 금리가 일제히 상승했다.",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20260902149600008"
     }
   ],
   "securities": [
+    {
+      "headline": "7월 급락 트라우마에 위축된 개미, 순매수 두 달새 10분의 1로",
+      "summary": "7월 급락 트라우마에 위축된 개미, 순매수 두 달새 10분의 1로",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026090203581"
+    },
     {
       "headline": "개인도, 외인도, 기관도 안 산다…코스피, 역대 최악의 '수급 공백'",
       "summary": "개인도, 외인도, 기관도 안 산다…코스피, 역대 최악의 '수급 공백'",
       "source": "한국경제",
       "url": "https://www.hankyung.com/article/202609028998i"
-    },
-    {
-      "headline": "세계 3위 피델리티의 굴욕…국내 펀드 설정액 '7000억 증발'",
-      "summary": "세계 3위 피델리티의 굴욕…국내 펀드 설정액 '7000억 증발'",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/202608187637i"
     }
   ],
   "realestate": [
@@ -43,16 +43,16 @@
   ],
   "global": [
     {
+      "headline": "'달러 코인'으로 뭉친 21개 글로벌 금융사…외환결제 판 흔든다",
+      "summary": "'달러 코인'으로 뭉친 21개 글로벌 금융사…외환결제 판 흔든다",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026090203311"
+    },
+    {
       "headline": "日 관세담판 직전, 트럼프 마음 움직인 비책은",
       "summary": "日 관세담판 직전, 트럼프 마음 움직인 비책은",
       "source": "한국경제",
       "url": "https://www.hankyung.com/article/2026090203761"
-    },
-    {
-      "headline": "'국채 금리 낮추기' 급한 트럼프 정부…코인으로 급한불 끄나",
-      "summary": "'국채 금리 낮추기' 급한 트럼프 정부…코인으로 급한불 끄나",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026090203331"
     }
   ],
   "life": [
@@ -91,5 +91,5 @@
       "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079207"
     }
   ],
-  "updated_at": "2026년 09월 02일 19:53 기준"
+  "updated_at": "2026년 09월 02일 20:00 기준"
 }
