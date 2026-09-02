@@ -24,9 +24,9 @@ DIRECT_FEEDS = [
 ]
 
 CLASSIFY_FEEDS = [
-    ("https://www.hankyung.com/feed/finance", "한국경제"),
-    ("https://www.yna.co.kr/rss/economy.xml", "연합뉴스"),
-    ("https://www.mk.co.kr/rss/30100041/",    "매일경제"),
+    ("https://www.hankyung.com/feed/finance", "한국경제", "finance"),  # 분류 안 되면 기본값 finance
+    ("https://www.yna.co.kr/rss/economy.xml", "연합뉴스", None),
+    ("https://www.mk.co.kr/rss/30100041/",    "매일경제", None),
 ]
 
 RANKING_URL = "https://www.hankyung.com/ranking"
