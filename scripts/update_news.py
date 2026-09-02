@@ -65,6 +65,17 @@ def classify(text):
                 return category
     return None
 
+def finance_subtag(text):
+    """금융 카테고리 안에서 카드에 표시할 세부 태그(금리/물가/환율/금융)를 정한다."""
+    lower = text.lower()
+    if "금리" in lower:
+        return "금리"
+    if "물가" in lower:
+        return "물가"
+    if "환율" in lower:
+        return "환율"
+    return "금융"
+
 def clean(text):
     if not text:
         return ""
@@ -221,7 +232,11 @@ def main():
     result = {}
     for category, items in buckets.items():
         print(f"  [{category}] 후보 {len(items)}개")
-        result[category] = select_top2(items, ranking_rank_map)
+        selected = select_top2(items, ranking_rank_map)
+        if category == "finance":
+            for it in selected:
+                it["tag"] = finance_subtag(it["headline"] + " " + it["summary"])
+        result[category] = selected
 
     kst_now = datetime.datetime.now(ZoneInfo("Asia/Seoul"))
     result["updated_at"] = kst_now.strftime("%Y년 %m월 %d일 %H:%M 기준")
