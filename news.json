@@ -1,16 +1,16 @@
 {
   "finance": [
     {
-      "headline": "국고채 금리 일제히 상승…3년물 장중 연 3.914%",
-      "summary": "(서울=연합뉴스) 2일 국고채 금리가 일제히 상승하고 있다.",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20260902089900008"
+      "headline": "'오리 로봇' 주문폭주에 웃는 한국 기업…증권가 \"40만원 간다\"",
+      "summary": "'오리 로봇' 주문폭주에 웃는 한국 기업…증권가 \"40만원 간다\"",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026090173781"
     },
     {
-      "headline": "삼성전자 배당 잔치에 금리 상승까지… 보험주 질주 어디까지 갈까",
-      "summary": "삼성전자 배당 잔치에 금리 상승까지… 보험주 질주 어디까지 갈까",
+      "headline": "\"국민연금 따라 사볼까\"…한 달 새 188만주 쓸어담은 종목",
+      "summary": "\"국민연금 따라 사볼까\"…한 달 새 188만주 쓸어담은 종목",
       "source": "한국경제",
-      "url": "https://www.hankyung.com/article/202609028185i"
+      "url": "https://www.hankyung.com/article/2026090173791"
     }
   ],
   "securities": [
@@ -69,5 +69,5 @@
       "url": "https://www.yna.co.kr/view/AKR20260902080700055"
     }
   ],
-  "updated_at": "2026년 09월 02일 13:29 기준"
+  "updated_at": "2026년 09월 02일 13:34 기준"
 }
