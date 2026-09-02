@@ -222,7 +222,7 @@
   <div class="status-row">
     <span class="dot"></span>
     <span id="update-status">불러오는 중…</span>
-    <button id="refresh-btn" onclick="loadNews(true)">새로고침</button>
+    <button id="refresh-btn" onclick="triggerRefresh()">최신 뉴스 다시 가져오기</button>
   </div>
 
   <main>
@@ -306,6 +306,31 @@
       return;
     }
     grid.innerHTML = items.slice(0,2).map(it => cardHTML(it, meta.tag)).join('');
+  }
+
+  // Cloudflare Worker 주소 (GitHub Actions를 대신 트리거해주는 역할)
+  const WORKER_URL = 'https://economic-brief-trigger.aug9667.workers.dev/';
+
+  async function triggerRefresh(){
+    const btn = document.getElementById('refresh-btn');
+    const status = document.getElementById('update-status');
+    btn.disabled = true;
+    status.textContent = '최신 뉴스를 다시 가져오는 중입니다… (1분 정도 걸려요)';
+    try{
+      const res = await fetch(WORKER_URL, { method: 'POST' });
+      const data = await res.json();
+      if(!data.ok) throw new Error(data.detail || '요청 실패');
+
+      // 실제로 뉴스가 수집되고(약 15초) 사이트가 재배포되기까지(약 30~60초) 잠시 대기
+      await new Promise(r => setTimeout(r, 75000));
+      await loadNews(false);
+      status.textContent += ' — 완료!';
+    }catch(err){
+      console.error(err);
+      status.textContent = '재수집 요청에 실패했습니다. 잠시 후 다시 시도해주세요.';
+    }finally{
+      btn.disabled = false;
+    }
   }
 
   async function loadNews(manual){
