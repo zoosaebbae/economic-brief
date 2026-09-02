@@ -167,19 +167,23 @@ def main():
             items = []
         buckets[category].extend(items)
 
-    for url, source in CLASSIFY_FEEDS:
+    for url, source, default_category in CLASSIFY_FEEDS:
         try:
             items = fetch_items(url, source)
         except Exception as e:
             print(f"[경고] {source} 피드를 가져오지 못했습니다: {e}")
             items = []
         matched = 0
+        defaulted = 0
         for it in items:
             category = classify(it["headline"] + " " + it["summary"])
+            if not category and default_category:
+                category = default_category
+                defaulted += 1
             if category:
                 buckets[category].append(it)
                 matched += 1
-        print(f"  → {source}: {len(items)}개 중 {matched}개 카테고리 분류 성공")
+        print(f"  → {source}: {len(items)}개 중 {matched}개 카테고리 분류 성공 (기본값 적용 {defaulted}개 포함)")
 
     try:
         ranking_urls = fetch_ranking_urls()
