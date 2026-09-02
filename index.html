@@ -297,8 +297,9 @@
     }[ch]));
   }
 
-  function cardHTML(item, tag){
+  function cardHTML(item, defaultTag){
     const url = /^https?:\/\//.test(item.url || '') ? item.url : '#';
+    const tag = item.tag || defaultTag;
     return `
       <article class="card">
         <span class="tag">${escapeHtml(tag)}</span>
