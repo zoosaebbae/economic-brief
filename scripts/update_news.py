@@ -15,6 +15,7 @@ import xml.etree.ElementTree as ET
 import re
 import json
 import datetime
+import html
 from email.utils import parsedate_to_datetime
 from zoneinfo import ZoneInfo
 
@@ -55,6 +56,7 @@ def clean(text):
         return ""
     text = re.sub(r"<!\[CDATA\[(.*?)\]\]>", r"\1", text, flags=re.S)
     text = re.sub(r"<[^>]+>", "", text)
+    text = html.unescape(text)
     text = re.sub(r"\s+", " ", text).strip()
     return text
 
