@@ -210,7 +210,7 @@
   <header>
     <div class="eyebrow">DAILY ECONOMIC BRIEF · 무료 발행</div>
     <h1>경제 브리프</h1>
-    <p class="sub">금융 · 증권 · 부동산 · 글로벌 경제 · 생활경제 · 고용 · 정책발표, 일곱 분야에서 꼭 필요한 기사만 두 편씩.</p>
+    <p class="sub">금융 · 증권 · 부동산 · 글로벌 경제 · 금리·물가 · 고용 · 정책발표, 일곱 분야에서 꼭 필요한 기사만 두 편씩.</p>
     <hr class="masthead-rule">
     <div class="dateline">
       <span id="today-date"></span>
@@ -251,9 +251,9 @@
     </section>
 
     <section>
-      <div class="cat-head"><span class="cat-num">V</span><h2 class="cat-title">생활경제</h2></div>
+      <div class="cat-head"><span class="cat-num">V</span><h2 class="cat-title">금리·물가</h2></div>
       <div class="cat-rule"></div>
-      <div class="grid" id="grid-life"></div>
+      <div class="grid" id="grid-rates"></div>
     </section>
 
     <section>
@@ -285,7 +285,7 @@
     securities:  { gridId: 'grid-securities',  tag: '증권'   },
     realestate:  { gridId: 'grid-realestate',  tag: '부동산' },
     global:      { gridId: 'grid-global',      tag: '글로벌' },
-    life:        { gridId: 'grid-life',        tag: '생활경제' },
+    rates:       { gridId: 'grid-rates',       tag: '금리·물가' },
     employment:  { gridId: 'grid-employment',  tag: '고용'   },
     policy:      { gridId: 'grid-policy',      tag: '정책발표' },
   };
@@ -361,7 +361,7 @@
       renderCategory('securities', data.securities);
       renderCategory('realestate', data.realestate);
       renderCategory('global', data.global);
-      renderCategory('life', data.life);
+      renderCategory('rates', data.rates);
       renderCategory('employment', data.employment);
       renderCategory('policy', data.policy);
 
