@@ -38,10 +38,10 @@ RANKING_LIMIT = 30
 KEYWORD_RULES = [
     ("realestate",  ["부동산", "아파트", "전세", "월세", "분양", "종부세", "양도세", "재건축", "재개발", "청약"]),
     ("employment",  ["취업", "실업", "채용", "구직", "구인", "일자리", "최저임금", "임금인상", "임금협상", "임금교섭", "임금체불", "고용률", "실업률"]),
-    ("life",        ["장바구니", "외식", "전기요금", "가스요금", "생활비", "프랜차이즈", "대형마트", "배달", "연말정산", "구독료", "택배"]),
+    ("rates",       ["금리", "물가", "환율", "기준금리", "소비자물가", "인플레이션", "디플레이션"]),
     ("securities",  ["코스피", "코스닥", "증시", "주가", "상장", "공모주", "ETF", "채권", "펀드",
                       "종목", "매수", "매도", "자사주", "특징주", "실적", "배당", "시총", "목표주가", "리포트", "장마감", "증권가"]),
-    ("finance",     ["은행", "대출", "보험", "카드", "예금", "적금", "금리", "물가", "환율", "핀테크", "금융위", "저축은행"]),
+    ("finance",     ["은행", "대출", "보험", "카드", "예금", "적금", "핀테크", "금융위", "저축은행"]),
     ("global",      ["연준", "미국", "중국", "유럽", "무역", "관세", "달러", "글로벌", "세계", "일본", "수출"]),
 ]
 
@@ -64,17 +64,6 @@ def classify(text):
             if kw.lower() in lower:
                 return category
     return None
-
-def finance_subtag(text):
-    """금융 카테고리 안에서 카드에 표시할 세부 태그(금리/물가/환율/금융)를 정한다."""
-    lower = text.lower()
-    if "금리" in lower:
-        return "금리"
-    if "물가" in lower:
-        return "물가"
-    if "환율" in lower:
-        return "환율"
-    return "금융"
 
 def clean(text):
     if not text:
@@ -186,7 +175,7 @@ def select_top2(items, ranking_rank_map):
 def main():
     buckets = {
         "finance": [], "securities": [], "realestate": [], "global": [],
-        "life": [], "employment": [], "policy": [],
+        "rates": [], "employment": [], "policy": [],
     }
 
     for url, source, category in DIRECT_FEEDS:
@@ -232,11 +221,7 @@ def main():
     result = {}
     for category, items in buckets.items():
         print(f"  [{category}] 후보 {len(items)}개")
-        selected = select_top2(items, ranking_rank_map)
-        if category == "finance":
-            for it in selected:
-                it["tag"] = finance_subtag(it["headline"] + " " + it["summary"])
-        result[category] = selected
+        result[category] = select_top2(items, ranking_rank_map)
 
     kst_now = datetime.datetime.now(ZoneInfo("Asia/Seoul"))
     result["updated_at"] = kst_now.strftime("%Y년 %m월 %d일 %H:%M 기준")
