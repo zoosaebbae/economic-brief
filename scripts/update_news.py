@@ -22,6 +22,8 @@ from zoneinfo import ZoneInfo
 DIRECT_FEEDS = [
     ("https://www.hankyung.com/feed/realestate",     "한국경제", "realestate"),
     ("https://www.hankyung.com/feed/international",  "한국경제", "global"),
+    ("https://mofe.go.kr/com/detailRssTagService.do?bbsId=MOSFBBS_000000000028", "기획재정부", "policy"),
+    ("https://www.moel.go.kr/rss/policy.do", "고용노동부", "employment"),
 ]
 
 CLASSIFY_FEEDS = [
@@ -34,14 +36,25 @@ RANKING_URL = "https://www.hankyung.com/ranking"
 RANKING_LIMIT = 30
 
 KEYWORD_RULES = [
-    ("realestate", ["부동산", "아파트", "전세", "월세", "분양", "종부세", "양도세", "재건축", "재개발", "청약"]),
-    ("life",       ["물가", "장바구니", "외식", "전기요금", "가스요금", "생활비", "프랜차이즈", "대형마트", "배달", "연말정산", "구독료", "택배"]),
-    ("securities", ["코스피", "코스닥", "증시", "주가", "상장", "공모주", "ETF", "채권", "펀드", "환율"]),
-    ("finance",    ["은행", "대출", "보험", "카드", "예금", "적금", "금리", "핀테크", "금융위", "저축은행"]),
-    ("global",     ["연준", "미국", "중국", "유럽", "무역", "관세", "달러", "글로벌", "세계", "일본", "수출"]),
+    ("realestate",  ["부동산", "아파트", "전세", "월세", "분양", "종부세", "양도세", "재건축", "재개발", "청약"]),
+    ("employment",  ["취업", "실업", "채용", "구직", "구인", "일자리", "임금", "최저임금", "고용률", "실업률"]),
+    ("life",        ["장바구니", "외식", "전기요금", "가스요금", "생활비", "프랜차이즈", "대형마트", "배달", "연말정산", "구독료", "택배"]),
+    ("securities",  ["코스피", "코스닥", "증시", "주가", "상장", "공모주", "ETF", "채권", "펀드"]),
+    ("finance",     ["은행", "대출", "보험", "카드", "예금", "적금", "금리", "물가", "환율", "핀테크", "금융위", "저축은행"]),
+    ("global",      ["연준", "미국", "중국", "유럽", "무역", "관세", "달러", "글로벌", "세계", "일본", "수출"]),
 ]
 
 STOPWORDS = {"오늘", "기자", "단독", "속보", "영상", "포토", "인터뷰", "현장", "특파원", "종합", "업데이트", "논란"}
+
+# 경제와 무관하거나 연예/가십성으로 흐르는 기사는 카테고리 매칭이 되더라도 제외
+EXCLUDE_KEYWORDS = [
+    "유튜브", "유튜버", "인플루언서", "구독자", "연예인", "배우", "가수", "아이돌",
+    "스타", "셀럽", "예능", "드라마", "결혼", "이혼", "열애", "임신", "출산",
+]
+
+def is_excluded(text):
+    lower = text.lower()
+    return any(kw.lower() in lower for kw in EXCLUDE_KEYWORDS)
 
 def classify(text):
     lower = text.lower()
@@ -159,7 +172,10 @@ def select_top2(items, ranking_rank_map):
     return selected
 
 def main():
-    buckets = {"finance": [], "securities": [], "realestate": [], "global": [], "life": []}
+    buckets = {
+        "finance": [], "securities": [], "realestate": [], "global": [],
+        "life": [], "employment": [], "policy": [],
+    }
 
     for url, source, category in DIRECT_FEEDS:
         try:
@@ -167,6 +183,7 @@ def main():
         except Exception as e:
             print(f"[경고] {source}({category}) 피드를 가져오지 못했습니다: {e}")
             items = []
+        items = [it for it in items if not is_excluded(it["headline"] + " " + it["summary"])]
         buckets[category].extend(items)
 
     for url, source, default_category in CLASSIFY_FEEDS:
@@ -177,15 +194,20 @@ def main():
             items = []
         matched = 0
         defaulted = 0
+        excluded_count = 0
         for it in items:
-            category = classify(it["headline"] + " " + it["summary"])
+            text = it["headline"] + " " + it["summary"]
+            if is_excluded(text):
+                excluded_count += 1
+                continue
+            category = classify(text)
             if not category and default_category:
                 category = default_category
                 defaulted += 1
             if category:
                 buckets[category].append(it)
                 matched += 1
-        print(f"  → {source}: {len(items)}개 중 {matched}개 카테고리 분류 성공 (기본값 적용 {defaulted}개 포함)")
+        print(f"  → {source}: {len(items)}개 중 {matched}개 카테고리 분류 성공 (기본값 적용 {defaulted}개, 가십/무관 제외 {excluded_count}개)")
 
     try:
         ranking_urls = fetch_ranking_urls()
