@@ -1,11 +1,14 @@
 """
 매일 아침 GitHub Actions가 이 스크립트를 실행해서 news.json을 갱신합니다.
-- 외부 유료 API를 전혀 쓰지 않습니다 (RSS만 사용, 무료/키 불필요)
+- 외부 유료 API를 전혀 쓰지 않습니다 (RSS + 한국경제 랭킹페이지만 사용, 무료/키 불필요)
 - 표준 라이브러리만 사용하므로 별도 설치가 필요 없습니다
 
-소스 구성
-- 한국경제: 카테고리별 RSS가 있어서 그대로 매핑 (finance→stocks, international→global, it→industry, realestate→realestate)
-- 연합뉴스: 카테고리별 RSS가 없어서 경제 전체 피드를 가져온 뒤 키워드로 분류
+카테고리(네이버뉴스 경제 섹션 참고): 금융 / 증권 / 부동산 / 글로벌경제 / 생활경제
+
+기사 2개 선정 기준 (진짜 조회수 데이터는 무료로 구할 수 없어서 이렇게 근사합니다)
+  1순위: 한국경제 실제 랭킹(조회순 상위 30) + 다른 언론사도 같이 다룬 주제 (교집합)
+  2순위: 랭킹 여부와 무관하게, 2곳 이상 언론사가 동시에 다룬 주제
+  3순위: 그래도 부족하면 최신순으로 나머지 채움
 """
 import urllib.request
 import xml.etree.ElementTree as ET
@@ -15,26 +18,29 @@ import datetime
 from email.utils import parsedate_to_datetime
 from zoneinfo import ZoneInfo
 
-# 카테고리가 이미 정해진 피드 (source, category)
-CATEGORIZED_FEEDS = [
-    ("https://www.hankyung.com/feed/finance",       "한국경제", "stocks"),
-    ("https://www.hankyung.com/feed/international", "한국경제", "global"),
-    ("https://www.hankyung.com/feed/it",             "한국경제", "industry"),
+DIRECT_FEEDS = [
     ("https://www.hankyung.com/feed/realestate",     "한국경제", "realestate"),
+    ("https://www.hankyung.com/feed/international",  "한국경제", "global"),
 ]
 
-# 카테고리 없이 통으로 오는 피드 (키워드로 자동 분류)
-UNCATEGORIZED_FEEDS = [
+CLASSIFY_FEEDS = [
+    ("https://www.hankyung.com/feed/finance", "한국경제"),
     ("https://www.yna.co.kr/rss/economy.xml", "연합뉴스"),
+    ("https://www.mk.co.kr/rss/30100041/",    "매일경제"),
 ]
 
-# 키워드 → 카테고리 매핑 (위에서부터 먼저 매칭되는 카테고리로 분류)
+RANKING_URL = "https://www.hankyung.com/ranking"
+RANKING_LIMIT = 30
+
 KEYWORD_RULES = [
     ("realestate", ["부동산", "아파트", "전세", "월세", "분양", "종부세", "양도세", "재건축", "재개발", "청약"]),
-    ("stocks",     ["코스피", "코스닥", "증시", "주가", "환율", "채권", "펀드", "ETF", "상장"]),
-    ("industry",   ["반도체", "삼성전자", "sk하이닉스", "SK하이닉스", "자동차", "조선", "수출", "생산", "공장", "산업"]),
-    ("global",     ["연준", "미국", "중국", "유럽", "무역", "금리", "관세", "달러", "글로벌", "세계"]),
+    ("life",       ["물가", "장바구니", "외식", "전기요금", "가스요금", "생활비", "프랜차이즈", "대형마트", "배달", "연말정산", "구독료", "택배"]),
+    ("securities", ["코스피", "코스닥", "증시", "주가", "상장", "공모주", "ETF", "채권", "펀드", "환율"]),
+    ("finance",    ["은행", "대출", "보험", "카드", "예금", "적금", "금리", "핀테크", "금융위", "저축은행"]),
+    ("global",     ["연준", "미국", "중국", "유럽", "무역", "관세", "달러", "글로벌", "세계", "일본", "수출"]),
 ]
+
+STOPWORDS = {"오늘", "기자", "단독", "속보", "영상", "포토", "인터뷰", "현장", "특파원", "종합", "업데이트", "논란"}
 
 def classify(text):
     lower = text.lower()
@@ -57,9 +63,6 @@ def fetch_items(url, source):
     with urllib.request.urlopen(req, timeout=15) as resp:
         data = resp.read()
     root = ET.fromstring(data)
-
-    # RSS 2.0(<item>)뿐 아니라 RSS 1.0/RDF(네임스페이스 붙은 item)도 잡아내기 위해
-    # 태그 이름의 네임스페이스 부분을 떼고 'item'인 요소를 전부 찾는다.
     raw_items = [el for el in root.iter() if el.tag.split('}')[-1] == 'item']
 
     def get_child_text(el, name):
@@ -96,10 +99,67 @@ def fetch_items(url, source):
     print(f"  → {source} ({url}): {len(results)}개 항목 파싱됨")
     return results
 
-def main():
-    buckets = {"stocks": [], "global": [], "industry": [], "realestate": []}
+def fetch_ranking_urls(limit=RANKING_LIMIT):
+    """한국경제 랭킹뉴스 페이지에서 실제 조회순 상위 기사 URL을 순서대로 추출."""
+    req = urllib.request.Request(RANKING_URL, headers={"User-Agent": "Mozilla/5.0"})
+    with urllib.request.urlopen(req, timeout=15) as resp:
+        html = resp.read().decode("utf-8", errors="ignore")
+    found = re.findall(r'href="(https://www\.hankyung\.com/article/[0-9A-Za-z]+)"', html)
+    ordered = []
+    for u in found:
+        if u not in ordered:
+            ordered.append(u)
+        if len(ordered) >= limit:
+            break
+    return ordered
 
-    for url, source, category in CATEGORIZED_FEEDS:
+def tokenize(text):
+    tokens = re.split(r"[\s,·'\"\[\]\(\):…\-/]+", text)
+    return {t for t in tokens if len(t) >= 2 and t not in STOPWORDS}
+
+def mark_cross_source(items):
+    """다른 언론사 기사와 headline/summary에 겹치는 키워드가 있으면 같은 주제로 보고 표시."""
+    token_sets = [tokenize(it["headline"] + " " + it["summary"]) for it in items]
+    for i, item in enumerate(items):
+        item["_cross_source"] = False
+        for j, other in enumerate(items):
+            if i == j or item["source"] == other["source"]:
+                continue
+            if token_sets[i] & token_sets[j]:
+                item["_cross_source"] = True
+                break
+
+def select_top2(items, ranking_rank_map):
+    for it in items:
+        it["_rank"] = ranking_rank_map.get(it["url"])
+        it["_in_ranking"] = it["_rank"] is not None
+    mark_cross_source(items)
+
+    tier1_ids, tier2_ids = set(), set()
+    tier1 = [it for it in items if it["_in_ranking"] and it["_cross_source"]]
+    tier1_ids = {id(it) for it in tier1}
+    tier2 = [it for it in items if id(it) not in tier1_ids and it["_cross_source"]]
+    tier2_ids = {id(it) for it in tier2}
+    tier3 = [it for it in items if id(it) not in tier1_ids and id(it) not in tier2_ids]
+
+    tier1.sort(key=lambda x: x["_rank"])
+    epoch = datetime.datetime.min.replace(tzinfo=datetime.timezone.utc)
+    tier2.sort(key=lambda x: x["_date"] or epoch, reverse=True)
+    tier3.sort(key=lambda x: x["_date"] or epoch, reverse=True)
+
+    ordered = tier1 + tier2 + tier3
+    print(f"    (교집합 {len(tier1)}개 / 복수언론 {len(tier2)}개 / 나머지 {len(tier3)}개 중 상위 2개 채택)")
+
+    selected = ordered[:2]
+    for it in selected:
+        for k in ("_date", "_rank", "_in_ranking", "_cross_source"):
+            it.pop(k, None)
+    return selected
+
+def main():
+    buckets = {"finance": [], "securities": [], "realestate": [], "global": [], "life": []}
+
+    for url, source, category in DIRECT_FEEDS:
         try:
             items = fetch_items(url, source)
         except Exception as e:
@@ -107,7 +167,7 @@ def main():
             items = []
         buckets[category].extend(items)
 
-    for url, source in UNCATEGORIZED_FEEDS:
+    for url, source in CLASSIFY_FEEDS:
         try:
             items = fetch_items(url, source)
         except Exception as e:
@@ -121,12 +181,18 @@ def main():
                 matched += 1
         print(f"  → {source}: {len(items)}개 중 {matched}개 카테고리 분류 성공")
 
+    try:
+        ranking_urls = fetch_ranking_urls()
+        ranking_rank_map = {u: i + 1 for i, u in enumerate(ranking_urls)}
+        print(f"  → 한국경제 랭킹뉴스: {len(ranking_rank_map)}개 URL 확보")
+    except Exception as e:
+        print(f"[경고] 랭킹뉴스 페이지를 가져오지 못했습니다: {e}")
+        ranking_rank_map = {}
+
     result = {}
     for category, items in buckets.items():
-        items.sort(key=lambda x: x["_date"] or datetime.datetime.min.replace(tzinfo=datetime.timezone.utc), reverse=True)
-        for it in items:
-            it.pop("_date", None)
-        result[category] = items[:2]
+        print(f"  [{category}] 후보 {len(items)}개")
+        result[category] = select_top2(items, ranking_rank_map)
 
     kst_now = datetime.datetime.now(ZoneInfo("Asia/Seoul"))
     result["updated_at"] = kst_now.strftime("%Y년 %m월 %d일 %H:%M 기준")
