@@ -210,7 +210,7 @@
   <header>
     <div class="eyebrow">DAILY ECONOMIC BRIEF · 무료 발행</div>
     <h1>경제 브리프</h1>
-    <p class="sub">금융 · 증권 · 부동산 · 글로벌 경제 · 생활경제, 다섯 분야에서 꼭 필요한 기사만 두 편씩.</p>
+    <p class="sub">금융 · 증권 · 부동산 · 글로벌 경제 · 생활경제 · 고용 · 정책발표, 일곱 분야에서 꼭 필요한 기사만 두 편씩.</p>
     <hr class="masthead-rule">
     <div class="dateline">
       <span id="today-date"></span>
@@ -255,6 +255,18 @@
       <div class="cat-rule"></div>
       <div class="grid" id="grid-life"></div>
     </section>
+
+    <section>
+      <div class="cat-head"><span class="cat-num">VI</span><h2 class="cat-title">고용</h2></div>
+      <div class="cat-rule"></div>
+      <div class="grid" id="grid-employment"></div>
+    </section>
+
+    <section>
+      <div class="cat-head"><span class="cat-num">VII</span><h2 class="cat-title">정책발표</h2></div>
+      <div class="cat-rule"></div>
+      <div class="grid" id="grid-policy"></div>
+    </section>
   </main>
 
   <footer>
@@ -274,6 +286,8 @@
     realestate:  { gridId: 'grid-realestate',  tag: '부동산' },
     global:      { gridId: 'grid-global',      tag: '글로벌' },
     life:        { gridId: 'grid-life',        tag: '생활경제' },
+    employment:  { gridId: 'grid-employment',  tag: '고용'   },
+    policy:      { gridId: 'grid-policy',      tag: '정책발표' },
   };
 
   function escapeHtml(str){
@@ -347,6 +361,8 @@
       renderCategory('realestate', data.realestate);
       renderCategory('global', data.global);
       renderCategory('life', data.life);
+      renderCategory('employment', data.employment);
+      renderCategory('policy', data.policy);
 
       status.textContent = data.updated_at ? data.updated_at + ' 업데이트' : '업데이트 완료';
     }catch(err){
