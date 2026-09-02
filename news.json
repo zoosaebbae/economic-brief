@@ -1,18 +1,16 @@
 {
   "finance": [
     {
-      "headline": "유가 급등·대외금리 상승에 국고채 금리↑…3년물 연 3.930%(종합)",
-      "summary": "(서울=연합뉴스) 고은지 기자 = 국제유가 급등과 대외금리 상승의 여파로 국고채 금리가 2일 일제히 올랐다.",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20260902149651008",
-      "tag": "금리"
+      "headline": "K바이오·조선·방산 눈독 들이는 외국인…삼전닉스 리밸런싱도 끝물",
+      "summary": "K바이오·조선·방산 눈독 들이는 외국인…삼전닉스 리밸런싱도 끝물",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/202609029537i"
     },
     {
-      "headline": "국고채 금리 일제히 상승…3년물 연 3.930%",
-      "summary": "(서울=연합뉴스) 2일 국고채 금리가 일제히 상승했다.",
+      "headline": "2분기 외국인 국내 카드사용 48.6억달러 '역대 최대'…36% 증가",
+      "summary": "(서울=연합뉴스) 박수현 기자 = 올해 2분기 외국인 관광객이 늘어나면서 비거주자의 카드 국내 사용액이 역대 최대치를 기록했다.",
       "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20260902149600008",
-      "tag": "금리"
+      "url": "https://www.yna.co.kr/view/AKR20260902067700002"
     }
   ],
   "securities": [
@@ -57,12 +55,18 @@
       "url": "https://www.hankyung.com/article/2026090203311"
     }
   ],
-  "life": [
+  "rates": [
     {
-      "headline": "\"치킨집 맛을 가정에서도…식품업계, 냉동 간편식 확대",
-      "summary": "(서울=연합뉴스) 김세린 기자 = 식품업계가 치킨 프랜차이즈의 인기 메뉴를 활용하거나 배달 치킨의 맛과 식감을 구현한 냉동 간편식을 선보이며 관...",
+      "headline": "유가 급등·대외금리 상승에 국고채 금리↑…3년물 연 3.930%(종합)",
+      "summary": "(서울=연합뉴스) 고은지 기자 = 국제유가 급등과 대외금리 상승의 여파로 국고채 금리가 2일 일제히 올랐다.",
       "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20260902063700030"
+      "url": "https://www.yna.co.kr/view/AKR20260902149651008"
+    },
+    {
+      "headline": "국고채 금리 일제히 상승…3년물 연 3.930%",
+      "summary": "(서울=연합뉴스) 2일 국고채 금리가 일제히 상승했다.",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20260902149600008"
     }
   ],
   "employment": [
@@ -79,6 +83,19 @@
       "url": "https://www.yna.co.kr/view/AKR20260902114600053"
     }
   ],
-  "policy": [],
-  "updated_at": "2026년 09월 02일 20:10 기준"
+  "policy": [
+    {
+      "headline": "구윤철 부총리, 주요 20개국(G20) 재무장관회의 참석 및 주요인사 면담 결과",
+      "summary": "구윤철 부총리, 주요 20개국(G20) 재무장관회의 참석 및 주요인사 면담 결과",
+      "source": "기획재정부",
+      "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079225"
+    },
+    {
+      "headline": "'26.8월 소비자물가 동향",
+      "summary": "'26.8월 소비자물가 동향",
+      "source": "기획재정부",
+      "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079207"
+    }
+  ],
+  "updated_at": "2026년 09월 02일 20:17 기준"
 }
