@@ -4,27 +4,29 @@
       "headline": "유가 급등·대외금리 상승에 국고채 금리↑…3년물 연 3.930%(종합)",
       "summary": "(서울=연합뉴스) 고은지 기자 = 국제유가 급등과 대외금리 상승의 여파로 국고채 금리가 2일 일제히 올랐다.",
       "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20260902149651008"
+      "url": "https://www.yna.co.kr/view/AKR20260902149651008",
+      "tag": "금리"
     },
     {
       "headline": "국고채 금리 일제히 상승…3년물 연 3.930%",
       "summary": "(서울=연합뉴스) 2일 국고채 금리가 일제히 상승했다.",
       "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20260902149600008"
+      "url": "https://www.yna.co.kr/view/AKR20260902149600008",
+      "tag": "금리"
     }
   ],
   "securities": [
     {
-      "headline": "7월 급락 트라우마에 위축된 개미, 순매수 두 달새 10분의 1로",
-      "summary": "7월 급락 트라우마에 위축된 개미, 순매수 두 달새 10분의 1로",
+      "headline": "'코스닥 활성화' 위해 출시됐지만…정부, BDC 세제혜택 줄인 이유는",
+      "summary": "'코스닥 활성화' 위해 출시됐지만…정부, BDC 세제혜택 줄인 이유는",
       "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026090203581"
+      "url": "https://www.hankyung.com/article/202609020470i"
     },
     {
-      "headline": "개인도, 외인도, 기관도 안 산다…코스피, 역대 최악의 '수급 공백'",
-      "summary": "개인도, 외인도, 기관도 안 산다…코스피, 역대 최악의 '수급 공백'",
+      "headline": "\"9월엔 주식 쉬어야 하나\"…26년간 코스피 수익률 따져보니 [분석+]",
+      "summary": "\"9월엔 주식 쉬어야 하나\"…26년간 코스피 수익률 따져보니 [분석+]",
       "source": "한국경제",
-      "url": "https://www.hankyung.com/article/202609028998i"
+      "url": "https://www.hankyung.com/article/2026090294426"
     }
   ],
   "realestate": [
@@ -43,16 +45,16 @@
   ],
   "global": [
     {
+      "headline": "35년만 '美日 동시 긴축' 베팅…글로벌 자금줄 불안에 시장 얼었다 [빈난새의 빈틈없이마켓]",
+      "summary": "35년만 '美日 동시 긴축' 베팅…글로벌 자금줄 불안에 시장 얼었다 [빈난새의 빈틈없이마켓]",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/202609020146i"
+    },
+    {
       "headline": "'달러 코인'으로 뭉친 21개 글로벌 금융사…외환결제 판 흔든다",
       "summary": "'달러 코인'으로 뭉친 21개 글로벌 금융사…외환결제 판 흔든다",
       "source": "한국경제",
       "url": "https://www.hankyung.com/article/2026090203311"
-    },
-    {
-      "headline": "日 관세담판 직전, 트럼프 마음 움직인 비책은",
-      "summary": "日 관세담판 직전, 트럼프 마음 움직인 비책은",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026090203761"
     }
   ],
   "life": [
@@ -77,19 +79,6 @@
       "url": "https://www.yna.co.kr/view/AKR20260902114600053"
     }
   ],
-  "policy": [
-    {
-      "headline": "구윤철 부총리, 주요 20개국(G20) 재무장관회의 참석 및 주요인사 면담 결과",
-      "summary": "구윤철 부총리, 주요 20개국(G20) 재무장관회의 참석 및 주요인사 면담 결과",
-      "source": "기획재정부",
-      "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079225"
-    },
-    {
-      "headline": "'26.8월 소비자물가 동향",
-      "summary": "'26.8월 소비자물가 동향",
-      "source": "기획재정부",
-      "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079207"
-    }
-  ],
-  "updated_at": "2026년 09월 02일 20:03 기준"
+  "policy": [],
+  "updated_at": "2026년 09월 02일 20:10 기준"
 }
