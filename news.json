@@ -1,101 +1,101 @@
 {
   "finance": [
     {
-      "headline": "\"삼전닉스 더 떨어지면 큰일인데\"…'운명의 3일' 무슨 일이 [분석+]",
-      "summary": "\"삼전닉스 더 떨어지면 큰일인데\"…'운명의 3일' 무슨 일이 [분석+]",
+      "headline": "'AI 코딩' 확산 힘입어…美 스노플레이크 급등",
+      "summary": "'AI 코딩' 확산 힘입어…美 스노플레이크 급등",
       "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026090298976"
+      "url": "https://www.hankyung.com/article/2026090328141"
     },
     {
-      "headline": "금융위 2차 망분리 규제 완화…선정기관 10개→15개사 확대",
-      "summary": "(서울=연합뉴스) 김지연 기자 = 금융당국이 보안 목적의 인공지능(AI) 활용을 위한 2차 망분리 규제 완화 테스트를 추진하고 1차보다 신청 자...",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20260903109300002"
+      "headline": "히타치 'AI 컨설팅 기업'으로 변신...전문 인력 5000명 육성",
+      "summary": "히타치 'AI 컨설팅 기업'으로 변신...전문 인력 5000명 육성",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/202609032914i"
     }
   ],
   "securities": [
     {
-      "headline": "개인도, 외인도, 기관도 안 산다…코스피, 역대 최악의 '수급 공백'",
-      "summary": "개인도, 외인도, 기관도 안 산다…코스피, 역대 최악의 '수급 공백'",
+      "headline": "\"한국, 알래스카로 간다\" 트럼프 한마디에…상한가 친 종목",
+      "summary": "\"한국, 알래스카로 간다\" 트럼프 한마디에…상한가 친 종목",
       "source": "한국경제",
-      "url": "https://www.hankyung.com/article/202609028998i"
+      "url": "https://www.hankyung.com/article/202609032315i"
     },
     {
-      "headline": "수출실적 조작해 부정상장·보조금 편취…관세청 특수단 뜬다",
-      "summary": "(세종=연합뉴스) 안채원 기자 = 관세청이 수출입 실적을 조작해 주식시장에 부정 상장하거나 정부 보조금·정책금융 등을 편취하는 단속하는 특별수사...",
+      "headline": "한투증권, 실리콘투 목표가↑…\"유럽 내 화장품 수요 증가\"",
+      "summary": "(서울=연합뉴스) 이민영 기자 = 한국투자증권은 4일 실리콘투[257720]에 대해 유럽 내 한국 화장품 수요 증가에 따른 실적 개선이 기대된다...",
       "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20260903116800002"
+      "url": "https://www.yna.co.kr/view/AKR20260904025600008"
     }
   ],
   "realestate": [
     {
-      "headline": "항만 재개발사업 상부시설 조성에 공공기관 참여한다",
-      "summary": "(부산=연합뉴스) 이영재 기자 = 항만 재개발 사업에서 항만공사 등 공공기관이 상부 시설 조성에 참여할 수 있도록 관련법이 개정됐다.",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20260903112300051"
+      "headline": "2030 '이 동네' 몰리더니…\"8개월 만에 3억 뛰었다\" 한숨",
+      "summary": "2030 '이 동네' 몰리더니…\"8개월 만에 3억 뛰었다\" 한숨",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026090315666"
     },
     {
-      "headline": "서울 아파트 매매가 상승폭 3주만에 축소…강남·서초 낙폭 확대",
-      "summary": "(서울=연합뉴스) 임기창 기자 = 서울 아파트 주간 평균 매매가격 상승폭이 3주 만에 다시 축소됐다. 강남권 고가 지역은 낙폭을 확대하며 약세를...",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20260903095800003"
+      "headline": "서울 신축인데 \"대출 70% 나옵니다\"…사람들 우르르 몰렸다 [현장+]",
+      "summary": "서울 신축인데 \"대출 70% 나옵니다\"…사람들 우르르 몰렸다 [현장+]",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026090315426"
     }
   ],
   "global": [
     {
-      "headline": "[동포의 창] 세계한상대회 이달말 인천서…한상·국내 기업 한자리에",
-      "summary": "(서울=연합뉴스) 강성철 기자 = 전 세계 한인 경제인과 국내 기업이 만나는 '제24차 세계한상대회'가 한 달 앞으로 다가왔다.",
+      "headline": "7월 경상수지 420.8억달러 흑자…반도체 호황에 동월 역대 최대",
+      "summary": "(서울=연합뉴스) 한지훈 기자 = 반도체 수출 호조 지속에 힘입어 우리나라 7월 경상수지가 동월 기준 역대 최대 흑자를 기록했다.",
       "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20260903119100371"
+      "url": "https://www.yna.co.kr/view/AKR20260904017900002"
     },
     {
-      "headline": "전남광주 김치 1.5t 미국 수출길…10월에는 영국에도",
-      "summary": "(전남광주=연합뉴스) 장덕종 기자 = 전남광주에서 생산된 김치가 미국과 영국 수출길에 오른다.",
+      "headline": "[머니톡스] 외국인 소문의 진실…다음 파티가 열리기 전 해야 할 일",
+      "summary": "(서울=연합뉴스) 윤선희 선임기자 = ＃ 올해 상반기 누적 경상수지 흑자와 반도체 수출이 사상 최고치를 갈아치웠다는 승전보가 잇따랐다. 그러나 ...",
       "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20260903119700054"
+      "url": "https://www.yna.co.kr/view/AKR20260903031200546"
     }
   ],
   "rates": [
     {
-      "headline": "금리 다시 오른다…은행주, 반등 타진 [종목+]",
-      "summary": "금리 다시 오른다…은행주, 반등 타진 [종목+]",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026090309926"
+      "headline": "[마켓뷰] 美 증시 상승·금리 부담 완화…코스피, 상승세 이어가나",
+      "summary": "(서울=연합뉴스) 김유아 기자 = 그간 글로벌 증시를 짓누르던 기준금리 인상 가능성이 간밤 다소나마 옅어지며 뉴욕증시 3대 지수가 모두 상승했다...",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20260904021300008"
     },
     {
-      "headline": "국고채 금리 일제히 하락…3년물 장중 연 3.910%",
-      "summary": "(서울=연합뉴스) 3일 국고채 금리가 일제히 하락하고 있다.",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20260903089500008"
+      "headline": "월러 '금리 동결' 시사에 동반 상승…나스닥 1.4%↑ [뉴욕증시 브리핑]",
+      "summary": "월러 '금리 동결' 시사에 동반 상승…나스닥 1.4%↑ [뉴욕증시 브리핑]",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026090433366"
     }
   ],
   "employment": [
     {
-      "headline": "노동장관, 10대그룹 인사책임자에 \"청년일자리 확대 노력해달라\"",
-      "summary": "(서울=연합뉴스) 한혜원 기자 = 김영훈 고용노동부 장관은 3일 국내 10대 그룹 최고인사책임자(CHO)에게 \"청년 일자리 기회 확대를 위해 기...",
+      "headline": "GS리테일, 하반기 신입사원 채용…21일까지 원서 접수",
+      "summary": "(서울=연합뉴스) 정수연 기자 = GS리테일은 2026년 하반기 신입사원을 공개 채용한다고 4일 밝혔다.",
       "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20260903063300530"
+      "url": "https://www.yna.co.kr/view/AKR20260904024000030"
     },
     {
-      "headline": "청년이라면 한 번쯤 꼭 읽어야 할 '알기 쉬운 청년 정책.zip'",
-      "summary": "청년이라면 한 번쯤 꼭 읽어야 할 '알기 쉬운 청년 정책.zip'",
-      "source": "고용노동부",
-      "url": "https://www.moel.go.kr/policy/policydata/view.do?bbs_seq=20260700851"
+      "headline": "포천시, 제대군인 대상 '지게차 운전기능사 취득 과정' 운영",
+      "summary": "(포천=연합뉴스) 노승혁 기자 = 경기 포천시는 1일부터 제대군인과 구직자를 위한 '지게차운전기능사 자격취득 교육과정'을 운영하고 있다고 3일 ...",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20260903135800060"
     }
   ],
   "policy": [
     {
-      "headline": "비상경제본부 회의 개최",
-      "summary": "비상경제본부 회의 개최",
+      "headline": "홈플러스 관련 관계기관 전담반(TF) 회의 개최",
+      "summary": "홈플러스 관련 관계기관 전담반(TF) 회의 개최",
       "source": "기획재정부",
-      "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079230"
+      "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079241"
     },
     {
-      "headline": "한-세계은행 협력기금 성과공유 행사 개최",
-      "summary": "한-세계은행 협력기금 성과공유 행사 개최",
+      "headline": "(26.09.03)_수출플러스지원단 강원지역 수출 플러스 간담회 개최",
+      "summary": "(26.09.03)_수출플러스지원단 강원지역 수출 플러스 간담회 개최",
       "source": "기획재정부",
-      "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079227"
+      "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079239"
     }
   ],
-  "updated_at": "2026년 09월 03일 15:06 기준"
+  "updated_at": "2026년 09월 04일 08:45 기준"
 }
