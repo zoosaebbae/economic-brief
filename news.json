@@ -1,30 +1,30 @@
 {
   "finance": [
     {
-      "headline": "가계대출 반년 만에 감소…정책대출 빼면 증가세 지속",
-      "summary": "(서울=연합뉴스) 한지훈 이도흔 기자 = 주요 시중은행 가계대출 잔액이 이달 들어 모처럼 감소했다. 정부가 가계대출 총량 규제를 완화했지만, 은...",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20260905028800002"
+      "headline": "30조 '잭팟' 터지나…대미투자 1호 소식에 발전株 불붙었다",
+      "summary": "30조 '잭팟' 터지나…대미투자 1호 소식에 발전株 불붙었다",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/202609078995i"
     },
     {
-      "headline": "삼전닉스부터 BTS 음원까지 토큰증권으로...'온체인 금융' 시대 첫발",
-      "summary": "삼전닉스부터 BTS 음원까지 토큰증권으로...'온체인 금융' 시대 첫발",
+      "headline": "\"DB하이텍, 中 AI·로봇 폭발적 성장 수혜주…목표가 20만원\"-KB",
+      "summary": "\"DB하이텍, 中 AI·로봇 폭발적 성장 수혜주…목표가 20만원\"-KB",
       "source": "한국경제",
-      "url": "https://www.hankyung.com/article/202609044991i"
+      "url": "https://www.hankyung.com/article/2026090899846"
     }
   ],
   "securities": [
     {
-      "headline": "증시 활력 떨어지는데...고액자산가 쓸어담은 종목은",
-      "summary": "증시 활력 떨어지는데...고액자산가 쓸어담은 종목은",
+      "headline": "\"매달 10% 분배금 따박따박\"…개미들 수백억씩 베팅하는 ETF",
+      "summary": "\"매달 10% 분배금 따박따박\"…개미들 수백억씩 베팅하는 ETF",
       "source": "한국경제",
-      "url": "https://www.hankyung.com/article/202609066472i"
+      "url": "https://www.hankyung.com/article/202609078951i"
     },
     {
-      "headline": "한투증권, S-Oil 목표가↑…\"정유가 상승에 실적 가시성 높아져\"",
-      "summary": "(서울=연합뉴스) 임은진 기자 = 한국투자증권은 7일 S-Oil[010950]에 대해 정유 가격 상승에 따라 실적 가시성이 높아졌다면서 목표주가...",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20260907018900008"
+      "headline": "내년 1600조 쏟아붓는다…\"코스피 1만2000\" 이유 있는 베팅",
+      "summary": "내년 1600조 쏟아붓는다…\"코스피 1만2000\" 이유 있는 베팅",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026090784446"
     }
   ],
   "realestate": [
@@ -35,54 +35,67 @@
       "url": "https://www.hankyung.com/article/2026090436616"
     },
     {
-      "headline": "빅뱅 대성 '14억'에 산 한강뷰 아파트…'100억' 됐다",
-      "summary": "빅뱅 대성 '14억'에 산 한강뷰 아파트…'100억' 됐다",
+      "headline": "서울 주택공급 '청신호'… 착공 44.4%↑, 인허가도 동반 증가",
+      "summary": "서울 주택공급 '청신호'… 착공 44.4%↑, 인허가도 동반 증가",
       "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026090453127"
+      "url": "https://www.hankyung.com/article/202609078881i"
     }
   ],
   "global": [
     {
-      "headline": "트럼프 \"미-캐나다 달러 불균형\"…관세 이어 환율까지 갈등",
-      "summary": "트럼프 \"미-캐나다 달러 불균형\"…관세 이어 환율까지 갈등",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026090772337"
+      "headline": "토스페이먼츠, 비자와 손잡았다…결제 보안·글로벌 경쟁력 강화",
+      "summary": "(서울=연합뉴스) 오지은 기자 = 토스의 전자지급결제대행(PG) 계열사 토스페이먼츠가 비자(Visa)와 업무협약(MOU)을 체결했다고 8일 밝혔...",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20260908023200017"
     },
     {
-      "headline": "중국 강타한 태풍 '사우델' 산사태 이어져…5명 사망·9명 실종",
-      "summary": "중국 강타한 태풍 '사우델' 산사태 이어져…5명 사망·9명 실종",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026090670957"
+      "headline": "2분기 명목 GDP 성장률 47년 만에 최고…실질 GDP는 0.6%↑",
+      "summary": "(서울=연합뉴스) 한지훈 기자 = 올해 2분기 한국 경제는 수출과 민간 소비가 함께 늘면서 견조한 성장세를 지속했다.",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20260908014500002"
     }
   ],
   "rates": [
     {
-      "headline": "트럼프 \"美-캐나다 달러 불균형\"…관세 이어 환율 건드리나",
-      "summary": "(워싱턴=연합뉴스) 홍정규 특파원 = 도널드 트럼프 미국 대통령이 미-캐나다 달러 환율을 문제 삼으면서 양국 간 '관세 전쟁'의 확전 가능성이 ...",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20260907001200071"
+      "headline": "\"작년 저점 깼다\"…1340원대로 하락한 환율, 단기 바닥은? [분석+]",
+      "summary": "\"작년 저점 깼다\"…1340원대로 하락한 환율, 단기 바닥은? [분석+]",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026090790556"
     },
     {
-      "headline": "환율·채권, 원·달러 환율 1350원대 안착할 듯",
-      "summary": "환율·채권, 원·달러 환율 1350원대 안착할 듯",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026090668841"
+      "headline": "약 2년만에 환율 1,330원대…국민연금 환헤지 중단에 낙폭 반납",
+      "summary": "(세종·서울=연합뉴스) 김수현 이도흔 기자 = 원/달러 환율은 7일 수출 업체의 달러화 매도(네고) 물량 영향으로 약 2년 만에 1,330원대까...",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20260907123600002"
     }
   ],
   "employment": [
     {
-      "headline": "부울경 일자리 사업 '광역이음 프로젝트' 출범…125억원 투입",
-      "summary": "(부산=연합뉴스) 김선호 기자 = 부산시와 울산시, 경남도는 오는 8일 오전 벡스코 제2전시장에서 '부·울·경 광역이음 프로젝트' 출범식을 연다...",
+      "headline": "농협중앙회, 5급 신규직원 공개 채용",
+      "summary": "(서울=연합뉴스) 한주홍 기자 = 농협중앙회는 5급 신규직원을 공개 채용한다고 8일 밝혔다.",
       "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20260907015100051"
+      "url": "https://www.yna.co.kr/view/AKR20260908019500030"
     },
     {
-      "headline": "\"실업 청년 2명 중 1명 '번아웃' 경험…진로 불안 완화해야\"",
-      "summary": "(서울=연합뉴스) 장하나 기자 = 실업 청년 2명 중 1명은 진로 불안 등의 이유로 '번아웃'(정서적 소진)에 시달리는 것으로 나타났다.",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20260906024000003"
+      "headline": "'26년 7월 중대재해사이렌(오픈채팅방) 자료 공개",
+      "summary": "'26년 7월 중대재해사이렌(오픈채팅방) 자료 공개",
+      "source": "고용노동부",
+      "url": "https://www.moel.go.kr/policy/policydata/view.do?bbs_seq=20260800487"
     }
   ],
-  "policy": [],
-  "updated_at": "2026년 09월 07일 08:27 기준"
+  "policy": [
+    {
+      "headline": "AI 시대 국방+제조+보안 전문가 한자리에 모여",
+      "summary": "AI 시대 국방+제조+보안 전문가 한자리에 모여",
+      "source": "기획재정부",
+      "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079266"
+    },
+    {
+      "headline": "\"해묵은 관행은 가라!\"...K-관광 신뢰 회복부터 AI 혁신까지, 2026년 상반기 적극행정 주역들",
+      "summary": "\"해묵은 관행은 가라!\"...K-관광 신뢰 회복부터 AI 혁신까지, 2026년 상반기 적극행정 주역들",
+      "source": "기획재정부",
+      "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079268"
+    }
+  ],
+  "updated_at": "2026년 09월 08일 08:56 기준"
 }
