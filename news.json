@@ -1,101 +1,101 @@
 {
   "finance": [
     {
-      "headline": "30조 '잭팟' 터지나…대미투자 1호 소식에 발전株 불붙었다",
-      "summary": "30조 '잭팟' 터지나…대미투자 1호 소식에 발전株 불붙었다",
+      "headline": "\"불붙은 AI 모델 경쟁…삼전닉스 최대 수혜\"",
+      "summary": "\"불붙은 AI 모델 경쟁…삼전닉스 최대 수혜\"",
       "source": "한국경제",
-      "url": "https://www.hankyung.com/article/202609078995i"
+      "url": "https://www.hankyung.com/article/2026090926416"
     },
     {
-      "headline": "\"DB하이텍, 中 AI·로봇 폭발적 성장 수혜주…목표가 20만원\"-KB",
-      "summary": "\"DB하이텍, 中 AI·로봇 폭발적 성장 수혜주…목표가 20만원\"-KB",
+      "headline": "\"AI 발목 잡는 건 따로 있다\"…8조 굴리는 美 운용사가 찍은 곳",
+      "summary": "\"AI 발목 잡는 건 따로 있다\"…8조 굴리는 美 운용사가 찍은 곳",
       "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026090899846"
+      "url": "https://www.hankyung.com/article/202609081709i"
     }
   ],
   "securities": [
     {
-      "headline": "\"매달 10% 분배금 따박따박\"…개미들 수백억씩 베팅하는 ETF",
-      "summary": "\"매달 10% 분배금 따박따박\"…개미들 수백억씩 베팅하는 ETF",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/202609078951i"
+      "headline": "대신증권 \"심텍, 3분기 실적 컨센서스 상회…성장 기반 확보\"",
+      "summary": "(서울=연합뉴스) 김태종 기자 = 대신증권은 9일 반도체용 인쇄회로기판 개발 제조 기업 심텍[222800]에 대해 3분기 매출과 영업이익이 시장...",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20260909027400008"
     },
     {
-      "headline": "내년 1600조 쏟아붓는다…\"코스피 1만2000\" 이유 있는 베팅",
-      "summary": "내년 1600조 쏟아붓는다…\"코스피 1만2000\" 이유 있는 베팅",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026090784446"
+      "headline": "DB증권 \"스카이라이프, 3분기 실적 악화 예상…목표가↓\"",
+      "summary": "(서울=연합뉴스) 이민영 기자 = DB증권은 9일 위성 방송 기업 스카이라이프[053210]에 대해 3분기 인터넷 기반 TV 서비스 가입자 감소...",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20260909027800008"
     }
   ],
   "realestate": [
     {
-      "headline": "3호선·9호선에 GTX까지 뚫린다?…서울 직장인 몰려간 동네 [철길옆집]",
-      "summary": "3호선·9호선에 GTX까지 뚫린다?…서울 직장인 몰려간 동네 [철길옆집]",
+      "headline": "\"동탄 놓쳤다면 여기?\"…GTX 타고 집값 들썩이는 '이 동네'",
+      "summary": "\"동탄 놓쳤다면 여기?\"…GTX 타고 집값 들썩이는 '이 동네'",
       "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026090436616"
+      "url": "https://www.hankyung.com/article/202609081151i"
     },
     {
-      "headline": "서울 주택공급 '청신호'… 착공 44.4%↑, 인허가도 동반 증가",
-      "summary": "서울 주택공급 '청신호'… 착공 44.4%↑, 인허가도 동반 증가",
+      "headline": "장기·기업형 임대 세제 지원 검토에…與 이언주 \"부당한 차별\"",
+      "summary": "장기·기업형 임대 세제 지원 검토에…與 이언주 \"부당한 차별\"",
       "source": "한국경제",
-      "url": "https://www.hankyung.com/article/202609078881i"
+      "url": "https://www.hankyung.com/article/202609092551H"
     }
   ],
   "global": [
     {
-      "headline": "토스페이먼츠, 비자와 손잡았다…결제 보안·글로벌 경쟁력 강화",
-      "summary": "(서울=연합뉴스) 오지은 기자 = 토스의 전자지급결제대행(PG) 계열사 토스페이먼츠가 비자(Visa)와 업무협약(MOU)을 체결했다고 8일 밝혔...",
+      "headline": "KB증권 \"AI 모델 경쟁 최대 수혜는 삼성전자·SK하이닉스\"",
+      "summary": "(서울=연합뉴스) 정회인 기자 = KB증권은 9일 글로벌 인공지능(AI) 모델의 성능 경쟁이 심화할수록 메모리 반도체 수요가 크게 늘어날 것이라...",
       "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20260908023200017"
+      "url": "https://www.yna.co.kr/view/AKR20260909028300008"
     },
     {
-      "headline": "2분기 명목 GDP 성장률 47년 만에 최고…실질 GDP는 0.6%↑",
-      "summary": "(서울=연합뉴스) 한지훈 기자 = 올해 2분기 한국 경제는 수출과 민간 소비가 함께 늘면서 견조한 성장세를 지속했다.",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20260908014500002"
+      "headline": "유가 100달러 역풍에도 반도체 급등했는데…MS \"모멘텀 마지막 불꽃\" [김현석의 월스트리트나우]",
+      "summary": "유가 100달러 역풍에도 반도체 급등했는데…MS \"모멘텀 마지막 불꽃\" [김현석의 월스트리트나우]",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/202609092480i"
     }
   ],
   "rates": [
     {
-      "headline": "\"작년 저점 깼다\"…1340원대로 하락한 환율, 단기 바닥은? [분석+]",
-      "summary": "\"작년 저점 깼다\"…1340원대로 하락한 환율, 단기 바닥은? [분석+]",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026090790556"
+      "headline": "[마켓뷰] 중동 불안에도 반도체 훈풍…'7천피' 탈환 재시도하나",
+      "summary": "(서울=연합뉴스) 김유향 기자 = 9일 코스피는 중동 지역의 지정학적 불안과 유가 상승, 미국 물가 지표 경계심이 이어지는 가운데 반도체 강세를...",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20260909023600008"
     },
     {
-      "headline": "약 2년만에 환율 1,330원대…국민연금 환헤지 중단에 낙폭 반납",
-      "summary": "(세종·서울=연합뉴스) 김수현 이도흔 기자 = 원/달러 환율은 7일 수출 업체의 달러화 매도(네고) 물량 영향으로 약 2년 만에 1,330원대까...",
+      "headline": "'긴축의 무게' 금리 0.5%p 오르면 가계 이자 연 6.5조원↑",
+      "summary": "(서울=연합뉴스) 한지훈 기자 = 한국은행이 두 달 연속 기준금리를 인상한 가운데 최근 금리 상승 폭을 단순 적용할 경우 가계의 연간 대출 이자...",
       "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20260907123600002"
+      "url": "https://www.yna.co.kr/view/AKR20260908155700002"
     }
   ],
   "employment": [
     {
-      "headline": "농협중앙회, 5급 신규직원 공개 채용",
-      "summary": "(서울=연합뉴스) 한주홍 기자 = 농협중앙회는 5급 신규직원을 공개 채용한다고 8일 밝혔다.",
+      "headline": "[게시판] NH농협은행, 장애인 재택근무직 '말벗상담원' 신규 채용",
+      "summary": "▲ NH농협은행은 장애인 재택근무직 '말벗상담원' 20명을 신규 채용하고, 안정적인 직무 적응을 지원하기 위한 비대면 직무교육을 했다고 8일 밝...",
       "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20260908019500030"
+      "url": "https://www.yna.co.kr/view/AKR20260908120800002"
     },
     {
-      "headline": "'26년 7월 중대재해사이렌(오픈채팅방) 자료 공개",
-      "summary": "'26년 7월 중대재해사이렌(오픈채팅방) 자료 공개",
-      "source": "고용노동부",
-      "url": "https://www.moel.go.kr/policy/policydata/view.do?bbs_seq=20260800487"
+      "headline": "충남도의회, 청년 면접 복장 구입비 지원 추진…최대 20만원",
+      "summary": "(홍성=연합뉴스) 김준범 기자 = 충남도의회가 취업을 준비하는 청년들의 경제적 부담을 덜기 위해 면접 복장 구매 비용을 지원하는 제도 마련에 나...",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20260908099500063"
     }
   ],
   "policy": [
     {
-      "headline": "AI 시대 국방+제조+보안 전문가 한자리에 모여",
-      "summary": "AI 시대 국방+제조+보안 전문가 한자리에 모여",
+      "headline": "제8차 한-아프리카 경제협력(KOAFEC) 장관회의 개최",
+      "summary": "제8차 한-아프리카 경제협력(KOAFEC) 장관회의 개최",
       "source": "기획재정부",
-      "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079266"
+      "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079282"
     },
     {
-      "headline": "\"해묵은 관행은 가라!\"...K-관광 신뢰 회복부터 AI 혁신까지, 2026년 상반기 적극행정 주역들",
-      "summary": "\"해묵은 관행은 가라!\"...K-관광 신뢰 회복부터 AI 혁신까지, 2026년 상반기 적극행정 주역들",
+      "headline": "국제 신용평가사 무디스(Moody's) 면담 결과",
+      "summary": "국제 신용평가사 무디스(Moody's) 면담 결과",
       "source": "기획재정부",
-      "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079268"
+      "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079279"
     }
   ],
-  "updated_at": "2026년 09월 08일 08:56 기준"
+  "updated_at": "2026년 09월 09일 08:48 기준"
 }
