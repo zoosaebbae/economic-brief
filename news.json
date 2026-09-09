@@ -1,101 +1,101 @@
 {
   "finance": [
     {
-      "headline": "\"불붙은 AI 모델 경쟁…삼전닉스 최대 수혜\"",
-      "summary": "\"불붙은 AI 모델 경쟁…삼전닉스 최대 수혜\"",
+      "headline": "\"한미약품, 로슈 손잡은 비만 신약 가치 1조…목표가↑\"-KB",
+      "summary": "\"한미약품, 로슈 손잡은 비만 신약 가치 1조…목표가↑\"-KB",
       "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026090926416"
+      "url": "https://www.hankyung.com/article/2026091052766"
     },
     {
-      "headline": "\"AI 발목 잡는 건 따로 있다\"…8조 굴리는 美 운용사가 찍은 곳",
-      "summary": "\"AI 발목 잡는 건 따로 있다\"…8조 굴리는 美 운용사가 찍은 곳",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/202609081709i"
+      "headline": "금감원, 보험사 '분쟁 민원 관리' 현장점검…KB·DB손보 첫 타자",
+      "summary": "(서울=연합뉴스) 강수련 기자 = 보험 분쟁 민원이 급증하자 금융당국이 보험사 분쟁 처리 실태 현장 점검에 나섰다.",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20260909186300002"
     }
   ],
   "securities": [
     {
-      "headline": "대신증권 \"심텍, 3분기 실적 컨센서스 상회…성장 기반 확보\"",
-      "summary": "(서울=연합뉴스) 김태종 기자 = 대신증권은 9일 반도체용 인쇄회로기판 개발 제조 기업 심텍[222800]에 대해 3분기 매출과 영업이익이 시장...",
+      "headline": "단일 레버리지 '음의 괴리율' 기준 초과했지만…72일만에 규정 정비",
+      "summary": "(서울=연합뉴스) 김유향 기자 = 단일종목 레버리지 상장지수펀드(ETF)에서 음(-)의 괴리율이 관리기준을 넘어선 사례가 상장 직후부터 발생했음...",
       "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20260909027400008"
+      "url": "https://www.yna.co.kr/view/AKR20260909184400008"
     },
     {
-      "headline": "DB증권 \"스카이라이프, 3분기 실적 악화 예상…목표가↓\"",
-      "summary": "(서울=연합뉴스) 이민영 기자 = DB증권은 9일 위성 방송 기업 스카이라이프[053210]에 대해 3분기 인터넷 기반 TV 서비스 가입자 감소...",
+      "headline": "무역실적 부풀려 주가 부양, '국산 둔갑' 조달…범부처 합동단속",
+      "summary": "(세종=연합뉴스) 안채원 기자 = 정부가 무역 활동을 기반으로 한 재정·금융범죄에 대해 범부처 합동 단속에 나선다.",
       "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20260909027800008"
+      "url": "https://www.yna.co.kr/view/AKR20260909171600002"
     }
   ],
   "realestate": [
     {
-      "headline": "\"동탄 놓쳤다면 여기?\"…GTX 타고 집값 들썩이는 '이 동네'",
-      "summary": "\"동탄 놓쳤다면 여기?\"…GTX 타고 집값 들썩이는 '이 동네'",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/202609081151i"
+      "headline": "서대문구, 홍은13구역 준공인가…\"17년 만에 정비사업 완료\"",
+      "summary": "(서울=연합뉴스) 정준영 기자 = 서울 서대문구(구청장 박운기)는 홍은동 11-111번지 일대 '홍은13구역 주택재개발정비사업'에 대해 준공인가...",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20260910017600004"
     },
     {
-      "headline": "장기·기업형 임대 세제 지원 검토에…與 이언주 \"부당한 차별\"",
-      "summary": "장기·기업형 임대 세제 지원 검토에…與 이언주 \"부당한 차별\"",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/202609092551H"
+      "headline": "\"전세난·집값 불안\" 서울 생애최초 주택 구입 비중 역대 최대",
+      "summary": "(서울=연합뉴스) 서미숙 기자 = 지난달 등기를 마친 서울지역 집합건물 가운데 생애최초 주택 매수자 비중이 54%에 육박하며 2010년 조사 이...",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20260909170300003"
     }
   ],
   "global": [
     {
-      "headline": "KB증권 \"AI 모델 경쟁 최대 수혜는 삼성전자·SK하이닉스\"",
-      "summary": "(서울=연합뉴스) 정회인 기자 = KB증권은 9일 글로벌 인공지능(AI) 모델의 성능 경쟁이 심화할수록 메모리 반도체 수요가 크게 늘어날 것이라...",
+      "headline": "'수출 양극화' 막는다…중소·중견 무역금융 내년 140조로 확대(종합)",
+      "summary": "(서울=연합뉴스) 신창용 장보인 기자 = 정부가 연간 수출 1조달러 달성에 추진력을 더하기 위해 중소·중견기업에 대한 무역금융 공급 규모를 올해...",
       "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20260909028300008"
+      "url": "https://www.yna.co.kr/view/AKR20260909031151003"
     },
     {
-      "headline": "유가 100달러 역풍에도 반도체 급등했는데…MS \"모멘텀 마지막 불꽃\" [김현석의 월스트리트나우]",
-      "summary": "유가 100달러 역풍에도 반도체 급등했는데…MS \"모멘텀 마지막 불꽃\" [김현석의 월스트리트나우]",
+      "headline": "베선트 \"국채 바이백 확대, 시장 과열 식히기 위한 것\"",
+      "summary": "베선트 \"국채 바이백 확대, 시장 과열 식히기 위한 것\"",
       "source": "한국경제",
-      "url": "https://www.hankyung.com/article/202609092480i"
+      "url": "https://www.hankyung.com/article/2026090928607"
     }
   ],
   "rates": [
     {
-      "headline": "[마켓뷰] 중동 불안에도 반도체 훈풍…'7천피' 탈환 재시도하나",
-      "summary": "(서울=연합뉴스) 김유향 기자 = 9일 코스피는 중동 지역의 지정학적 불안과 유가 상승, 미국 물가 지표 경계심이 이어지는 가운데 반도체 강세를...",
+      "headline": "KB증권 \"가계자금, 증시 유입 둔화 조짐…정기예금으로 이동\"",
+      "summary": "(서울=연합뉴스) 정회인 기자 = KB증권은 10일 증시로 유입되는 개인 자금의 속도가 앞으로 느려질 수 있다고 전망했다. 금리 상승으로 가계의...",
       "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20260909023600008"
+      "url": "https://www.yna.co.kr/view/AKR20260910025800008"
     },
     {
-      "headline": "'긴축의 무게' 금리 0.5%p 오르면 가계 이자 연 6.5조원↑",
-      "summary": "(서울=연합뉴스) 한지훈 기자 = 한국은행이 두 달 연속 기준금리를 인상한 가운데 최근 금리 상승 폭을 단순 적용할 경우 가계의 연간 대출 이자...",
+      "headline": "하나은행, '하나의 정기예금' 1년만기 금리 0.1%p 인상",
+      "summary": "(서울=연합뉴스) 이도흔 기자 = 하나은행은 정기예금 상품의 금리를 0.10%포인트(p) 인상했다고 10일 밝혔다.",
       "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20260908155700002"
+      "url": "https://www.yna.co.kr/view/AKR20260910024500002"
     }
   ],
   "employment": [
     {
-      "headline": "[게시판] NH농협은행, 장애인 재택근무직 '말벗상담원' 신규 채용",
-      "summary": "▲ NH농협은행은 장애인 재택근무직 '말벗상담원' 20명을 신규 채용하고, 안정적인 직무 적응을 지원하기 위한 비대면 직무교육을 했다고 8일 밝...",
+      "headline": "한화오션 하반기 생산직 신입사원 채용…15일까지 서류 접수",
+      "summary": "(거제=연합뉴스) 정종호 기자 = 경남 거제에 사업장을 둔 대형 조선업체 한화오션이 생산직 신입사원 채용에 나섰다.",
       "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20260908120800002"
+      "url": "https://www.yna.co.kr/view/AKR20260909152000052"
     },
     {
-      "headline": "충남도의회, 청년 면접 복장 구입비 지원 추진…최대 20만원",
-      "summary": "(홍성=연합뉴스) 김준범 기자 = 충남도의회가 취업을 준비하는 청년들의 경제적 부담을 덜기 위해 면접 복장 구매 비용을 지원하는 제도 마련에 나...",
+      "headline": "전북 일자리페스티벌에 46개 기업 참여·구직자 1천여명 '북적'",
+      "summary": "(전주=연합뉴스) 임채두 기자 = 전북특별자치도는 9일 전주대학교에서 도내 46개 기업이 참여해 250명 이상 채용을 목표로 하는 '2026 일...",
       "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20260908099500063"
+      "url": "https://www.yna.co.kr/view/AKR20260909146800055"
     }
   ],
   "policy": [
     {
-      "headline": "제8차 한-아프리카 경제협력(KOAFEC) 장관회의 개최",
-      "summary": "제8차 한-아프리카 경제협력(KOAFEC) 장관회의 개최",
+      "headline": "경제관계장관회의 겸 구조혁신 관계장관회의 개최",
+      "summary": "경제관계장관회의 겸 구조혁신 관계장관회의 개최",
       "source": "기획재정부",
-      "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079282"
+      "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079301"
     },
     {
-      "headline": "국제 신용평가사 무디스(Moody's) 면담 결과",
-      "summary": "국제 신용평가사 무디스(Moody's) 면담 결과",
+      "headline": "(보도설명) 추석기간 농축산물 할인지원을 조기종료 없이 안정적으로 운영할 예정입니다.",
+      "summary": "(보도설명) 추석기간 농축산물 할인지원을 조기종료 없이 안정적으로 운영할 예정입니다.",
       "source": "기획재정부",
-      "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079279"
+      "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079300"
     }
   ],
-  "updated_at": "2026년 09월 09일 08:48 기준"
+  "updated_at": "2026년 09월 10일 08:47 기준"
 }
