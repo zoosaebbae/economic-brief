@@ -1,88 +1,101 @@
 {
   "finance": [
     {
-      "headline": "포켓몬 카드에 푹 빠진 30·40대…매물 등록·검색 폭증",
-      "summary": "(서울=연합뉴스) 한상용 기자 = 포켓몬 카드게임 30주년 기념 확장팩 출시를 계기로 30∼40대 수집가가 중고 카드 거래 시장으로 몰리고 있다...",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20260920034200017"
+      "headline": "'오디세이 효과' 다한 미디어株…추석 극장가가 살릴까",
+      "summary": "'오디세이 효과' 다한 미디어株…추석 극장가가 살릴까",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/202609218144i"
     },
     {
-      "headline": "추석 차례상 비용, 9년 만에 내렸다",
-      "summary": "추석 차례상 비용, 9년 만에 내렸다",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026092062861"
+      "headline": "광주은행, 소상공인 특례보증금 10억원 출연",
+      "summary": "(전남광주=연합뉴스) 전승현 기자 = 광주은행은 21일 전남광주통합특별시, 광주신용보증재단과 '2026년 하반기 소상공인 특례 보증 확대 지원 ...",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20260921121600054"
     }
   ],
   "securities": [
     {
-      "headline": "\"삼성전자보다 더 샀다\"…고액자산가들 풀매수한 '의외의 종목'은",
-      "summary": "\"삼성전자보다 더 샀다\"…고액자산가들 풀매수한 '의외의 종목'은",
+      "headline": "\"앞으로 더 오른다\"…외국인 9월 순매수 1위는 이 종목",
+      "summary": "\"앞으로 더 오른다\"…외국인 9월 순매수 1위는 이 종목",
       "source": "한국경제",
-      "url": "https://www.hankyung.com/article/202609205912i"
+      "url": "https://www.hankyung.com/article/202609218490i"
     },
     {
-      "headline": "[게시판] KB운용, 펀드·RISE ETF 통합한 AI 홈페이지 새단장",
-      "summary": "▲ KB자산운용이 펀드와 RISE 상장지수펀드(ETF) 홈페이지를 통합하고 인공지능(AI) 기반 투자정보 서비스를 강화한 새 홈페이지를 21일 ...",
+      "headline": "신한운용 \"SOL초단기채권액티브 ETF 순자산 1조원 돌파\"",
+      "summary": "(서울=연합뉴스) 강수지 기자 = 신한자산운용은 22일 'SOL 초단기채권 액티브 상장지수펀드(ETF)'의 순자산이 1조원을 넘어섰다고 밝혔다.",
       "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20260921022300008"
+      "url": "https://www.yna.co.kr/view/AKR20260922041600008"
     }
   ],
   "realestate": [
     {
-      "headline": "\"은마아파트 상가 옥상에…\" 재건축 앞두고 퍼진 '괴소문' 정체 [이슬기의 새집다오]",
-      "summary": "\"은마아파트 상가 옥상에…\" 재건축 앞두고 퍼진 '괴소문' 정체 [이슬기의 새집다오]",
+      "headline": "\"강남 30평대 아파트 3억원대 분양 가능\"…'파격 주장' 보니",
+      "summary": "\"강남 30평대 아파트 3억원대 분양 가능\"…'파격 주장' 보니",
       "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026091840826"
+      "url": "https://www.hankyung.com/article/2026092179927"
     },
     {
-      "headline": "분당·일산·산본·평촌…수도권 재건축 시계 빨라진다",
-      "summary": "분당·일산·산본·평촌…수도권 재건축 시계 빨라진다",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026092063451"
+      "headline": "해외인프라공사, 시드니 45층 아파트 개발…사업비 3천500억원",
+      "summary": "(세종=연합뉴스) 오진송 기자 = 한국해외인프라도시개발지원공사(KIND)가 호주 시드니에서 총사업비 3천500억원 규모의 초고층 아파트 개발사업...",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20260922038000003"
     }
   ],
   "global": [
     {
-      "headline": "\"AI 속도 늦출 이유 없다\"던 트럼프…가족은 '뭉칫돈' 투자",
-      "summary": "\"AI 속도 늦출 이유 없다\"던 트럼프…가족은 '뭉칫돈' 투자",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026092166637"
+      "headline": "CJ제일제당, 뉴욕서 K-증류주 '자리' 출시…\"K-푸드와 시너지\"",
+      "summary": "(서울=연합뉴스) 김세린 기자 = CJ제일제당[097950]은 22일(현지시간) 미국 뉴욕 맨해튼 한식 레스토랑 '무노'에서 K-증류주 브랜드 ...",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20260922034600030"
     },
     {
-      "headline": "[포토] 트럼프 “CNN·폴리티코 기자 백악관 출입금지”",
-      "summary": "[포토] 트럼프 “CNN·폴리티코 기자 백악관 출입금지”",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026092063901"
+      "headline": "[글로벌 코리안] 벨연구소 출신 한인 과학자가 가나에 심는 'K-테크타운'",
+      "summary": "(서울=연합뉴스) 정아란 기자 = 미국 뉴저지를 중심으로 활동하는 재미 한인 과학기술자이자 사업가인 양경호 박사는 이달 한국을 두 차례 찾는다....",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20260921158100371"
     }
   ],
   "rates": [
     {
-      "headline": "KB국민·우리, 정기예금 금리 연 3.5%…수신 경쟁 본격화(종합)",
-      "summary": "(서울=연합뉴스) 한지훈 기자 = 주요 시중은행 정기예금 금리가 3%대 중반으로 올라섰다.",
+      "headline": "메리츠증권 \"美 금리인상, AI 투자 부채부담 키워…경착륙 위험\"",
+      "summary": "(서울=연합뉴스) 정회인 기자 = 메리츠증권은 22일 미국 연방준비제도(Fed·연준)의 금리 인상이 인공지능(AI) 투자와 정부·기업 부채의 이...",
       "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20260920049051002"
+      "url": "https://www.yna.co.kr/view/AKR20260922028500008"
     },
     {
-      "headline": "\"'급여' 표시 안 하면 금리감면 못 받아\"…금감원, 소비자 당부",
-      "summary": "(서울=연합뉴스) 강류나 기자 = 금융감독원은 급여 정보를 은행에 등록하지 않거나, 계좌에 '급여'라고 표시하지 않으면 금리 감면 혜택을 못 받...",
+      "headline": "국고채 금리 대체로 상승…초단기·5년물 약세(종합)",
+      "summary": "(서울=연합뉴스) 강수지 기자 = 21일 국고채 금리는 대체로 상승했다.",
       "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20260920043800002"
+      "url": "https://www.yna.co.kr/view/AKR20260921149851008"
     }
   ],
   "employment": [
     {
-      "headline": "한국투자증권, 전역 장교 해마다 채용…금융과 군 리더십 시너지",
-      "summary": "한국투자증권, 전역 장교 해마다 채용…금융과 군 리더십 시너지",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026092057491"
+      "headline": "오리온, 하반기 신입사원 채용…내달 6일까지 접수",
+      "summary": "(서울=연합뉴스) 한주홍 기자 = 오리온[271560]은 2026년 하반기 신입사원 채용을 진행한다고 22일 밝혔다.",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20260922024800030"
     },
     {
-      "headline": "'아빠찬스' 前선관위 사무총장 딸, 임용취소 불복소송 승소",
-      "summary": "(서울=연합뉴스) 이승연 기자 = 중앙선거관리위원회(중앙선관위)가 특혜 채용 논란을 빚은 박찬진 전 사무총장 딸 임용을 취소한 처분이 위법하다는...",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20260919042600004"
+      "headline": "2026년 재정지원 일자리사업 성과평가 결과",
+      "summary": "2026년 재정지원 일자리사업 성과평가 결과",
+      "source": "고용노동부",
+      "url": "https://www.moel.go.kr/policy/policydata/view.do?bbs_seq=20260900305"
     }
   ],
-  "policy": [],
-  "updated_at": "2026년 09월 21일 08:49 기준"
+  "policy": [
+    {
+      "headline": "[보도참고] 2026년 추석 차례상 비용 하락",
+      "summary": "[보도참고] 2026년 추석 차례상 비용 하락",
+      "source": "기획재정부",
+      "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079410"
+    },
+    {
+      "headline": "전략경제자문단 반도체 현장방문",
+      "summary": "전략경제자문단 반도체 현장방문",
+      "source": "기획재정부",
+      "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079400"
+    }
+  ],
+  "updated_at": "2026년 09월 22일 09:32 기준"
 }
