@@ -1,80 +1,80 @@
 {
   "finance": [
     {
-      "headline": "한은 \"국제 금융시장 불확실성 고조…韓 펀더멘털 양호\"",
-      "summary": "(서울=연합뉴스) 한지훈 기자 = 한국은행은 28일 \"이번 추석 연휴 기간 중 국제 금융시장의 불확실성이 한층 높아진 것으로 평가된다\"고 밝혔다...",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20260928026700002"
+      "headline": "“거긴 가면 안 돼”…엔비디아, AI 에이전트 보안 플랫폼 전격 공개",
+      "summary": "“거긴 가면 안 돼”…엔비디아, AI 에이전트 보안 플랫폼 전격 공개",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/202609280312i"
     },
     {
-      "headline": "\"높아진 호텔 자산 가치, 성장 호텔주에 미반영\"-KB",
-      "summary": "\"높아진 호텔 자산 가치, 성장 호텔주에 미반영\"-KB",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026092882426"
+      "headline": "은행 점포 30분 늦게 연다…\"디지털 금융 확산 등 반영\"(종합2보)",
+      "summary": "(서울=연합뉴스) 한지훈 기자 = 전국금융산업노동조합과 금융산업사용자협의회가 산별 교섭을 전격 타결한 것으로 전해졌다.",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20260928149551002"
     }
   ],
   "securities": [
     {
-      "headline": "연휴 끝나고 담아볼까…올해 배당수익률 높은 주식보니",
-      "summary": "연휴 끝나고 담아볼까…올해 배당수익률 높은 주식보니",
+      "headline": "하이닉스 돌연 5% 급락…주주들 놀란 '204조 상장설' 정체 [분석+]",
+      "summary": "하이닉스 돌연 5% 급락…주주들 놀란 '204조 상장설' 정체 [분석+]",
       "source": "한국경제",
-      "url": "https://www.hankyung.com/article/202609221544i"
+      "url": "https://www.hankyung.com/article/2026092899256"
     },
     {
-      "headline": "삼성액티브운용, 'KoAct 고배당액티브' ETF 순자산 500억 돌파",
-      "summary": "삼성액티브운용, 'KoAct 고배당액티브' ETF 순자산 500억 돌파",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026092884226"
+      "headline": "[특징주] 한미반도체, 반도체 장비 수주 소식에 강세",
+      "summary": "(서울=연합뉴스) 이민영 기자 = 한미반도체[042700]가 반도체 장비 수주 소식을 공개한 가운데 29일 장 초반 강세를 보이고 있다.",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20260929055700008"
     }
   ],
   "realestate": [
     {
-      "headline": "추석 끝나고 가을 분양시장 열린다…10월 3만8천가구 분양",
-      "summary": "(서울=연합뉴스) 서미숙 기자 = 추석 연휴가 끝나고 본격적으로 가을 분양 시장이 열린다. 다음 달 전국적으로 3만8천여가구의 아파트가 쏟아질 ...",
+      "headline": "중랑구, 망우본동 '상봉13구역 재개발' 조합설립 인가",
+      "summary": "(서울=연합뉴스) 정준영 기자 = 서울 중랑구(구청장 류경기)는 최근 '상봉13구역 주택정비형 재개발사업'의 조합설립을 인가했다고 29일 밝혔다...",
       "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20260928025700003"
+      "url": "https://www.yna.co.kr/view/AKR20260929056200004"
     },
     {
-      "headline": "\"다주택 규제 피하자\"…집합건물 다소유자 7년9개월만에 최저",
-      "summary": "(서울=연합뉴스) 서미숙 기자 = 지난달 전국에 집합건물(아파트, 오피스텔, 연립주택 등)을 2채 이상 보유한 다소유자 비율이 7년 9개월 만에...",
+      "headline": "강남 한솔·용산 반도아파트 재건축…서울시 도시계획위 의결",
+      "summary": "(서울=연합뉴스) 김준태 기자 = 서울 강남구 일원동 한솔아파트와 용산구 이촌동 반도아파트 재건축이 본격 추진된다.",
       "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20260926024500003"
+      "url": "https://www.yna.co.kr/view/AKR20260929029600004"
     }
   ],
   "global": [
     {
-      "headline": "트럼프, 앤트로픽 CEO 단독 만찬 초대…관계 개선 기대",
-      "summary": "트럼프, 앤트로픽 CEO 단독 만찬 초대…관계 개선 기대",
+      "headline": "\"이란 핵 양보 땐 제재 완화 검토\"…트럼프 \"사실무근\" 즉각 부인",
+      "summary": "\"이란 핵 양보 땐 제재 완화 검토\"…트럼프 \"사실무근\" 즉각 부인",
       "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026092881167"
+      "url": "https://www.hankyung.com/article/2026092908847"
     },
     {
-      "headline": "트럼프 \"이란과 이번 주 안에 추가 회담할 것으로 예상\"",
-      "summary": "트럼프 \"이란과 이번 주 안에 추가 회담할 것으로 예상\"",
+      "headline": "트럼프 \"중국만 좋아할 역겨운 AI 음모론\"…교황 정면 반박",
+      "summary": "트럼프 \"중국만 좋아할 역겨운 AI 음모론\"…교황 정면 반박",
       "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026092880587"
+      "url": "https://www.hankyung.com/article/202609290939H"
     }
   ],
   "rates": [
     {
-      "headline": "美 국채금리 2007년 이후 최고…\"물가 우려에 10년물 5.6%까지 열려\"",
-      "summary": "(서울=연합뉴스) 강수지 기자 = 미국 10년물 국채금리가 2007년 이후 최고치로 치솟으면서 글로벌 금융시장에 긴장감을 불어넣고 있다. 추석 ...",
+      "headline": "급등한 美 금리, 9월 고용보고서가 방향 가를까",
+      "summary": "(서울=연합뉴스) 강수지 기자 = 미국 10년물 국채 금리가 2007년 이후 가장 높은 수준인 5.2%를 넘어서면서 채권시장의 관심은 금리가 얼...",
       "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20260928024500008"
+      "url": "https://www.yna.co.kr/view/AKR20260929028500008"
     },
     {
-      "headline": "美재무 \"연준, 열린 마음 가져야…그린스펀은 경기 달리게 뒀다\"",
-      "summary": "(서울=연합뉴스) 정주호 기자 = 스콧 베선트 미국 재무장관이 3년 만에 금리 인상에 나선 연방준비제도(Fed·연준)를 향해 \"열린 마음(ope...",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20260928015700009"
+      "headline": "치솟는 금리, 누워버린 수익률 곡선…이럴 때 사고팔아야 할 것 [김현석의 퀵 브리프]",
+      "summary": "치솟는 금리, 누워버린 수익률 곡선…이럴 때 사고팔아야 할 것 [김현석의 퀵 브리프]",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/202609290858i"
     }
   ],
   "employment": [
     {
-      "headline": "\"청년 지원 소액대출 '햇살론유스' 신청자 5명 중 1명은 거절\"",
-      "summary": "(서울=연합뉴스) 류미나 기자 = 대학생·취업준비생 등을 위한 소액금융 상품 '햇살론유스' 신청자 5명 중 1명 이상이 대출 심사의 문턱을 넘지...",
+      "headline": "효성, 경력보유여성 취업활성화 프로그램 지원",
+      "summary": "(서울=연합뉴스) 강태우 기자 = 효성은 28일 서울 종로구에 위치한 종로여성인력개발센터에서 경력 보유 여성의 취업 활성화를 위한 지원금 7천만...",
       "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20260922165200001"
+      "url": "https://www.yna.co.kr/view/AKR20260928150900003"
     },
     {
       "headline": "사업주와 인사담당자를 위한 난임치료휴가 및 급여제도 활용가이드",
@@ -85,17 +85,17 @@
   ],
   "policy": [
     {
-      "headline": "[보도참고] 경제협력개발기구, 9월 중간 경제전망 발표",
-      "summary": "[보도참고] 경제협력개발기구, 9월 중간 경제전망 발표",
+      "headline": "2026년 2분기 해외직접투자 동향",
+      "summary": "2026년 2분기 해외직접투자 동향",
       "source": "기획재정부",
-      "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079441"
+      "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079455"
     },
     {
-      "headline": "아시아개발은행(ADB), 2026년 9월 아시아경제전망(ADO) 발표",
-      "summary": "아시아개발은행(ADB), 2026년 9월 아시아경제전망(ADO) 발표",
+      "headline": "이형일 부총리, 첫 경제현안간담회 개최",
+      "summary": "이형일 부총리, 첫 경제현안간담회 개최",
       "source": "기획재정부",
-      "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079440"
+      "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079450"
     }
   ],
-  "updated_at": "2026년 09월 28일 09:16 기준"
+  "updated_at": "2026년 09월 29일 10:26 기준"
 }
