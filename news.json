@@ -1,101 +1,88 @@
 {
   "finance": [
     {
-      "headline": "신한은행 해킹 서버서 '중국어 AI 침투도구' 흔적",
-      "summary": "(서울=연합뉴스) 권하영 기자 = 신한은행 고객정보 유출 사고와 관련해 사이버 공격에 이용된 것으로 추정되는 서버에서 중국어 기반 오픈소스 인공...",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261002042300017"
+      "headline": "삼전닉스 사둬야 하나…개미들 환호할 '특급 호재' 나왔다 [분석+]",
+      "summary": "삼전닉스 사둬야 하나…개미들 환호할 '특급 호재' 나왔다 [분석+]",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026100290906"
     },
     {
-      "headline": "2700조 몸값 통할까...앤트로픽 IPO, AI 기업가치 시험대",
-      "summary": "2700조 몸값 통할까...앤트로픽 IPO, AI 기업가치 시험대",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026100293927"
+      "headline": "[AI돋보기] \"은행도 뚫렸다\"…AI 해킹 시대 내 계정 지키는 법",
+      "summary": "(서울=연합뉴스) 심재훈 기자 = 최근 인공지능(AI)을 동원한 대규모 계정 탈취 공격이 신한은행과 KB국민은행, 하나은행 등 국내 주요 시중은...",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261002183500017"
     }
   ],
   "securities": [
     {
-      "headline": "이틀 연속 순매수 1위…연기금 콕 집은 종목",
-      "summary": "이틀 연속 순매수 1위…연기금 콕 집은 종목",
+      "headline": "반도체 팔던 외국인, 코스피를 팔기 시작했다",
+      "summary": "반도체 팔던 외국인, 코스피를 팔기 시작했다",
       "source": "한국경제",
-      "url": "https://www.hankyung.com/article/202610018087i"
+      "url": "https://www.hankyung.com/article/202610020777i"
     },
     {
-      "headline": "[특징주] 광통신주, 美광통신 강세 등에 장초반 줄상승",
-      "summary": "(서울=연합뉴스) 김유향 기자 = 국내 광통신 관련 종목들이 2일 장 초반 동반 강세를 보이고 있다.",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261002044000008"
+      "headline": "코스피 팔아치운 외국인…9개월 내내 담은 종목도 있다는데",
+      "summary": "코스피 팔아치운 외국인…9개월 내내 담은 종목도 있다는데",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/202610016722i"
     }
   ],
   "realestate": [
     {
-      "headline": "\"17억이던 집값이 23억 됐다\"…당첨되고도 줄줄이 포기한 아파트 [시장톡]",
-      "summary": "\"17억이던 집값이 23억 됐다\"…당첨되고도 줄줄이 포기한 아파트 [시장톡]",
+      "headline": "'아파트' 소형은 옛말, '거거익선' 열풍…거래 비중 5년래 최고",
+      "summary": "'아파트' 소형은 옛말, '거거익선' 열풍…거래 비중 5년래 최고",
       "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026093052636"
+      "url": "https://www.hankyung.com/article/202610031562i"
     },
     {
-      "headline": "\"서울 재건축 대신 재개발…325개 지하철역에 주목해야\" [집코노미 콘서트 2026]",
-      "summary": "\"서울 재건축 대신 재개발…325개 지하철역에 주목해야\" [집코노미 콘서트 2026]",
+      "headline": "\"서울 34평 사려면 소득 절반 대출로\"…3년6개월 만에 최고",
+      "summary": "\"서울 34평 사려면 소득 절반 대출로\"…3년6개월 만에 최고",
       "source": "한국경제",
-      "url": "https://www.hankyung.com/article/202610018301i"
+      "url": "https://www.hankyung.com/article/2026100314797"
     }
   ],
   "global": [
     {
-      "headline": "교촌치킨, 중국 우시에 매장 개점…글로벌 사업 다각화",
-      "summary": "(서울=연합뉴스) 한주홍 기자 = 교촌치킨을 운영하는 교촌에프앤비[339770]는 중국 장쑤성 우시의 태호 인근 쇼핑몰에 '교촌치킨 중국 우시점...",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261002049800030"
+      "headline": "막무가내 트럼프 \"한국, 투자합의 안하면 두배로 청구\" [이상은의 워싱턴나우]",
+      "summary": "막무가내 트럼프 \"한국, 투자합의 안하면 두배로 청구\" [이상은의 워싱턴나우]",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/202610031456i"
     },
     {
-      "headline": "SK라이프사이언스, 세노바메이트 성장 방안 논의",
-      "summary": "(서울=연합뉴스) 신선미 기자 = SK바이오팜[326030]의 미국 법인 SK라이프사이언스는 지난달 29일부터 이달 1일(현지시간)까지 미국 시...",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261002042200017"
+      "headline": "\"합의 안 하면 2배로\"…트럼프, 韓에 알래스카 투자 압박",
+      "summary": "\"합의 안 하면 2배로\"…트럼프, 韓에 알래스카 투자 압박",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026100314337"
     }
   ],
   "rates": [
     {
-      "headline": "[마켓뷰] 마이크론 호실적에 반등한 코스피, '7천피' 탈환하나",
-      "summary": "(서울=연합뉴스) 김유아 기자 = '반도체 업계 풍향계'로 불리는 미국 마이크론이 깜짝실적을 기록한 데 이어 간밤 미국 기준금리 인상 속도조절론...",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261002019500008"
+      "headline": "\"삼전닉스 458조 폭탄 터진다\"…환율 거꾸로 가는 '진짜 이유' [분석+]",
+      "summary": "\"삼전닉스 458조 폭탄 터진다\"…환율 거꾸로 가는 '진짜 이유' [분석+]",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026100299066"
     },
     {
-      "headline": "금리 깜짝 반전, 왜?…마이크론 비틀거린 3가지 이유 [김현석의 월스트리트나우]",
-      "summary": "금리 깜짝 반전, 왜?…마이크론 비틀거린 3가지 이유 [김현석의 월스트리트나우]",
+      "headline": "부진한 9월 고용에도 금리 상승 반전…그런데 5.5%가 한계? [김현석의 월스트리트나우]",
+      "summary": "부진한 9월 고용에도 금리 상승 반전…그런데 5.5%가 한계? [김현석의 월스트리트나우]",
       "source": "한국경제",
-      "url": "https://www.hankyung.com/article/202610028919i"
+      "url": "https://www.hankyung.com/article/202610031476i"
     }
   ],
   "employment": [
     {
-      "headline": "시민이 만드는 일자리사업…인천시, 정책아이디어 공모",
-      "summary": "(인천=연합뉴스) 신민재 기자 = 인천시는 민선 9기 일자리대책 종합계획 수립에 맞춰 이달 말까지 '내가 만드는 인천 일자리사업' 시민제안 공모...",
+      "headline": "[대구소식] 공공시설공단 직원 155명 공개 채용",
+      "summary": "(대구=연합뉴스) 대구공공시설관리공단은 지역 청년 일자리 지원 등을 위해 모두 155명의 직원을 공개 채용한다고 3일 밝혔다.",
       "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261002024400065"
+      "url": "https://www.yna.co.kr/view/AKR20261002116100053"
     },
     {
-      "headline": "충청권 초광역 일자리사업 출범…바이오·모빌리티 40억원 투입",
-      "summary": "(서울=연합뉴스) 한혜원 기자 = 고용노동부는 1일 충북도청에서 대전광역시, 세종특별자치시, 충청북도, 충청남도와 함께 충청권 광역이음프로젝트인...",
+      "headline": "추미애 \"일자리와 주거 연결해야\"…경기도형 특화전략 제시",
+      "summary": "(수원=연합뉴스) 최종호 기자 = 정부가 수도권 주택공급 확대를 추진하는 가운데 추미애 경기도지사가 지역의 산업·일자리와 주거를 함께 설계하는 ...",
       "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261001114500530"
+      "url": "https://www.yna.co.kr/view/AKR20261002161400061"
     }
   ],
-  "policy": [
-    {
-      "headline": "국정감사 반복지적사항 전면 점검",
-      "summary": "국정감사 반복지적사항 전면 점검",
-      "source": "기획재정부",
-      "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079527"
-    },
-    {
-      "headline": "'26.9월 소비자물가 동향",
-      "summary": "'26.9월 소비자물가 동향",
-      "source": "기획재정부",
-      "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079526"
-    }
-  ],
-  "updated_at": "2026년 10월 02일 10:15 기준"
+  "policy": [],
+  "updated_at": "2026년 10월 03일 09:54 기준"
 }
