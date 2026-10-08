@@ -1,80 +1,80 @@
 {
   "finance": [
     {
-      "headline": "[게시판] BC카드, 챗GPT 연계 '쇼핑 적립' 서비스 출시",
-      "summary": "▲ BC카드가 생성형 인공지능(AI) 챗GPT에서 상품을 검색하면, 자사 플랫폼 '페이북'에 따로 접속하지 않아도 적립 혜택을 받을 수 있는 연...",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261007049200002"
+      "headline": "\"공포의 10월 9일 온다\"…서학개미들 떨고 있는 이유",
+      "summary": "\"공포의 10월 9일 온다\"…서학개미들 떨고 있는 이유",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026100790751"
     },
     {
-      "headline": "국경 간 가상자산 이전 모니터링 강화…해외지급결제업 개편도",
-      "summary": "(세종=연합뉴스) 안채원 기자 = 정부가 국경 간 가상자산 이전 관련 모니터링을 강화하고 핀테크 기반 외국환업무를 개선한다.",
+      "headline": "광주은행·토스, '스테이블코인 QR결제' 기술검증 성공",
+      "summary": "(전남광주=연합뉴스) 전승현 기자 = 광주은행은 8일 토스와 함께 스테이블코인 기반 QR결제 기술 검증(PoC)을 성공적으로 완료했다고 밝혔다.",
       "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261007027600002"
+      "url": "https://www.yna.co.kr/view/AKR20261008052300054"
     }
   ],
   "securities": [
     {
-      "headline": "골드만삭스 \"삼성전자, 8일 변동성 확대…매도 요인 겹쳐\"",
-      "summary": "(서울=연합뉴스) 정회인 기자 = 글로벌 투자은행(IB) 골드만삭스는 삼성전자[005930]의 3분기 잠정실적 발표일인 8일 상장지수펀드(ETF...",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261007048300008"
+      "headline": "'3분기 선방'에도 목표주가 무더기 하락…삼바에 무슨 일이",
+      "summary": "'3분기 선방'에도 목표주가 무더기 하락…삼바에 무슨 일이",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/202610078650i"
     },
     {
-      "headline": "[게시판] 우리금융, 비인기 스포츠 유망주에 아시안게임 현장 체험",
-      "summary": "▲ 우리금융그룹은 비인기 종목 스포츠 유망주 지원사업 '우리드림브릿지 2026·2036'의 일환으로 지난달 30일부터 3박 4일 동안 대표 선수...",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261007048400002"
+      "headline": "파격적 주주환원으로 실적 부진 돌파하는 제일기획",
+      "summary": "파격적 주주환원으로 실적 부진 돌파하는 제일기획",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/202610079012i"
     }
   ],
   "realestate": [
     {
-      "headline": "10월 미분양 관리지역에 인천 영종구·경기 오산시 등 5곳",
-      "summary": "(서울=연합뉴스) 임기창 기자 = 주택도시보증공사(HUG)는 10월 인천 영종구·경기 오산시·부산 강서구·충남 천안시·경북 경산시 5개 지역을 ...",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261007048800003"
+      "headline": "'집값 급등열차' 타길 잘했네…'미달 속출' 아파트의 대반전",
+      "summary": "'집값 급등열차' 타길 잘했네…'미달 속출' 아파트의 대반전",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026100771106"
     },
     {
-      "headline": "충남도, 청년 전세대출 이자 최대 50% 지원…330명 모집",
-      "summary": "(홍성=연합뉴스) 김준범 기자 = 충남도는 청년들의 주거비 부담을 덜기 위해 전세자금 대출 이자를 최대 절반까지 지원한다고 7일 밝혔다.",
+      "headline": "서울 민간아파트 국평 분양가 20억원 다시 넘어…전년비 23%↑",
+      "summary": "(서울=연합뉴스) 오예진 기자 = 공사비 상승이 이어지면서 지난달 서울 민간 아파트의 '국민평형' 평균 분양가가 다시 20억원을 넘었다.",
       "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261007035100063"
+      "url": "https://www.yna.co.kr/view/AKR20261008050100003"
     }
   ],
   "global": [
     {
-      "headline": "30년 만에 최악의 유행…美 3900명 확진에 비상사태 선포",
-      "summary": "30년 만에 최악의 유행…美 3900명 확진에 비상사태 선포",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026100641597"
+      "headline": "현대건설, 네덜란드서 신규 원전 사업…대형원전 기본설계 착수",
+      "summary": "(서울=연합뉴스) 오예진 기자 = 현대건설이 네덜란드 신규 대형원전 사업에 참여하며 유럽 원전 사업 확대에 박차를 가한다.",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261008064600003"
     },
     {
-      "headline": "한투증권, 퀀트운용사 AQR과 손잡고 글로벌 투자상품 확대 모색",
-      "summary": "(서울=연합뉴스) 임은진 기자 = 한국투자증권은 글로벌 퀀트 자산운용사 'AQR 캐피털 매니지먼트'(AQR)와 글로벌 투자 상품 공급 등 비즈니...",
+      "headline": "동신대-JM그룹, 전남광주 창업기업 베트남 수출 길 연다",
+      "summary": "(나주=연합뉴스) 전승현 기자 = 동신대학교 메이커스페이스사업단은 베트남 호찌민을 기반으로 활동하는 JM그룹과 전남광주 특화자원을 활용한 창업기...",
       "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261007056000008"
+      "url": "https://www.yna.co.kr/view/AKR20261008061100054"
     }
   ],
   "rates": [
     {
-      "headline": "[마켓뷰] 연일 최고치 경신 美증시…코스피, 반등 탄력 삼나",
-      "summary": "(서울=연합뉴스) 황철환 기자 = 7일 국내 주식시장은 미국 국채금리 일부 진정세와 미국 인공지능(AI) 인프라주 강세, 삼성전자[005930]...",
+      "headline": "이억원 \"금리인상기, 정책서민금융 금리 낮추고 공급 확대\"",
+      "summary": "(서울=연합뉴스) 강수련 기자 = 이억원 금융위원장은 8일 서민·취약계층을 위해 \"정책서민금융의 금리수준을 낮추고 신상품 출시 등 공급을 지속적...",
       "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261007019300008"
+      "url": "https://www.yna.co.kr/view/AKR20261007202800002"
     },
     {
-      "headline": "엇갈리는 반도체+ 넓어지는 폭=흐름 바뀌나…AI와 금리의 치킨게임? [김현석의 월스트리트나우]",
-      "summary": "엇갈리는 반도체+ 넓어지는 폭=흐름 바뀌나…AI와 금리의 치킨게임? [김현석의 월스트리트나우]",
+      "headline": "코스피, 美 국채금리 부담에 장 초반 약세…외국인·기관 '팔자'",
+      "summary": "코스피, 美 국채금리 부담에 장 초반 약세…외국인·기관 '팔자'",
       "source": "한국경제",
-      "url": "https://www.hankyung.com/article/202610076758i"
+      "url": "https://www.hankyung.com/article/2026100801166"
     }
   ],
   "employment": [
     {
-      "headline": "구로구, 내달 5일 '일자리박람회'…참가자 모집",
-      "summary": "(서울=연합뉴스) 정준영 기자 = 서울 구로구(구청장 장인홍)는 오는 11월5일 신도림 테크노마트에서 '2026년 구로구 일자리박람회'를 개최한...",
+      "headline": "에쓰오일, 사무직 신입사원 채용…내달 14일까지 온라인 접수",
+      "summary": "(서울=연합뉴스) 조성흠 기자 = 에쓰오일은 오는 10월 14일까지 공식 채용 홈페이지에서 2026년 사무직 신입사원 공개채용을 진행한다고 8일...",
       "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261007027700004"
+      "url": "https://www.yna.co.kr/view/AKR20261008053700003"
     },
     {
       "headline": "2026년 재정지원 일자리사업 성과평가 결과",
@@ -85,17 +85,17 @@
   ],
   "policy": [
     {
-      "headline": "「외국환거래법 시행령」 개정안 입법예고",
-      "summary": "「외국환거래법 시행령」 개정안 입법예고",
+      "headline": "관계부처 합동 10월 일자리전담반(TF) 개최",
+      "summary": "관계부처 합동 10월 일자리전담반(TF) 개최",
       "source": "기획재정부",
-      "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079553"
+      "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079576"
     },
     {
-      "headline": "2026년 11월 물가연동국고채 종목별 연동계수",
-      "summary": "2026년 11월 물가연동국고채 종목별 연동계수",
+      "headline": "국제금융기구 진출을 꿈꾸는 우리 인재들에게 더 넓어진 ‘기회의 장’을 연다",
+      "summary": "국제금융기구 진출을 꿈꾸는 우리 인재들에게 더 넓어진 ‘기회의 장’을 연다",
       "source": "기획재정부",
-      "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079549"
+      "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079562"
     }
   ],
-  "updated_at": "2026년 10월 07일 10:11 기준"
+  "updated_at": "2026년 10월 08일 10:32 기준"
 }
