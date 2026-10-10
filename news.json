@@ -1,72 +1,72 @@
 {
   "finance": [
     {
-      "headline": "부산은행, 청년 자산 형성 돕는 '청년 기쁨두배통장' 출시",
-      "summary": "(부산=연합뉴스) 오수희 기자 = BNK부산은행은 부산시와 부산 청년의 안정적인 자산 형성을 돕는 '부산 청년 기쁨두배통장'을 출시했다고 9일 ...",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261008031500051"
+      "headline": "계속되는 'AI 거품론'…TSMC가 답을 할까 [다음주 주요변수 미리보기]",
+      "summary": "계속되는 'AI 거품론'…TSMC가 답을 할까 [다음주 주요변수 미리보기]",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/202610092829i"
     },
     {
-      "headline": "갑자기 터진 'AI 수요' 걱정, 사실 아니라는데 기술주 발작 [김현석의 월스트리트나우]",
-      "summary": "갑자기 터진 'AI 수요' 걱정, 사실 아니라는데 기술주 발작 [김현석의 월스트리트나우]",
+      "headline": "AI 수요 오해 풀렸지만, S&P 신기록 다가섰지만, 또 떨어진 반도체 [김현석의 월스트리트나우]",
+      "summary": "AI 수요 오해 풀렸지만, S&P 신기록 다가섰지만, 또 떨어진 반도체 [김현석의 월스트리트나우]",
       "source": "한국경제",
-      "url": "https://www.hankyung.com/article/202610092324i"
+      "url": "https://www.hankyung.com/article/202610103221i"
     }
   ],
   "securities": [
     {
-      "headline": "\"도대체 이유를 모르겠다\"…증권가, 삼전 주가에 '멘붕' [분석+]",
-      "summary": "\"도대체 이유를 모르겠다\"…증권가, 삼전 주가에 '멘붕' [분석+]",
+      "headline": "삼전·하닉 언제 팔까…8400억 IT펀드 수장이 찍은 '매도 신호 4가지'",
+      "summary": "삼전·하닉 언제 팔까…8400억 IT펀드 수장이 찍은 '매도 신호 4가지'",
       "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026100809436"
+      "url": "https://www.hankyung.com/article/202609293059i"
     },
     {
-      "headline": "주가 35% 빠졌는데…기관들은 '줍줍' 노리는 AI 병목株",
-      "summary": "주가 35% 빠졌는데…기관들은 '줍줍' 노리는 AI 병목株",
+      "headline": "\"내 S&P500 팔긴 싫은데 불안해\"…서학개미 겨냥 ETF 나왔다",
+      "summary": "\"내 S&P500 팔긴 싫은데 불안해\"…서학개미 겨냥 ETF 나왔다",
       "source": "한국경제",
-      "url": "https://www.hankyung.com/article/202610080983i"
+      "url": "https://www.hankyung.com/article/202610092663i"
     }
   ],
   "realestate": [
+    {
+      "headline": "故정주영 회장 가회동 주택 203억에 팔렸다…3번 유찰 끝 낙찰",
+      "summary": "故정주영 회장 가회동 주택 203억에 팔렸다…3번 유찰 끝 낙찰",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/202610081368i"
+    },
     {
       "headline": "\"분양가 27억에도 줄 섰다\"…3000명 몰린 아파트 어디길래",
       "summary": "\"분양가 27억에도 줄 섰다\"…3000명 몰린 아파트 어디길래",
       "source": "한국경제",
       "url": "https://www.hankyung.com/article/2026100803387"
-    },
-    {
-      "headline": "\"강남보다 더 뜨겁네\"…서울 집값 끌어올린 동네 어디",
-      "summary": "\"강남보다 더 뜨겁네\"…서울 집값 끌어올린 동네 어디",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/202610081161i"
     }
   ],
   "global": [
     {
-      "headline": "롯데칠성음료, 美와인 '브레드앤버터' 한글 패키지 한정 판매",
-      "summary": "(서울=연합뉴스) 김세린 기자 = 롯데칠성음료[005300]는 자사가 수입·판매하는 미국산 와인 '브레드앤버터'의 한글 패키지 세트를 연말까지 ...",
+      "headline": "[아프리카인물열전](41) '유리천장 깬 개혁가' WTO 첫 여성 수장 오콘조이웨알라",
+      "summary": "(카이로=연합뉴스) 김상훈 특파원 = 세계무역기구(WTO) 사무총장 응고지 오콘조이웨알라(72)의 이름 앞에는 '최초의 여성'이자 '최초의 아프...",
       "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261009020500030"
+      "url": "https://www.yna.co.kr/view/AKR20260921172200079"
     },
     {
-      "headline": "AI부터 금융·여행까지…월가 매수 의견 잇따라 [월가 업&다운]",
-      "summary": "AI부터 금융·여행까지…월가 매수 의견 잇따라 [월가 업&다운]",
+      "headline": "트럼프 \"러시아 경유 30만t 시장에 풀기로\"…러 \"수출제한 해제\"",
+      "summary": "트럼프 \"러시아 경유 30만t 시장에 풀기로\"…러 \"수출제한 해제\"",
       "source": "한국경제",
-      "url": "https://www.hankyung.com/article/202610092235i"
+      "url": "https://www.hankyung.com/article/2026101032017"
     }
   ],
   "rates": [
     {
-      "headline": "전쟁에 치솟는 곡물가, 식량위기 우려 고개…\"진짜 공포는 내년\"",
-      "summary": "(서울=연합뉴스) 황철환 기자 = 미국과 이란의 전쟁이 장기화하면서 국제 곡물가가 들썩이는 가운데 내년부터 '애그플레이션'(농산물 가격 상승)으...",
+      "headline": "은행권 금리 경쟁…1년만기 예금 3%대 후반으로 속속 인상",
+      "summary": "(서울=연합뉴스) 이도흔 기자 = 시장금리 상승 속에 은행 정기예금 금리도 연 3%대 후반으로 향하고 있다.",
       "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261008104500008"
+      "url": "https://www.yna.co.kr/view/AKR20261009056800002"
     },
     {
-      "headline": "국고채 금리 혼조세…중단기 금리 상승하고 초장기 하락(종합)",
-      "summary": "(서울=연합뉴스) 강수지 기자 = 8일 국고채 금리는 만기별로 혼조세를 나타냈다.",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261008167551008"
+      "headline": "5%대 美 금리 vs 불뿜는 반도체 실적…10월 증시 향방 가를 3대 변수",
+      "summary": "5%대 美 금리 vs 불뿜는 반도체 실적…10월 증시 향방 가를 3대 변수",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/202610081087i"
     }
   ],
   "employment": [
@@ -97,5 +97,5 @@
       "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079576"
     }
   ],
-  "updated_at": "2026년 10월 09일 10:42 기준"
+  "updated_at": "2026년 10월 10일 10:28 기준"
 }
