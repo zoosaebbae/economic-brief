@@ -1,16 +1,16 @@
 {
   "finance": [
     {
-      "headline": "계속되는 'AI 거품론'…TSMC가 답을 할까 [다음주 주요변수 미리보기]",
-      "summary": "계속되는 'AI 거품론'…TSMC가 답을 할까 [다음주 주요변수 미리보기]",
+      "headline": "\"하루에 1조 벌었는데…\" 한국 개미들 다시 '미장' 가는 이유 [분석+]",
+      "summary": "\"하루에 1조 벌었는데…\" 한국 개미들 다시 '미장' 가는 이유 [분석+]",
       "source": "한국경제",
-      "url": "https://www.hankyung.com/article/202610092829i"
+      "url": "https://www.hankyung.com/article/2026100807756"
     },
     {
-      "headline": "AI 수요 오해 풀렸지만, S&P 신기록 다가섰지만, 또 떨어진 반도체 [김현석의 월스트리트나우]",
-      "summary": "AI 수요 오해 풀렸지만, S&P 신기록 다가섰지만, 또 떨어진 반도체 [김현석의 월스트리트나우]",
+      "headline": "장기채로 큰돈 버는 시대는 끝…상위 1% 부자들 향한 곳",
+      "summary": "장기채로 큰돈 버는 시대는 끝…상위 1% 부자들 향한 곳",
       "source": "한국경제",
-      "url": "https://www.hankyung.com/article/202610103221i"
+      "url": "https://www.hankyung.com/article/202610078550i"
     }
   ],
   "securities": [
@@ -21,10 +21,10 @@
       "url": "https://www.hankyung.com/article/202609293059i"
     },
     {
-      "headline": "\"내 S&P500 팔긴 싫은데 불안해\"…서학개미 겨냥 ETF 나왔다",
-      "summary": "\"내 S&P500 팔긴 싫은데 불안해\"…서학개미 겨냥 ETF 나왔다",
+      "headline": "\"제2의 엔비디아 놓칠라\"…상장 전인데 개미들 벌써 '들썩' [이수의 ETF줌인]",
+      "summary": "\"제2의 엔비디아 놓칠라\"…상장 전인데 개미들 벌써 '들썩' [이수의 ETF줌인]",
       "source": "한국경제",
-      "url": "https://www.hankyung.com/article/202610092663i"
+      "url": "https://www.hankyung.com/article/2026100813616"
     }
   ],
   "realestate": [
@@ -43,44 +43,44 @@
   ],
   "global": [
     {
-      "headline": "[아프리카인물열전](41) '유리천장 깬 개혁가' WTO 첫 여성 수장 오콘조이웨알라",
-      "summary": "(카이로=연합뉴스) 김상훈 특파원 = 세계무역기구(WTO) 사무총장 응고지 오콘조이웨알라(72)의 이름 앞에는 '최초의 여성'이자 '최초의 아프...",
+      "headline": "수출 굴, 미국서 6차례 노로바이러스로 폐기…관리 예산 미편성",
+      "summary": "(서울=연합뉴스) 정수연 기자 = 미국으로 수출한 굴에서 노로바이러스가 나와 전량 폐기된 사례가 6차례 발생한 것으로 나타났다.",
       "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20260921172200079"
+      "url": "https://www.yna.co.kr/view/AKR20261011013900030"
     },
     {
-      "headline": "트럼프 \"러시아 경유 30만t 시장에 풀기로\"…러 \"수출제한 해제\"",
-      "summary": "트럼프 \"러시아 경유 30만t 시장에 풀기로\"…러 \"수출제한 해제\"",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026101032017"
+      "headline": "[팩트체크] 중국서 잡아 제주서 말린 생선…제품명에 '제주' 붙여도 될까",
+      "summary": "(서울=연합뉴스) 권혜진 기자 = 중국에서 잡은 생선을 제주에서 건조·가공했다면 이 생선의 원산지는 어디일까.",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261007089900518"
     }
   ],
   "rates": [
     {
-      "headline": "은행권 금리 경쟁…1년만기 예금 3%대 후반으로 속속 인상",
-      "summary": "(서울=연합뉴스) 이도흔 기자 = 시장금리 상승 속에 은행 정기예금 금리도 연 3%대 후반으로 향하고 있다.",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261009056800002"
+      "headline": "뚝 떨어진 원달러 환율…수혜 업종과 현 시점 투자전략은?",
+      "summary": "뚝 떨어진 원달러 환율…수혜 업종과 현 시점 투자전략은?",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/202610081591i"
     },
     {
-      "headline": "5%대 美 금리 vs 불뿜는 반도체 실적…10월 증시 향방 가를 3대 변수",
-      "summary": "5%대 美 금리 vs 불뿜는 반도체 실적…10월 증시 향방 가를 3대 변수",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/202610081087i"
+      "headline": "답답한 증시 대신 발행어음?…증권사, 4∼5% 상품 잇달아 출시",
+      "summary": "(서울=연합뉴스) 임은진 기자 = 최근 답답한 흐름을 보이는 코스피에 지친 투자자를 잡기 위해 증권사들이 잇달아 금리 4∼5% 수준의 발행어음 ...",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261009024400008"
     }
   ],
   "employment": [
     {
-      "headline": "거제시·삼성중공업·거제공고, 지역인재 채용 업무 협약",
-      "summary": "(거제=연합뉴스) 정종호 기자 = 경남 거제시는 8일 시청에서 삼성중공업, 거제공업고등학교와 지역인재 채용을 위한 업무 협약을 체결했다.",
+      "headline": "[다음주 경제] 취업자 얼마나 늘었나…IMF, 韓성장률 전망 수정치 발표",
+      "summary": "(세종·서울=연합뉴스) 이세원 배영경 한지훈 기자 = 다음 주(12∼16일)에는 취업자 숫자와 가계대출 동향 등 민생과 밀접한 경제 지표가 공개...",
       "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261008152600052"
+      "url": "https://www.yna.co.kr/view/AKR20261010018000002"
     },
     {
-      "headline": "사업주와 인사담당자를 위한 난임치료휴가 및 급여제도 활용가이드",
-      "summary": "사업주와 인사담당자를 위한 난임치료휴가 및 급여제도 활용가이드",
-      "source": "고용노동부",
-      "url": "https://www.moel.go.kr/policy/policydata/view.do?bbs_seq=20260800716"
+      "headline": "정부 해외취업연수 매년 10% 안팎 폐강…피해보상도 지연",
+      "summary": "(서울=연합뉴스) 옥성구 기자 = 정부가 해외취업을 희망하는 청년을 현지 기업과 연결하는 해외취업연수 과정이 예측 실패 등으로 매년 10% 안팎...",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261008176700530"
     }
   ],
   "policy": [
@@ -97,5 +97,5 @@
       "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079576"
     }
   ],
-  "updated_at": "2026년 10월 10일 10:28 기준"
+  "updated_at": "2026년 10월 11일 09:38 기준"
 }
