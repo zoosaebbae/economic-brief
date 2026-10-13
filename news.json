@@ -1,101 +1,101 @@
 {
   "finance": [
     {
-      "headline": "출생연도 관계없이 청년미래적금 신청 가능…12일부터 16일까지",
-      "summary": "(서울=연합뉴스) 강류나 기자 = 오는 12일부터 16일까지 출생 연도와 관계없이 청년미래적금 가입 신청이 가능하다.",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261010039100002"
+      "headline": "[단독] 신한, '리딩 금융그룹 마지막 퍼즐' 롯데손보 품는다",
+      "summary": "[단독] 신한, '리딩 금융그룹 마지막 퍼즐' 롯데손보 품는다",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/202610138450i"
     },
     {
-      "headline": "50만원도 가입…적립식 랩 인기",
-      "summary": "50만원도 가입…적립식 랩 인기",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026100928981"
+      "headline": "미신고 가상자산업체 웹사이트 27곳 국내접속 차단",
+      "summary": "(서울=연합뉴스) 강수련 기자 = 금융위원회 금융정보분석원(FIU)은 13일 불법 가상자산 취급업자의 웹사이트 27건을 대상으로 국내 접속차단(...",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261013064600002"
     }
   ],
   "securities": [
     {
-      "headline": "[게시판] 키움증권, 연금저축계좌 ETF 거래 이벤트",
-      "summary": "▲ 키움증권[039490]은 연금저축계좌로 상장지수펀드(ETF)에 투자하는 이용자를 대상으로 '연금저축 ETF 자산운용 이벤트'를 오는 12월 ...",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261012048100008"
+      "headline": "'얼마를 날린 거야' 하루 만에 16% 급락…개미들 '비명' [종목+]",
+      "summary": "'얼마를 날린 거야' 하루 만에 16% 급락…개미들 '비명' [종목+]",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026101258776"
     },
     {
-      "headline": "[특징주] SK하이닉스, 장 초반 2.6% 급락…삼전도 0.9%↓",
-      "summary": "(서울=연합뉴스) 황철환 기자 = 한글날 연휴 이후 첫 거래일인 12일 장 초반 삼성전자[005930]와 SK하이닉스[000660]가 동반 약세...",
+      "headline": "'검은 화요일' 코스피 추락에 악소리…닷새만에 '7천피→5천피'",
+      "summary": "(서울=연합뉴스) 황철환 기자 = 인공지능(AI) 인프라 투자 둔화 우려가 재점화한 가운데 코스피가 불과 5거래일 만에 1천 포인트 넘게 빠지며...",
       "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261012038700008"
+      "url": "https://www.yna.co.kr/view/AKR20261013089200008"
     }
   ],
   "realestate": [
     {
-      "headline": "\"삼성역 7분 만에 간다\"…'서초구 과천동' 국평 30억 초읽기 [철길옆집]",
-      "summary": "\"삼성역 7분 만에 간다\"…'서초구 과천동' 국평 30억 초읽기 [철길옆집]",
+      "headline": "\"새 아파트 받으려다 7억 나갈 판\"…서울 집주인들 '날벼락'",
+      "summary": "\"새 아파트 받으려다 7억 나갈 판\"…서울 집주인들 '날벼락'",
       "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026100781246"
+      "url": "https://www.hankyung.com/article/2026101270421"
     },
     {
-      "headline": "서울 아파트 3분기 매매거래 54.7%가 전고점 이상",
-      "summary": "(서울=연합뉴스) 임기창 기자 = 올 3분기 서울 아파트 매매거래의 절반 이상이 과거 최고 거래가와 같거나 그보다 높은 가격에 거래된 것으로 나...",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261012039200003"
+      "headline": "\"현금 20억 없어도 서울 아파트 주인 된다\"…30년 베테랑의 해법",
+      "summary": "\"현금 20억 없어도 서울 아파트 주인 된다\"…30년 베테랑의 해법",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026101268501"
     }
   ],
   "global": [
     {
-      "headline": "반도체 업고 이달초 수출 261억달러…2배로 뛰며 역대 최대(종합)",
-      "summary": "(세종=연합뉴스) 안채원 기자 = 반도체 수출 고공행진에 힘입어 이달 초 수출액이 두 배로 뛰며 동기 기준 역대 최대치를 기록했다.",
+      "headline": "美, 나토에도 두얼굴…겉으론 \"러시아 격퇴\" 뒤에선 우크라 압박",
+      "summary": "(서울=연합뉴스) 임화섭 기자 = 미국이 도널드 트럼프 대통령의 이른바 '러시아 경유딜'과 맞물려 북대서양조약기구(나토·NATO)에서는 대러시아...",
       "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261012028651002"
+      "url": "https://www.yna.co.kr/view/AKR20261013057900009"
     },
     {
-      "headline": "[1보] 10월 1∼10일 수출 261억 달러, 102% 증가…일평균 28.5%↑",
-      "summary": "(",
+      "headline": "임광현, 빅테크 과세 소송 패소에 \"할 수 있는 거 다 해보겠다\"",
+      "summary": "(세종=연합뉴스) 이대희 기자 = 임광현 국세청장은 13일 최근 구글·메타 등 글로벌 빅테크 기업과의 과세 소송에서 잇따라 패소한 점에 관해 \"...",
       "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261012028600002"
+      "url": "https://www.yna.co.kr/view/AKR20261013079200002"
     }
   ],
   "rates": [
     {
-      "headline": "한투증권 \"초과 세수 활용 촉각…통화정책이 금리 변수\"",
-      "summary": "(서울=연합뉴스) 강수지 기자 = 한국투자증권은 12일 올해 초과 세수의 활용 방안이 장기 국채 수급 안정에 힘을 보태겠지만, 향후 채권금리 방...",
+      "headline": "국고채 금리 일제히 하락…3년물 장중 연 3.875%",
+      "summary": "(서울=연합뉴스) 13일 국고채 금리가 일제히 하락하고 있다.",
       "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261012022900008"
+      "url": "https://www.yna.co.kr/view/AKR20261013091300008"
     },
     {
-      "headline": "한투증권 \"방향성 부재 코스피…3분기 이익 전망치 하향 조정\"",
-      "summary": "(서울=연합뉴스) 임은진 기자 = 한국투자증권은 최근 코스피가 방향성이 부재한 흐름을 보이고 있지만 이번 주 발표될 미국의 근원 소비자물가지수(...",
+      "headline": "NH농협은행, 최고금리 연 3.9% 특판예금 출시",
+      "summary": "(서울=연합뉴스) 채새롬 기자 = NH농협은행은 농협금융 플랫폼 NH올원뱅크 서비스 개시 10주년을 기념해 최고 연 3.9% 금리를 제공하는 '...",
       "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261012016200008"
+      "url": "https://www.yna.co.kr/view/AKR20261013059600002"
     }
   ],
   "employment": [
     {
-      "headline": "속초 고용 지표 개선…상용직 늘고 청년고용률 강원 최고 유지",
-      "summary": "(속초=연합뉴스) 류호준 기자 = 강원 속초지역 상용근로자 수와 여성 고용률이 증가한 것으로 나타났다.",
+      "headline": "[여주소식] 여주도시공사, 신규 직원 23명 공개 채용",
+      "summary": "(여주=연합뉴스) 경기 여주도시공사는 일반직 6명과 기간제 근로자 17명 등 23명의 신규 직원을 공개 채용한다고 13일 밝혔다.",
       "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261012027600062"
+      "url": "https://www.yna.co.kr/view/AKR20261013072300061"
     },
     {
-      "headline": "3분기 인공지능 툴 키워드 공고 170%↑…증가율 1위는 '클로드'",
-      "summary": "(서울=연합뉴스) 임성호 기자 = 인공지능(AI)·데이터 기반 HR테크 플랫폼 잡코리아는 기업들이 채용공고에서 AI 활용 능력을 요구할 때 구체...",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261012031700003"
+      "headline": "'26년 9월 중대재해사이렌(오픈채팅방) 자료 공개",
+      "summary": "'26년 9월 중대재해사이렌(오픈채팅방) 자료 공개",
+      "source": "고용노동부",
+      "url": "https://www.moel.go.kr/policy/policydata/view.do?bbs_seq=20261000063"
     }
   ],
   "policy": [
+    {
+      "headline": "[보도참고] 2026년 국제통화기금(IMF) 10월 세계경제전망(WEO)",
+      "summary": "[보도참고] 2026년 국제통화기금(IMF) 10월 세계경제전망(WEO)",
+      "source": "기획재정부",
+      "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079594"
+    },
     {
       "headline": "제11차 공급망안정화위원회 개최",
       "summary": "제11차 공급망안정화위원회 개최",
       "source": "기획재정부",
       "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079584"
-    },
-    {
-      "headline": "제274차 대외경제장관회의 개최",
-      "summary": "제274차 대외경제장관회의 개최",
-      "source": "기획재정부",
-      "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079586"
     }
   ],
-  "updated_at": "2026년 10월 12일 09:56 기준"
+  "updated_at": "2026년 10월 13일 11:49 기준"
 }
