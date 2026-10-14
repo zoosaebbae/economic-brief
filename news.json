@@ -1,30 +1,30 @@
 {
   "finance": [
     {
-      "headline": "[단독] 신한, '리딩 금융그룹 마지막 퍼즐' 롯데손보 품는다",
-      "summary": "[단독] 신한, '리딩 금융그룹 마지막 퍼즐' 롯데손보 품는다",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/202610138450i"
+      "headline": "[말랑말랑톡] 농협은행 '호남반도체' 곳곳 현수막…\"금고 역할\"",
+      "summary": "(전남광주=연합뉴스) 전승현 기자 = '800조 반도체 투자…전남광주의 미래.'",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261014046600054"
     },
     {
-      "headline": "미신고 가상자산업체 웹사이트 27곳 국내접속 차단",
-      "summary": "(서울=연합뉴스) 강수련 기자 = 금융위원회 금융정보분석원(FIU)은 13일 불법 가상자산 취급업자의 웹사이트 27건을 대상으로 국내 접속차단(...",
+      "headline": "[게시판] NH농협은행, 전국 영업점·사무소에 전자계약시스템 도입",
+      "summary": "▲ NH농협은행은 이달 30일부터 전자계약시스템을 전 영업점과 사무소에 도입한다고 14일 밝혔다. 이 시스템은 물품구매·용역·공사 계약의 체결,...",
       "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261013064600002"
+      "url": "https://www.yna.co.kr/view/AKR20261014047100002"
     }
   ],
   "securities": [
     {
-      "headline": "'얼마를 날린 거야' 하루 만에 16% 급락…개미들 '비명' [종목+]",
-      "summary": "'얼마를 날린 거야' 하루 만에 16% 급락…개미들 '비명' [종목+]",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026101258776"
+      "headline": "[특징주] 사우디-예멘 후티 충돌에 장 초반 해운주 강세",
+      "summary": "(서울=연합뉴스) 김유아 기자 = 최근 사우디아라비아와 예멘의 친이란 반군 후티 간 무력 충돌이 계속되는 가운데 14일 국내 증시에서 해운주가 ...",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261014048300008"
     },
     {
-      "headline": "'검은 화요일' 코스피 추락에 악소리…닷새만에 '7천피→5천피'",
-      "summary": "(서울=연합뉴스) 황철환 기자 = 인공지능(AI) 인프라 투자 둔화 우려가 재점화한 가운데 코스피가 불과 5거래일 만에 1천 포인트 넘게 빠지며...",
+      "headline": "[특징주] 이차전지주, ESS 성장 기대에 강세…삼성SDI 3%대↑",
+      "summary": "(서울=연합뉴스) 곽윤아 기자 = 최근 에너지저장장치(ESS) 수요 확대에 대한 기대가 커지는 가운데 14일 장 초반 삼성SDI[006400] ...",
       "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261013089200008"
+      "url": "https://www.yna.co.kr/view/AKR20261014045600008"
     }
   ],
   "realestate": [
@@ -43,59 +43,59 @@
   ],
   "global": [
     {
-      "headline": "美, 나토에도 두얼굴…겉으론 \"러시아 격퇴\" 뒤에선 우크라 압박",
-      "summary": "(서울=연합뉴스) 임화섭 기자 = 미국이 도널드 트럼프 대통령의 이른바 '러시아 경유딜'과 맞물려 북대서양조약기구(나토·NATO)에서는 대러시아...",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261013057900009"
+      "headline": "흔들리는 국장…서학개미 선호하는 '미국 주식' 따져보니",
+      "summary": "흔들리는 국장…서학개미 선호하는 '미국 주식' 따져보니",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/202610139110i"
     },
     {
-      "headline": "임광현, 빅테크 과세 소송 패소에 \"할 수 있는 거 다 해보겠다\"",
-      "summary": "(세종=연합뉴스) 이대희 기자 = 임광현 국세청장은 13일 최근 구글·메타 등 글로벌 빅테크 기업과의 과세 소송에서 잇따라 패소한 점에 관해 \"...",
+      "headline": "정태호 \"올해 공급망기금 91% 대기업에…지원체계 보완해야\"",
+      "summary": "(서울=연합뉴스) 박재하 기자 = 글로벌 공급망 위기 대응을 위해 국내 기업에 지원하는 '공급망안정화기금'이 대기업에 편중되고 있어 이를 재조정...",
       "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261013079200002"
+      "url": "https://www.yna.co.kr/view/AKR20261013181600001"
     }
   ],
   "rates": [
     {
-      "headline": "국고채 금리 일제히 하락…3년물 장중 연 3.875%",
-      "summary": "(서울=연합뉴스) 13일 국고채 금리가 일제히 하락하고 있다.",
+      "headline": "美 금리 급등 충격 월가로 번지나…대형은행 실적 '희비 교차'",
+      "summary": "(뉴욕=연합뉴스) 임수정 특파원 = 미국의 금리 급등으로 채권시장이 요동치는 상황에서 3분기 실적을 발표한 대형은행들의 희비가 엇갈렸다.",
       "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261013091300008"
+      "url": "https://www.yna.co.kr/view/AKR20261014009700072"
     },
     {
-      "headline": "NH농협은행, 최고금리 연 3.9% 특판예금 출시",
-      "summary": "(서울=연합뉴스) 채새롬 기자 = NH농협은행은 농협금융 플랫폼 NH올원뱅크 서비스 개시 10주년을 기념해 최고 연 3.9% 금리를 제공하는 '...",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261013059600002"
+      "headline": "\"예금 빼야 하나\"…증권사, 손해 보면서 '파격' 금리 내건 이유",
+      "summary": "\"예금 빼야 하나\"…증권사, 손해 보면서 '파격' 금리 내건 이유",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026101395051"
     }
   ],
   "employment": [
     {
-      "headline": "[여주소식] 여주도시공사, 신규 직원 23명 공개 채용",
-      "summary": "(여주=연합뉴스) 경기 여주도시공사는 일반직 6명과 기간제 근로자 17명 등 23명의 신규 직원을 공개 채용한다고 13일 밝혔다.",
+      "headline": "코오롱인더스트리, 채용전환형 인턴 모집…19일까지 접수",
+      "summary": "(서울=연합뉴스) 조성흠 기자 = 화학소재 기업 코오롱인더스트리는 제조 부문에서 2026년 채용전환형 인턴 채용을 실시한다고 13일 밝혔다.",
       "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261013072300061"
+      "url": "https://www.yna.co.kr/view/AKR20261014039100003"
     },
     {
-      "headline": "'26년 9월 중대재해사이렌(오픈채팅방) 자료 공개",
-      "summary": "'26년 9월 중대재해사이렌(오픈채팅방) 자료 공개",
+      "headline": "2026년 재정지원 일자리사업 성과평가 결과",
+      "summary": "2026년 재정지원 일자리사업 성과평가 결과",
       "source": "고용노동부",
-      "url": "https://www.moel.go.kr/policy/policydata/view.do?bbs_seq=20261000063"
+      "url": "https://www.moel.go.kr/policy/policydata/view.do?bbs_seq=20260900305"
     }
   ],
   "policy": [
     {
-      "headline": "[보도참고] 2026년 국제통화기금(IMF) 10월 세계경제전망(WEO)",
-      "summary": "[보도참고] 2026년 국제통화기금(IMF) 10월 세계경제전망(WEO)",
+      "headline": "비상경제본부 회의, 경제관계장관회의 겸 서비스산업발전 TF 개최",
+      "summary": "비상경제본부 회의, 경제관계장관회의 겸 서비스산업발전 TF 개최",
       "source": "기획재정부",
-      "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079594"
+      "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079631"
     },
     {
-      "headline": "제11차 공급망안정화위원회 개최",
-      "summary": "제11차 공급망안정화위원회 개최",
+      "headline": "「AI·융복합 K-뷰티 서비스 지원방안」 발표",
+      "summary": "「AI·융복합 K-뷰티 서비스 지원방안」 발표",
       "source": "기획재정부",
-      "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079584"
+      "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079628"
     }
   ],
-  "updated_at": "2026년 10월 13일 11:49 기준"
+  "updated_at": "2026년 10월 14일 09:49 기준"
 }
