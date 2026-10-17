@@ -1,101 +1,101 @@
 {
   "finance": [
     {
-      "headline": "오늘의 프리미엄9 콘텐츠 다이제스트 (10월 15일)",
-      "summary": "오늘의 프리미엄9 콘텐츠 다이제스트 (10월 15일)",
+      "headline": "하루만에 끝난 데드캣 바운스, 'AI 피로 증후군' 증폭…전쟁·청산설까지 [김현석의 월스트리트나우]",
+      "summary": "하루만에 끝난 데드캣 바운스, 'AI 피로 증후군' 증폭…전쟁·청산설까지 [김현석의 월스트리트나우]",
       "source": "한국경제",
-      "url": "https://www.hankyung.com/article/202610154297i"
+      "url": "https://www.hankyung.com/article/202610177445i"
     },
     {
-      "headline": "[포항소식] iM뱅크·NH농협은행, 3년간 시 금고 운영",
-      "summary": "(포항=연합뉴스) ▲ iM뱅크·NH농협은행, 3년간 시 금고 운영 = 경북 포항시는 15일 시청에서 iM뱅크, NH농협은행과 시 금고 업무 약정...",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261015158700053"
+      "headline": "삼양식품, AI 변동성 안전지대 '매력'",
+      "summary": "삼양식품, AI 변동성 안전지대 '매력'",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026101670471"
     }
   ],
   "securities": [
     {
-      "headline": "\"20년간 딱 두 번 있었다\"…코스피 급락에 나온 섬뜩한 진단",
-      "summary": "\"20년간 딱 두 번 있었다\"…코스피 급락에 나온 섬뜩한 진단",
+      "headline": "20% 폭락에도 \"증시 끄떡없다\"…정부는 자신만만한 이유",
+      "summary": "20% 폭락에도 \"증시 끄떡없다\"…정부는 자신만만한 이유",
       "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026101548051"
+      "url": "https://www.hankyung.com/article/2026101658846"
     },
     {
-      "headline": "\"3억 벌었을 때 팔 걸\" 탄식…증권가 전망 믿었다가 '곡소리' [분석+]",
-      "summary": "\"3억 벌었을 때 팔 걸\" 탄식…증권가 전망 믿었다가 '곡소리' [분석+]",
+      "headline": "배당에 소각까지 다 퍼준다…실적 날개 단 '이 종목'",
+      "summary": "배당에 소각까지 다 퍼준다…실적 날개 단 '이 종목'",
       "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026101539366"
+      "url": "https://www.hankyung.com/article/202610166333i"
     }
   ],
   "realestate": [
     {
-      "headline": "9월 기준 서울 민간아파트 분양가 전월과 동일",
-      "summary": "(서울=연합뉴스) 임기창 기자 = 올 9월 기준 서울 민간아파트의 단위면적(㎡)당 분양가격이 전월과 같은 수준을 유지했다.",
+      "headline": "부평 산곡역자이힐스테이트&하늘채 등 6천734가구 내주 분양",
+      "summary": "(세종=연합뉴스) 오진송 기자 = 다음 주에는 전국에서 6천734가구가 분양에 나선다.",
       "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261015165400003"
+      "url": "https://www.yna.co.kr/view/AKR20261016152400003"
     },
     {
-      "headline": "울산 노동계·진보당 \"현대차 공장 재건축, 고용안정 보장해야\"",
-      "summary": "(울산=연합뉴스) 장지현 기자 = 진보당 울산시당과 민주노총 울산지역본부, 금속노조 울산지부는 15일 정부 현대자동차 울산공장 전환 투자 지원방...",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261015159700057"
+      "headline": "국제유가 100달러 넘어도…정부, 석유 최고가격 4주 더 동결",
+      "summary": "국제유가 100달러 넘어도…정부, 석유 최고가격 4주 더 동결",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026101671917"
     }
   ],
   "global": [
     {
-      "headline": "\"한일 경제공동체는 꿈인가\"…日 닛케이도 본격 조명",
-      "summary": "\"한일 경제공동체는 꿈인가\"…日 닛케이도 본격 조명",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/202610165442i"
+      "headline": "'속도전' 멈춘 CPTPP…'수출영토'·'식량안보'에 타협점 찾을까",
+      "summary": "(서울=연합뉴스) 홍국기 장보인 기자 = 정부가 포괄적·점진적 환태평양경제동반자협정(CPTPP) 가입을 원점 재검토하기로 하면서 무역 확대와 농...",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261016022300030"
     },
     {
-      "headline": "\"AI에 일 맡겼더니, 뜻밖의 문제가…\" 삼성전자에 기회 왔다",
-      "summary": "\"AI에 일 맡겼더니, 뜻밖의 문제가…\" 삼성전자에 기회 왔다",
+      "headline": "트럼프 \"현대, 조지아주에 7486억 투자 발표\"…320개 일자리",
+      "summary": "트럼프 \"현대, 조지아주에 7486억 투자 발표\"…320개 일자리",
       "source": "한국경제",
-      "url": "https://www.hankyung.com/article/202610165354i"
+      "url": "https://www.hankyung.com/article/2026101774917"
     }
   ],
   "rates": [
     {
-      "headline": "신한증권 \"증권주, 악재 덜 반영돼\"…목표가 잇단 하향",
-      "summary": "(서울=연합뉴스) 김유향 기자 = 신한투자증권은 \"증권주에 대한 컨센서스(시장 전망치)에 거래대금 감소와 금리 급등, 보유자산 평가손실 등이 아...",
+      "headline": "국고채 금리 일제히 하락…코스피 반등에도 외인 매수 영향(종합)",
+      "summary": "(서울=연합뉴스) 강수지 기자 = 16일 국고채 금리는 일제히 하락했다.",
       "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261016025700008"
+      "url": "https://www.yna.co.kr/view/AKR20261016141851008"
     },
     {
-      "headline": "시장금리 상승에…보험주 눈높이 낮추는 증권사들",
-      "summary": "시장금리 상승에…보험주 눈높이 낮추는 증권사들",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/202610154310i"
+      "headline": "환율, 1,331원 또 연저점 …2년 만에 최저",
+      "summary": "(서울=연합뉴스) 이도흔 기자 = 원/달러 환율이 장중 연저점을 새로 쓰며 2년만에 가장 낮은 수준으로 떨어졌다.",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261016131100002"
     }
   ],
   "employment": [
     {
-      "headline": "부산 3분기 고용률 59.2%…작년보다 0.5% 포인트 상승",
-      "summary": "(부산=연합뉴스) 오수희 기자 = 부산 올해 3분기 고용률이 1년 전보다 소폭 상승한 것으로 나타났다.",
+      "headline": "충청권 4개 시도 손잡은 '내일이음 취업박람회' 성료",
+      "summary": "(청주=연합뉴스) 전창해 기자 = 충북도를 중심으로 대전·세종·충남이 공동으로 연 '2026년 충북도&amp;충청권 내일이음 취업박람회'가 성황...",
       "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261016026600051"
+      "url": "https://www.yna.co.kr/view/AKR20261016125400064"
     },
     {
-      "headline": "구직자가 뽑은 관심기업 1위 SK하이닉스…현대차 2위",
-      "summary": "(서울=연합뉴스) 김민지 기자 = 인크루트는 최근 1년간(2025년 9월∼2026년 9월) 구직자가 설정한 관심 기업 데이터를 분석한 결과, S...",
+      "headline": "충북지역 9월 고용률 67%…3개월 연속 하락",
+      "summary": "(청주=연합뉴스) 전창해 기자 = 충북지역의 고용률이 3개월 연속 하락했다.",
       "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261016021500003"
+      "url": "https://www.yna.co.kr/view/AKR20261016075200064"
     }
   ],
   "policy": [
+    {
+      "headline": "제11차 관계부처 합동 일자리전담반(TF) 개최",
+      "summary": "제11차 관계부처 합동 일자리전담반(TF) 개최",
+      "source": "기획재정부",
+      "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079661"
+    },
     {
       "headline": "[보도참고] '26.9월 고용동향 및 평가",
       "summary": "[보도참고] '26.9월 고용동향 및 평가",
       "source": "기획재정부",
       "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079660"
-    },
-    {
-      "headline": "이형일 부총리, 日 가타야마 재무장관 면담에서 한일 통화스왑 연장에 합의",
-      "summary": "이형일 부총리, 日 가타야마 재무장관 면담에서 한일 통화스왑 연장에 합의",
-      "source": "기획재정부",
-      "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079659"
     }
   ],
-  "updated_at": "2026년 10월 16일 09:02 기준"
+  "updated_at": "2026년 10월 17일 09:07 기준"
 }
