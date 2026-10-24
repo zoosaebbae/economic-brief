@@ -1,101 +1,101 @@
 {
   "finance": [
     {
-      "headline": "SK하이닉스, 솔리다임 IPO 검토 중단에도…프리장서 120만원 붕괴",
-      "summary": "SK하이닉스, 솔리다임 IPO 검토 중단에도…프리장서 120만원 붕괴",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026102300706"
+      "headline": "\"美은행들, 고객계좌서 '미승인 AI 에이전트' 활동 포착\"",
+      "summary": "(서울=연합뉴스) 류미나 기자 = 미국 주요 은행들이 고객 계좌에서 검증되지 않은 인공지능(AI) 에이전트가 작동하는 사례를 잇달아 포착하고 차...",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261023068300009"
     },
     {
-      "headline": "[속보] SK하이닉스, 솔리다임 프리IPO·IPO 검토 중단",
-      "summary": "[속보] SK하이닉스, 솔리다임 프리IPO·IPO 검토 중단",
+      "headline": "KB증권, 기업 대상 '퇴직연금 세미나' 성료",
+      "summary": "KB증권, 기업 대상 '퇴직연금 세미나' 성료",
       "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026102399877"
+      "url": "https://www.hankyung.com/article/2026102306696"
     }
   ],
   "securities": [
     {
-      "headline": "나스닥 올라도 코스피는 급락…따로노는 한·미 증시, 왜?",
-      "summary": "나스닥 올라도 코스피는 급락…따로노는 한·미 증시, 왜?",
+      "headline": "美 중간선거 D-10…\"누가 이겨도 뜬다\" 살아남을 종목은",
+      "summary": "美 중간선거 D-10…\"누가 이겨도 뜬다\" 살아남을 종목은",
       "source": "한국경제",
-      "url": "https://www.hankyung.com/article/202610228756i"
+      "url": "https://www.hankyung.com/article/202610231061i"
     },
     {
-      "headline": "[특징주] 디티에스, 코스닥 상장 첫날 장초반 '따블'",
-      "summary": "(서울=연합뉴스) 김유향 기자 = 디티에스[0015M0]가 코스닥 시장 거래 첫날인 23일 장 초반 '따블'(공모가의 2배)을 기록했다.",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261023040100008"
+      "headline": "\"곧 코스피 반등 기회 온다…급락 시 조금씩 매수해야\"",
+      "summary": "\"곧 코스피 반등 기회 온다…급락 시 조금씩 매수해야\"",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/202610229175i"
     }
   ],
   "realestate": [
     {
-      "headline": "DL이앤씨, 광명 하안주공9단지 시공사 입찰 단독 참여",
-      "summary": "(서울=연합뉴스) 서미숙 기자 = DL이앤씨가 경기도 광명시 하안주공9단지 재건축 사업 시공사 선정에 단독 참여했다.",
+      "headline": "[부동산캘린더] 내주 전국 5천555가구 분양…수도권·부산 중심",
+      "summary": "(세종=연합뉴스) 오진송 기자 = 다음 주에는 전국 8곳에서 5천500여 가구가 청약 신청을 받는다.",
       "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261023037300003"
+      "url": "https://www.yna.co.kr/view/AKR20261023165700003"
     },
     {
-      "headline": "용산 한강변 '산호아파트' 최고 47층 666세대로 재건축 추진",
-      "summary": "(서울=연합뉴스) 정준영 기자 = 서울 용산구(구청장 김경대)는 23일 '산호아파트 주택재건축정비사업 정비구역 지정 변경 및 정비계획 결정 변경...",
+      "headline": "\"서울, 정비사업으로 2∼3년 내 약 5만 가구 이주·멸실\"",
+      "summary": "(서울=연합뉴스) 오예진 기자 = 서울 시내 재개발·재건축 사업 진행에 따라 앞으로 2∼3년 안에 약 5만 가구가 이주·멸실될 것이라는 전망이 ...",
       "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261023037500004"
+      "url": "https://www.yna.co.kr/view/AKR20261023162800003"
     }
   ],
   "global": [
     {
-      "headline": "농심, 日 무신사 팝업서 신라면 브랜드 부스 운영",
-      "summary": "(서울=연합뉴스) 김세린 기자 = 농심[004370]은 23일부터 다음 달 8일까지 일본 오사카에서 열리는 '무신사 오사카 팝업 스토어 2026...",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261023032100030"
+      "headline": "요즘 나이키 안 팔린다더니…대박 난 일본 브랜드 정체 [도쿄나우]",
+      "summary": "요즘 나이키 안 팔린다더니…대박 난 일본 브랜드 정체 [도쿄나우]",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/202610230158i"
     },
     {
-      "headline": "iM증권 \"안전자산 초강세…AI기업·프랑스 국채 동향 주목해야\"",
-      "summary": "(서울=연합뉴스) 김유아 기자 = iM증권은 최근 미국 국채와 엔화가 동반 초강세 현상을 보인다고 지적하며 당분간 안전자산 선호 심리를 보여주는...",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261023028500008"
+      "headline": "프랑스 파리 근교서 괴한 총기 난사…1명 사망·4명 부상",
+      "summary": "프랑스 파리 근교서 괴한 총기 난사…1명 사망·4명 부상",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026102319977"
     }
   ],
   "rates": [
     {
-      "headline": "신한증권, LG디스플레이 목표가↓…\"단기 반등 쉽지 않아\"",
-      "summary": "(서울=연합뉴스) 고은지 기자 = 신한투자증권은 23일 LG디스플레이[034220]에 대해 \"환율·판가 등 단기 반등 트리거(촉매제)를 찾기 쉽...",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261023027200008"
+      "headline": "美 금리 결정에 구글·아마존·삼전닉스 실적까지...코스피 운명가를 슈퍼위크[다음주 변수 미리보기]",
+      "summary": "美 금리 결정에 구글·아마존·삼전닉스 실적까지...코스피 운명가를 슈퍼위크[다음주 변수 미리보기]",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/202610231830i"
     },
     {
-      "headline": "안전자산 찾아서…美 10년물 국채 금리, 한달만에 5% 밑으로",
-      "summary": "(뉴욕=연합뉴스) 김연숙 특파원 = 글로벌 채권 금리의 벤치마크인 미국 10년 만기 국채 금리가 22일(현지시간) 약 한 달 만에 5% 아래로 ...",
+      "headline": "국토장관 \"집값 상승폭 둔화…연말 금리 상향 시 시장 안정화\"(종합)",
+      "summary": "(서울·세종=연합뉴스) 오예진 오진송 기자 = 홍지선 국토교통부 장관은 최근 주택 가격 상승폭이 둔화하고 있다며 연말 금리가 오르면 주택시장이 ...",
       "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261023009000072"
+      "url": "https://www.yna.co.kr/view/AKR20261023088651003"
     }
   ],
   "employment": [
     {
-      "headline": "李대통령, 노인 일자리사업 발굴 주문…공공영역 적정임금 독려",
-      "summary": "(서울=연합뉴스) 임형섭 기자 = 이재명 대통령은 22일 \"생산적인 공공 일자리를 확대하는 것이 우리 정부의 기본 정책 방향\"이라며 노인 일자리...",
+      "headline": "취업난 속 삼전닉스 호황에 반도체고 경쟁률 '쑥'",
+      "summary": "(서울=연합뉴스) 노재현 기자 = 국내 반도체 업계의 호황이 이어지는 상황에서 전국 반도체고의 입학 경쟁도 한층 뜨거워졌다.",
       "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261022184400001"
+      "url": "https://www.yna.co.kr/view/AKR20261023102700530"
     },
     {
-      "headline": "2026년 재정지원 일자리사업 성과평가 결과",
-      "summary": "2026년 재정지원 일자리사업 성과평가 결과",
-      "source": "고용노동부",
-      "url": "https://www.moel.go.kr/policy/policydata/view.do?bbs_seq=20260900305"
+      "headline": "부산 북구, 공무직 채용서 6순위 지원자에 부당한 가점 줘 합격",
+      "summary": "(부산=연합뉴스) 김선호 기자 = 부산 북구가 공무직 근로자 채용 과정에서 합격권 밖 지원자에게 부당하게 가점을 줘 합격시키는 바람에 합격 대상...",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261023054600051"
     }
   ],
   "policy": [
     {
-      "headline": "(보도설명) 정부는 할당관세의 물가안정 효과를 높이기 위한 제도개선을 지속 추진 중입니다.",
-      "summary": "(보도설명) 정부는 할당관세의 물가안정 효과를 높이기 위한 제도개선을 지속 추진 중입니다.",
+      "headline": "'26.10월 국고채 「모집 방식 비경쟁인수」 발행 미실시",
+      "summary": "'26.10월 국고채 「모집 방식 비경쟁인수」 발행 미실시",
       "source": "기획재정부",
-      "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079736"
+      "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079737"
     },
     {
-      "headline": "피지컬 AI시대, 중소기업 혁신전략",
-      "summary": "피지컬 AI시대, 중소기업 혁신전략",
+      "headline": "제9회 디지털 이코노미 포럼 개최",
+      "summary": "제9회 디지털 이코노미 포럼 개최",
       "source": "기획재정부",
-      "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079719"
+      "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079738"
     }
   ],
-  "updated_at": "2026년 10월 23일 09:22 기준"
+  "updated_at": "2026년 10월 24일 09:13 기준"
 }
