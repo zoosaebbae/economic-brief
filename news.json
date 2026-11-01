@@ -1,30 +1,30 @@
 {
   "finance": [
     {
-      "headline": "기아, 3분기 최대 매출에도 영업이익 '쇼크'",
-      "summary": "기아, 3분기 최대 매출에도 영업이익 '쇼크'",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026103068501"
+      "headline": "KB국민은행, 국내 최초 GPU 파이낸싱 금융주선 총괄",
+      "summary": "(서울=연합뉴스) 한지훈 기자 = KB국민은행은 글로벌 대체투자 운용사 브룩필드가 추진하는 약 12조6천억원 규모의 인공지능(AI) 컴퓨팅 인프...",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261030166300002"
     },
     {
-      "headline": "오늘의 프리미엄9 콘텐츠 다이제스트(10월 30일)",
-      "summary": "오늘의 프리미엄9 콘텐츠 다이제스트(10월 30일)",
+      "headline": "AI 돈줄 마른다…반도체 성장 의구심에 韓주식 던진 외국인",
+      "summary": "AI 돈줄 마른다…반도체 성장 의구심에 韓주식 던진 외국인",
       "source": "한국경제",
-      "url": "https://www.hankyung.com/article/202610306578i"
+      "url": "https://www.hankyung.com/article/2026103068781"
     }
   ],
   "securities": [
     {
-      "headline": "\"11월 증시, 그래도 반도체? 전력기기 건설주?\"…증권사들이 꼽은 유망주는",
-      "summary": "\"11월 증시, 그래도 반도체? 전력기기 건설주?\"…증권사들이 꼽은 유망주는",
+      "headline": "'증시 바닥 찍었네' 기대감 폭발하더니…'3200억' 몰린 곳",
+      "summary": "'증시 바닥 찍었네' 기대감 폭발하더니…'3200억' 몰린 곳",
       "source": "한국경제",
-      "url": "https://www.hankyung.com/article/202610306989i"
+      "url": "https://www.hankyung.com/article/2026103173617"
     },
     {
-      "headline": "[오늘의 증권가 콜] 삼성SDI, 삼성전자, 현대차, 한화에어로스페이스, 두산에너빌, 한화솔루션, 아모레퍼시픽 등",
-      "summary": "[오늘의 증권가 콜] 삼성SDI, 삼성전자, 현대차, 한화에어로스페이스, 두산에너빌, 한화솔루션, 아모레퍼시픽 등",
+      "headline": "코스피 힘 못 쓰는데 2.8조 몰렸다…개미들 꽂힌 '이 상품' [이수의 ETF줌인]",
+      "summary": "코스피 힘 못 쓰는데 2.8조 몰렸다…개미들 꽂힌 '이 상품' [이수의 ETF줌인]",
       "source": "한국경제",
-      "url": "https://www.hankyung.com/article/202610305391i"
+      "url": "https://www.hankyung.com/article/2026103061976"
     }
   ],
   "realestate": [
@@ -43,30 +43,30 @@
   ],
   "global": [
     {
-      "headline": "[고양소식] 퓨리오사AI·엑스페릭스와 AI선도 도시 MOU",
-      "summary": "(고양=연합뉴스) 경기 고양시는 인공지능(AI) 반도체 기업 퓨리오사AI와 디지털 신원확인 솔루션 기업 엑스페릭스와 함께 '글로벌 AI 허브 유...",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261031021700060"
+      "headline": "\"우린 이긴 게 아냐\"…축배 들던 일본 덮친 '공포의 그림자' [도쿄나우]",
+      "summary": "\"우린 이긴 게 아냐\"…축배 들던 일본 덮친 '공포의 그림자' [도쿄나우]",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/202610317202i"
     },
     {
-      "headline": "해운대 센텀시티 품은 신세계…다시 불붙는 부산 백화점 전쟁",
-      "summary": "(부산=연합뉴스) 오수희 기자 = 신세계백화점의 롯데백화점 센텀시티점 인수를 계기로 부산 유통시장에서 두 회사의 경쟁 구도가 바뀌고 있다.",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261030023500051"
+      "headline": "AI 투자금 찾아 일본까지…빅테크, 엔화 자금 22조원 끌어갔다",
+      "summary": "AI 투자금 찾아 일본까지…빅테크, 엔화 자금 22조원 끌어갔다",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/202611017818i"
     }
   ],
   "rates": [
     {
-      "headline": "[다음주 경제] 소비자물가 얼마나 올랐을까…9월 국제수지도 발표",
-      "summary": "(서울·세종=연합뉴스) 이세원 한지훈 강수련 김수현 기자 = 다음 주(11월 2∼6일)에는 국내 물가 동향과 수출입 현황을 보여주는 지표가 공개...",
+      "headline": "은행 부실채권 1년만에 1.3조 늘었다…8년6개월만에 최대",
+      "summary": "(서울=연합뉴스) 채새롬 기자 = 금리 인상기 차주들의 원리금 상환 부담이 커지면서 대출 부실 우려가 점차 커지고 있다.",
       "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261031012200002"
+      "url": "https://www.yna.co.kr/view/AKR20261031044700002"
     },
     {
-      "headline": "국고채 금리 일제히 하락…위험회피 속 주요국 채권 강세(종합)",
-      "summary": "(서울=연합뉴스) 강수지 기자 = 30일 국고채 금리가 일제히 하락했다.",
+      "headline": "3분기 은행 중기 대출 등 연체율 '빨간불'…9년 반만에 최고",
+      "summary": "(서울=연합뉴스) 이도흔 기자 = 5대 은행의 중소기업 등 대출 연체율이 9년 반만에 최고 수준으로 오르는 등 금리 상승기 부실 우려가 커지고 ...",
       "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261030149151008"
+      "url": "https://www.yna.co.kr/view/AKR20261031045300002"
     }
   ],
   "employment": [
@@ -97,5 +97,5 @@
       "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079805"
     }
   ],
-  "updated_at": "2026년 10월 31일 10:24 기준"
+  "updated_at": "2026년 11월 01일 09:39 기준"
 }
