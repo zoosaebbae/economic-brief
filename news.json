@@ -1,30 +1,30 @@
 {
   "finance": [
     {
-      "headline": "KB국민은행, 국내 최초 GPU 파이낸싱 금융주선 총괄",
-      "summary": "(서울=연합뉴스) 한지훈 기자 = KB국민은행은 글로벌 대체투자 운용사 브룩필드가 추진하는 약 12조6천억원 규모의 인공지능(AI) 컴퓨팅 인프...",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261030166300002"
+      "headline": "AI 투자심리 불안에도…고액자산가는 삼성전자 찜했다",
+      "summary": "AI 투자심리 불안에도…고액자산가는 삼성전자 찜했다",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/202611018142i"
     },
     {
-      "headline": "AI 돈줄 마른다…반도체 성장 의구심에 韓주식 던진 외국인",
-      "summary": "AI 돈줄 마른다…반도체 성장 의구심에 韓주식 던진 외국인",
+      "headline": "LG씨엔에스, AI·클라우드 성장 기대에 8%대 강세",
+      "summary": "LG씨엔에스, AI·클라우드 성장 기대에 8%대 강세",
       "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026103068781"
+      "url": "https://www.hankyung.com/article/2026110293756"
     }
   ],
   "securities": [
     {
-      "headline": "'증시 바닥 찍었네' 기대감 폭발하더니…'3200억' 몰린 곳",
-      "summary": "'증시 바닥 찍었네' 기대감 폭발하더니…'3200억' 몰린 곳",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026103173617"
+      "headline": "[특징주] HL만도, 3분기 실적 부진에 장 초반 한때 12% 하락",
+      "summary": "(서울=연합뉴스) 김유아 기자 = 자동차 부품 제조사인 HL만도[204320]가 시장 전망치를 크게 밑도는 3분기 실적을 발표하자 2일 국내 증...",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261102037800008"
     },
     {
-      "headline": "코스피 힘 못 쓰는데 2.8조 몰렸다…개미들 꽂힌 '이 상품' [이수의 ETF줌인]",
-      "summary": "코스피 힘 못 쓰는데 2.8조 몰렸다…개미들 꽂힌 '이 상품' [이수의 ETF줌인]",
+      "headline": "\"한 달만에 목표주가 43% 올랐다고?\"…알짜 반도체 장비주는?",
+      "summary": "\"한 달만에 목표주가 43% 올랐다고?\"…알짜 반도체 장비주는?",
       "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026103061976"
+      "url": "https://www.hankyung.com/article/202611029291i"
     }
   ],
   "realestate": [
@@ -35,67 +35,67 @@
       "url": "https://www.hankyung.com/article/2026103070927"
     },
     {
-      "headline": "'190억' 신고가에 산 지 6개월 만에…옥주현 아파트 무슨 일",
-      "summary": "'190억' 신고가에 산 지 6개월 만에…옥주현 아파트 무슨 일",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/202610293897H"
+      "headline": "\"한국 부동산 시장 투명성지수 88개국 중 24위\"",
+      "summary": "(서울=연합뉴스) 임기창 기자 = 한국의 부동산 시장 투명성이 2년 전 대비 개선됐다는 조사 결과가 나왔다.",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261102050200003"
     }
   ],
   "global": [
+    {
+      "headline": "\"중국산 믿기 힘들어요\"…호주에서 인기 폭발한 한국 음식",
+      "summary": "\"중국산 믿기 힘들어요\"…호주에서 인기 폭발한 한국 음식",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026110187127"
+    },
     {
       "headline": "\"우린 이긴 게 아냐\"…축배 들던 일본 덮친 '공포의 그림자' [도쿄나우]",
       "summary": "\"우린 이긴 게 아냐\"…축배 들던 일본 덮친 '공포의 그림자' [도쿄나우]",
       "source": "한국경제",
       "url": "https://www.hankyung.com/article/202610317202i"
-    },
-    {
-      "headline": "AI 투자금 찾아 일본까지…빅테크, 엔화 자금 22조원 끌어갔다",
-      "summary": "AI 투자금 찾아 일본까지…빅테크, 엔화 자금 22조원 끌어갔다",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/202611017818i"
     }
   ],
   "rates": [
     {
-      "headline": "은행 부실채권 1년만에 1.3조 늘었다…8년6개월만에 최대",
-      "summary": "(서울=연합뉴스) 채새롬 기자 = 금리 인상기 차주들의 원리금 상환 부담이 커지면서 대출 부실 우려가 점차 커지고 있다.",
+      "headline": "증권가, '3분기 환율 부담' 에이피알에 \"해외 성장 지속\"",
+      "summary": "(서울=연합뉴스) 정회인 기자 = 증권가는 원화 강세의 영향으로 에이피알[278470]의 3분기 수익성이 기대에 못 미쳤지만, 미국과 유럽을 중...",
       "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261031044700002"
+      "url": "https://www.yna.co.kr/view/AKR20261102025200008"
     },
     {
-      "headline": "3분기 은행 중기 대출 등 연체율 '빨간불'…9년 반만에 최고",
-      "summary": "(서울=연합뉴스) 이도흔 기자 = 5대 은행의 중소기업 등 대출 연체율이 9년 반만에 최고 수준으로 오르는 등 금리 상승기 부실 우려가 커지고 ...",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261031045300002"
+      "headline": "환율·채권, 무역 흑자 vs 고유가…환율 '줄다리기'",
+      "summary": "환율·채권, 무역 흑자 vs 고유가…환율 '줄다리기'",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026110185401"
     }
   ],
   "employment": [
     {
-      "headline": "목포서 '전남광주 여성 일자리 박람회' 개최",
-      "summary": "(목포=연합뉴스) 형민우 기자 = '2026년 제3회 전남광주 여성 일자리 박람회'가 30일 전남광주 목포 실내체육관에서 열렸다.",
+      "headline": "대만 타이베이서 '울주 팝업스토어' 운영…식품기업 5곳 참여",
+      "summary": "(울산=연합뉴스) 장영은 기자 = 울산 울주군은 울산경제일자리진흥원과 함께 대만 타이베이 완자푸(Prosperity Plaza) 네이후점에서 '...",
       "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261030133000054"
+      "url": "https://www.yna.co.kr/view/AKR20261102041400057"
     },
     {
-      "headline": "2026년 재정지원 일자리사업 성과평가 결과",
-      "summary": "2026년 재정지원 일자리사업 성과평가 결과",
-      "source": "고용노동부",
-      "url": "https://www.moel.go.kr/policy/policydata/view.do?bbs_seq=20260900305"
+      "headline": "정년 후 연금까지 3년 '소득 절벽'…재취업 60% 임시·일용직",
+      "summary": "(서울=연합뉴스) 서한기 기자 = 국민연금을 받는 나이가 단계적으로 늦춰지면서 법정 정년 이후 연금을 타기 전까지 소득이 뚝 끊기는 제도적 소득...",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261101037100530"
     }
   ],
   "policy": [
+    {
+      "headline": "경제현안간담회 개최",
+      "summary": "경제현안간담회 개최",
+      "source": "기획재정부",
+      "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079820"
+    },
     {
       "headline": "권대영 1차관, 「주요 국책과제 이행점검」 TF 개최",
       "summary": "권대영 1차관, 「주요 국책과제 이행점검」 TF 개최",
       "source": "기획재정부",
       "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079811"
-    },
-    {
-      "headline": "한-독일 이중과세방지협정 개정의정서 서명",
-      "summary": "한-독일 이중과세방지협정 개정의정서 서명",
-      "source": "기획재정부",
-      "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079805"
     }
   ],
-  "updated_at": "2026년 11월 01일 09:39 기준"
+  "updated_at": "2026년 11월 02일 10:12 기준"
 }
