@@ -1,101 +1,101 @@
 {
   "finance": [
     {
-      "headline": "수은, 탄자니아 AI 교육기관 건립에 1억7천만달러 차관",
-      "summary": "(서울=연합뉴스) 채새롬 기자 = 한국수출입은행은 탄자니아 인공지능(AI)·디지털 기술교육기관 건립 사업에 1억7천만달러(한화 약 2천275억원...",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261105061200002"
+      "headline": "'그래서 돈 언제 버나'…진짜 공포는 AI 데이터센터 지연",
+      "summary": "'그래서 돈 언제 버나'…진짜 공포는 AI 데이터센터 지연",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/202611060230i"
     },
     {
-      "headline": "하나증권, 토스뱅크 앱에서 가입하는 적립식 발행어음 출시",
-      "summary": "하나증권, 토스뱅크 앱에서 가입하는 적립식 발행어음 출시",
+      "headline": "AI 규제 우려에 '검은 금요일'…'5000피'마저 붕괴",
+      "summary": "AI 규제 우려에 '검은 금요일'…'5000피'마저 붕괴",
       "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026110576006"
+      "url": "https://www.hankyung.com/article/2026110600836"
     }
   ],
   "securities": [
     {
-      "headline": "코스피 사이드카에도 끄떡없다…'신고가' 경신한 방어주",
-      "summary": "코스피 사이드카에도 끄떡없다…'신고가' 경신한 방어주",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/202611057715i"
+      "headline": "증시급락에 코스피 변동성지수 껑충…3개월만에 60선 웃돌아",
+      "summary": "(서울=연합뉴스) 김유아 기자 = 인공지능(AI) 투자 수익성과 데이터센터 건설 지연 우려가 글로벌 증시를 한꺼번에 덮치면서 '한국형 공포지수'...",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261106069400008"
     },
     {
-      "headline": "코스피, 장중 낙폭 4% 확대 매도 사이드카…삼전닉스 '급락'",
-      "summary": "코스피, 장중 낙폭 4% 확대 매도 사이드카…삼전닉스 '급락'",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026110576866"
+      "headline": "\"울고 싶다\" \"연봉 날아갈 판\"…삼전닉스 등 증시 폭락에 개미들 패닉",
+      "summary": "(서울=연합뉴스) 고은지 기자 = 장이 열리자마자 코스피가 5,000선 아래로 급락하면서 개인투자자(개미)들은 그야말로 패닉에 빠졌다.",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261106060700008"
     }
   ],
   "realestate": [
     {
-      "headline": "김동현, 100억 주고 아파트 샀는데…한 달 만에 벌어진 일",
-      "summary": "김동현, 100억 주고 아파트 샀는데…한 달 만에 벌어진 일",
+      "headline": "40년 된 서울 아파트촌 갈아엎는다…신도시급으로 '천지개벽'",
+      "summary": "40년 된 서울 아파트촌 갈아엎는다…신도시급으로 '천지개벽'",
       "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026110447556"
+      "url": "https://www.hankyung.com/article/202611020763i"
     },
     {
-      "headline": "10월 일반공급 6개월 만에 최대…인천 84㎡ 8억 돌파",
-      "summary": "(서울=연합뉴스) 오예진 기자 = 지난달 전국 민간 아파트 일반 분양이 6개월 만에 가장 많았던 것으로 나타났다.",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261105048500003"
+      "headline": "\"6억이면 집 산다\" 들썩…저가 아파트 수요 몰린 '이 동네'",
+      "summary": "\"6억이면 집 산다\" 들썩…저가 아파트 수요 몰린 '이 동네'",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026110580686"
     }
   ],
   "global": [
     {
-      "headline": "K바이오, 미국혈액학회서 혈액암 치료제 연구결과 잇달아 공개",
-      "summary": "(서울=연합뉴스) 신선미 기자 = 큐로셀과 지씨셀 등 국내 바이오기업들이 12월 미국 뉴올리언스에서 열리는 미국혈액학회 연례학술대회(ASH 20...",
+      "headline": "새만금에 국내 첫 'K-푸드 수출허브단지' 조성 추진",
+      "summary": "(전주=연합뉴스) 임채두 기자 = 해외 수입 원료와 국내 농산물을 가공·저장해 철도·항만·공항 등 트라이포트(Tri-Port) 물류망으로 실어 ...",
       "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261105050000017"
+      "url": "https://www.yna.co.kr/view/AKR20261106068300055"
     },
     {
-      "headline": "[밤 사이 해외뉴스 영상]\"AI 대신 SI라 불러라\"…트럼프 한마디에 빅테크 '진땀'",
-      "summary": "[밤 사이 해외뉴스 영상]\"AI 대신 SI라 불러라\"…트럼프 한마디에 빅테크 '진땀'",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/202611057121i"
+      "headline": "울주군, 중국 쿤산시와 우호교류도시 수립의향서 체결",
+      "summary": "(울산=연합뉴스) 장영은 기자 = 울산 울주군은 중국 장쑤성 쿤산시에서 두 도시 간 우호교류도시 수립 의향서를 체결했다고 6일 밝혔다.",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261106064300057"
     }
   ],
   "rates": [
     {
-      "headline": "광주은행 창립 58주년 예금 특판…우대 금리 적용",
-      "summary": "(전남광주=연합뉴스) 전승현 기자 = 광주은행은 창립 58주년(11월20일)을 맞아 고객들의 성원에 보답하기 위해 '58년 동행' 더드림 예금 ...",
+      "headline": "국민은행 'KB아동수당통장' 출시…최고 연 3.1% 금리",
+      "summary": "(서울=연합뉴스) 한지훈 기자 = KB국민은행은 6일 아동수당 수령 고객에게 우대금리와 수수료 면제 혜택을 제공하는 'KB아동수당통장'을 출시했...",
       "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261105071800054"
+      "url": "https://www.yna.co.kr/view/AKR20261106070100002"
     },
     {
-      "headline": "[게시판] 현대커머셜·HD건설기계, 120개월 초장기 할부 프로그램",
-      "summary": "▲ 현대커머셜이 HD건설기계[267270]와 건설 경기 침체, 물가 상승 등으로 인한 기계 구입 부담을 덜어주기 위해 '120개월 초장기 할부'...",
+      "headline": "부산은행, BNK썸농구단 우승 기원 적금 출시…최고 4.9% 금리",
+      "summary": "(부산=연합뉴스) 오수희 기자 = BNK부산은행은 6일 여자프로 농구단의 선전을 기원하고 팬들과 함께 응원하는 즐거움을 나누기 위해 'BNK 썸...",
       "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261105051600002"
+      "url": "https://www.yna.co.kr/view/AKR20261106068800051"
     }
   ],
   "employment": [
     {
-      "headline": "Z세대 취업 로망은 공장으로?…생산·품질, 마케팅·IT 제쳤다",
-      "summary": "(서울=연합뉴스) 오지은 기자 = 한때 판교와 네카라쿠배(네이버·카카오·라인·쿠팡·배달의민족)로 대표되던 Z세대의 취업 선호도가 반도체와 대기업...",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261105073500017"
+      "headline": "안녕하세요",
+      "summary": "안녕하세요",
+      "source": "고용노동부",
+      "url": "https://www.moel.go.kr/policy/policydata/view.do?bbs_seq=20261100214"
     },
     {
-      "headline": "李정부 경사노위, 첫 노사정 합의…소규모 사업장 산재예방 강화",
-      "summary": "(서울=연합뉴스) 옥성구 기자 = 이재명 정부 출범 이후 대통령 직속 사회적 대화 기구인 경제사회노동위원회(경사노위)에서 노사정의 첫 사회적 합...",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261105030600530"
+      "headline": "안녕하세요",
+      "summary": "안녕하세요",
+      "source": "고용노동부",
+      "url": "https://www.moel.go.kr/policy/policydata/view.do?bbs_seq=20261100197"
     }
   ],
   "policy": [
     {
-      "headline": "허장 차관, 방글라데시 차우두리 재무장관 면담",
-      "summary": "허장 차관, 방글라데시 차우두리 재무장관 면담",
+      "headline": "제276차 대외경제장관회의 개최",
+      "summary": "제276차 대외경제장관회의 개최",
       "source": "기획재정부",
-      "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079853"
+      "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079883"
     },
     {
-      "headline": "국제 신용평가사 Fitch, 한국 연례협의 실시",
-      "summary": "국제 신용평가사 Fitch, 한국 연례협의 실시",
+      "headline": "[보도참고] 세계은행그룹 부총재에 두 번째 한국인 진출",
+      "summary": "[보도참고] 세계은행그룹 부총재에 두 번째 한국인 진출",
       "source": "기획재정부",
-      "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079837"
+      "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079886"
     }
   ],
-  "updated_at": "2026년 11월 05일 10:58 기준"
+  "updated_at": "2026년 11월 06일 10:57 기준"
 }
