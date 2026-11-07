@@ -1,30 +1,30 @@
 {
   "finance": [
     {
-      "headline": "'그래서 돈 언제 버나'…진짜 공포는 AI 데이터센터 지연",
-      "summary": "'그래서 돈 언제 버나'…진짜 공포는 AI 데이터센터 지연",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/202611060230i"
+      "headline": "[다음주 경제] 금융권 가계대출 다시 늘었나",
+      "summary": "(서울=연합뉴스) 배영경 이세원 한지훈 기자 = 다음 주(11월 9∼13일)에는 한국은행과 금융당국이 지난달 금융권 가계대출 현황을 발표한다.",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261107017800002"
     },
     {
-      "headline": "AI 규제 우려에 '검은 금요일'…'5000피'마저 붕괴",
-      "summary": "AI 규제 우려에 '검은 금요일'…'5000피'마저 붕괴",
+      "headline": "대형주 중 올해 낙폭 큰 상위 50위 리스트 따져보니",
+      "summary": "대형주 중 올해 낙폭 큰 상위 50위 리스트 따져보니",
       "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026110600836"
+      "url": "https://www.hankyung.com/article/202611061208i"
     }
   ],
   "securities": [
     {
-      "headline": "증시급락에 코스피 변동성지수 껑충…3개월만에 60선 웃돌아",
-      "summary": "(서울=연합뉴스) 김유아 기자 = 인공지능(AI) 투자 수익성과 데이터센터 건설 지연 우려가 글로벌 증시를 한꺼번에 덮치면서 '한국형 공포지수'...",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261106069400008"
+      "headline": "코스피 급락에 F4회의 가동한 정부...증안펀드·공매도 제한 나오나",
+      "summary": "코스피 급락에 F4회의 가동한 정부...증안펀드·공매도 제한 나오나",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/202611060422i"
     },
     {
-      "headline": "\"울고 싶다\" \"연봉 날아갈 판\"…삼전닉스 등 증시 폭락에 개미들 패닉",
-      "summary": "(서울=연합뉴스) 고은지 기자 = 장이 열리자마자 코스피가 5,000선 아래로 급락하면서 개인투자자(개미)들은 그야말로 패닉에 빠졌다.",
+      "headline": "부산 화장품 수출 9월까지 3억달러…작년보다 1.5배 증가",
+      "summary": "(부산=연합뉴스) 오수희 기자 = 올해 부산 화장품 수출실적이 글로벌 K-뷰티 시장의 성장세에 힘입어 큰 폭으로 늘어난 것으로 나타났다.",
       "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261106060700008"
+      "url": "https://www.yna.co.kr/view/AKR20261106030800051"
     }
   ],
   "realestate": [
@@ -35,67 +35,67 @@
       "url": "https://www.hankyung.com/article/202611020763i"
     },
     {
-      "headline": "\"6억이면 집 산다\" 들썩…저가 아파트 수요 몰린 '이 동네'",
-      "summary": "\"6억이면 집 산다\" 들썩…저가 아파트 수요 몰린 '이 동네'",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026110580686"
+      "headline": "[부동산캘린더] 내주 광교 자연앤 센트레빌 등 12곳서 5천215가구 청약",
+      "summary": "(세종=연합뉴스) 오진송 기자 = 다음 주 전국 12곳에서 총 5천여 가구가 청약 접수를 받는다.",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261106175000003"
     }
   ],
   "global": [
     {
-      "headline": "새만금에 국내 첫 'K-푸드 수출허브단지' 조성 추진",
-      "summary": "(전주=연합뉴스) 임채두 기자 = 해외 수입 원료와 국내 농산물을 가공·저장해 철도·항만·공항 등 트라이포트(Tri-Port) 물류망으로 실어 ...",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261106068300055"
+      "headline": "\"철도, 마트, 휴대폰까지 다 뚫렸다\"…개인정보 유출 어디까지 [도쿄나우]",
+      "summary": "\"철도, 마트, 휴대폰까지 다 뚫렸다\"…개인정보 유출 어디까지 [도쿄나우]",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/202611071913i"
     },
     {
-      "headline": "울주군, 중국 쿤산시와 우호교류도시 수립의향서 체결",
-      "summary": "(울산=연합뉴스) 장영은 기자 = 울산 울주군은 중국 장쑤성 쿤산시에서 두 도시 간 우호교류도시 수립 의향서를 체결했다고 6일 밝혔다.",
+      "headline": "[AI돋보기] 한국도 일본도 뚫렸다…고객정보 샌 '작은 문'",
+      "summary": "(서울=연합뉴스) 심재훈 기자 = 최근 한일 양국이 연이어 터지는 해킹에 의한 대규모 개인 정보 유출에 시달리고 있다.",
       "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261106064300057"
+      "url": "https://www.yna.co.kr/view/AKR20261106022200017"
     }
   ],
   "rates": [
     {
-      "headline": "국민은행 'KB아동수당통장' 출시…최고 연 3.1% 금리",
-      "summary": "(서울=연합뉴스) 한지훈 기자 = KB국민은행은 6일 아동수당 수령 고객에게 우대금리와 수수료 면제 혜택을 제공하는 'KB아동수당통장'을 출시했...",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261106070100002"
+      "headline": "\"이례적으로 강한 고용\"…미국 금리인상 확률 '매우 높음'",
+      "summary": "\"이례적으로 강한 고용\"…미국 금리인상 확률 '매우 높음'",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/202611061820i"
     },
     {
-      "headline": "부산은행, BNK썸농구단 우승 기원 적금 출시…최고 4.9% 금리",
-      "summary": "(부산=연합뉴스) 오수희 기자 = BNK부산은행은 6일 여자프로 농구단의 선전을 기원하고 팬들과 함께 응원하는 즐거움을 나누기 위해 'BNK 썸...",
+      "headline": "국고채 금리, 주가 급락 속 위험회피에 하락세 지속(종합)",
+      "summary": "(서울=연합뉴스) 강수지 기자 = 6일 국고채 금리는 미국 중간선거 이후 인공지능(AI) 설비투자 둔화에 대한 우려가 위험회피 심리를 자극하며 ...",
       "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261106068800051"
+      "url": "https://www.yna.co.kr/view/AKR20261106148851008"
     }
   ],
   "employment": [
     {
-      "headline": "안녕하세요",
-      "summary": "안녕하세요",
-      "source": "고용노동부",
-      "url": "https://www.moel.go.kr/policy/policydata/view.do?bbs_seq=20261100214"
+      "headline": "태백시, 공공이불빨래방 3호점 추진…취약계층 돌봄 확대",
+      "summary": "(태백=연합뉴스) 이상학 기자 = 강원 태백시가 취약계층의 생활 편의를 높이고 노인일자리를 확대하기 위해 공공이불빨래방 3호점 조성에 나선다.",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261106140000062"
     },
     {
-      "headline": "안녕하세요",
-      "summary": "안녕하세요",
-      "source": "고용노동부",
-      "url": "https://www.moel.go.kr/policy/policydata/view.do?bbs_seq=20261100197"
+      "headline": "성남시, 내년 장애인 252명에 공공일자리 제공",
+      "summary": "(성남=연합뉴스) 이우성 기자 = 경기 성남시는 내년 장애인 공공일자리 사업에 39억원을 투입해 252명에게 일자리를 제공한다고 7일 밝혔다.",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261106164400061"
     }
   ],
   "policy": [
+    {
+      "headline": "반도체 전문가 간담회 개최",
+      "summary": "반도체 전문가 간담회 개최",
+      "source": "기획재정부",
+      "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079895"
+    },
     {
       "headline": "제276차 대외경제장관회의 개최",
       "summary": "제276차 대외경제장관회의 개최",
       "source": "기획재정부",
       "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079883"
-    },
-    {
-      "headline": "[보도참고] 세계은행그룹 부총재에 두 번째 한국인 진출",
-      "summary": "[보도참고] 세계은행그룹 부총재에 두 번째 한국인 진출",
-      "source": "기획재정부",
-      "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079886"
     }
   ],
-  "updated_at": "2026년 11월 06일 10:57 기준"
+  "updated_at": "2026년 11월 07일 10:34 기준"
 }
