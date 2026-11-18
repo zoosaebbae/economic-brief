@@ -1,101 +1,95 @@
 {
   "finance": [
     {
-      "headline": "카카오뱅크 \"AI 목표적금, 출시 한 달 만에 누적 10만좌\"",
-      "summary": "(서울=연합뉴스) 이도흔 기자 = 카카오뱅크[323410]는 지난달 출시한 'AI 목표적금'이 한 달 만에 누적 10만좌 넘게 개설됐다고 17일...",
+      "headline": "[게시판] IBK기업은행 대표 캐릭터 '기은센' 리뉴얼",
+      "summary": "▲ IBK기업은행은 대표 캐릭터 '기은센'을 3차원(3D) 디자인으로 새롭게 단장하고, 신규 캐릭터를 더한 '기은센과 친구들'을 선보인다고 18...",
       "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261117076900002"
+      "url": "https://www.yna.co.kr/view/AKR20261118091200002"
     },
     {
-      "headline": "IBK기업은행 \"비수도권에 750억원 규모 모험자본 공급\"",
-      "summary": "(서울=연합뉴스) 한지훈 기자 = IBK기업은행은 비수도권 벤처투자 활성화와 지역 혁신기업 성장을 위해 총 750억원 규모의 모험자본을 공급한다...",
+      "headline": "JP모건·현대카드, 인간 개입 없는 'AI 금융 거래' 실험",
+      "summary": "(서울=연합뉴스) 이성한 기자 = JP모건과 현대카드가 사람의 직접적인 개입 없이 인공지능(AI) 에이전트가 금융·결제 업무를 수행하는 방안을 ...",
       "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261117075100002"
+      "url": "https://www.yna.co.kr/view/AKR20261118084800009"
     }
   ],
   "securities": [
     {
-      "headline": "\"코스피 8300 간다더니\"…증권가 전망에 개미들 '부글부글' [분석+]",
-      "summary": "\"코스피 8300 간다더니\"…증권가 전망에 개미들 '부글부글' [분석+]",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026111698096"
+      "headline": "[표] 코스닥시장 3분기 누적 순이익 상·하위 20개사",
+      "summary": "◇ 코스닥시장 2026년 3분기 연결 누적 순이익 상위 20개사 (단위: 백만원, %)",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261118095900008"
     },
     {
-      "headline": "코스피, 1%대 하락 지속…'5천피' 사수 공방전",
-      "summary": "(서울=연합뉴스) 김유아 기자 = 코스피가 17일 1%대 하락세를 유지하며 5,000선을 간신히 유지하고 있다.",
+      "headline": "[표] 코스닥시장 3분기 누적 영업이익 상·하위 20개사",
+      "summary": "◇ 코스닥시장 2026년 3분기 연결 누적 영업이익 상위 20개사 (단위: 백만원, %)",
       "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261117077700008"
+      "url": "https://www.yna.co.kr/view/AKR20261118095800008"
     }
   ],
   "realestate": [
     {
-      "headline": "아파트 리모델링, 동의율 75%→70%로 낮춘다…내년 1월 시행",
-      "summary": "아파트 리모델링, 동의율 75%→70%로 낮춘다…내년 1월 시행",
+      "headline": "압구정 아파트 양도세 34억에서 71억으로…매도 시점이 가른 세금",
+      "summary": "압구정 아파트 양도세 34억에서 71억으로…매도 시점이 가른 세금",
       "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026111716917"
+      "url": "https://www.hankyung.com/article/202611095154i"
     },
     {
-      "headline": "공동주택 리모델링 동의율 75→70% 완화…사업 추진 속도↑",
-      "summary": "(세종=연합뉴스) 오진송 기자 = 내년부터 아파트 등 공동주택의 리모델링 허가에 필요한 주민 동의율이 75%에서 70%로 낮아진다.",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261117060500003"
+      "headline": "김동현 '압구정 100억 아파트', 집주인이 50억 빌려줬다는데… [시장톡]",
+      "summary": "김동현 '압구정 100억 아파트', 집주인이 50억 빌려줬다는데… [시장톡]",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026111696876"
     }
   ],
   "global": [
     {
-      "headline": "유럽 최대 우주 전시회서 국내 우주창업기업 알린다",
-      "summary": "(서울=연합뉴스) 조승한 기자 = 우주항공청과 중소벤처기업부는 17~19일 독일 브레멘에서 열리는 '스페이스 테크 엑스포 유럽 2026'에 국내...",
+      "headline": "10월 대구 수출 36% 급증…경북도 13% 늘었다",
+      "summary": "(대구=연합뉴스) 이덕기 기자 = 지난달 대구와 경북의 수출이 작년 동기 대비 각각 36.3%, 13.1% 증가한 것으로 집계됐다.",
       "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261117081500017"
+      "url": "https://www.yna.co.kr/view/AKR20261118087000053"
     },
     {
-      "headline": "챗GPT가 결제까지 대신한다…오픈AI, 'AI 지갑' 출시",
-      "summary": "챗GPT가 결제까지 대신한다…오픈AI, 'AI 지갑' 출시",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/202611171429i"
+      "headline": "\"내년 중국·미국 내수 회복에 완성차 판매 0.8% 증가 전망\"",
+      "summary": "(서울=연합뉴스) 장하나 기자 = 내년에는 중국과 미국의 내수 시장이 회복하며 소폭 성장할 것이라는 전망이 나왔다.",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261117135100003"
     }
   ],
   "rates": [
     {
-      "headline": "국고채 금리 일제히 상승…3년물 장중 연 3.757%",
-      "summary": "(서울=연합뉴스) 17일 국고채 금리가 일제히 상승하고 있다.",
+      "headline": "국고채 금리 대체로 하락…3년물 장중 연 3.722%",
+      "summary": "(서울=연합뉴스) 18일 국고채 금리가 대체로 하락하고 있다.",
       "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261117085100008"
-    },
-    {
-      "headline": "젠슨황·앤트로픽·금리…'삼중고'에 짓눌린 코스피",
-      "summary": "(서울=연합뉴스) 임은진 기자 = 젠슨 황 스캔들, 앤트로픽 상장, 미국 국채 금리.",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261117065400008"
+      "url": "https://www.yna.co.kr/view/AKR20261118093300008"
     }
   ],
   "employment": [
     {
-      "headline": "\"자활사업 성과평가, 탈수급 중심서 다차원 체계로 전환해야\"",
-      "summary": "(서울=연합뉴스) 김영신 기자 = 근로 능력이 있는 저소득층에게 일자리와 복지 서비스를 제공해 빈곤에서 벗어날 수 있도록 돕는 자활 사업의 성과...",
+      "headline": "무신사, AI 에이전트 활용해 경력직 채용…개발 직군 일원화",
+      "summary": "(서울=연합뉴스) 이상서 기자 = 무신사는 서버·웹·모바일로 나뉘어 있던 개발 직군을 'PE' 하나로 묶고, 직접 개발한 인공지능(AI) 에이전...",
       "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261117067400530"
+      "url": "https://www.yna.co.kr/view/AKR20261118073300030"
     },
     {
-      "headline": "유학 넘어 일하는 도시로…서울 외국인 취업·채용박람회",
-      "summary": "(서울=연합뉴스) 김준태 기자 = 서울시는 오는 18일 강남구 SETEC에서 '2026 서울 외국인 취업·채용박람회'를 개최한다고 17일 밝혔다...",
+      "headline": "쿠팡풀필먼트서비스, 고졸채용 확대…1년 평가 거쳐 정규직 전환",
+      "summary": "(서울=연합뉴스) 정수연 기자 = 쿠팡풀필먼트서비스(CFS)는 고등학교 졸업자와 내년 2월 졸업 예정자를 대상으로 한 공개채용 프로그램 '웨이파...",
       "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261117039700004"
+      "url": "https://www.yna.co.kr/view/AKR20261118040200030"
     }
   ],
   "policy": [
     {
-      "headline": "「세무사 시험 부정행위 대응 TF」 킥오프 회의 및 세무사 시험 부정행위자 시험 무효 절차 개시",
-      "summary": "「세무사 시험 부정행위 대응 TF」 킥오프 회의 및 세무사 시험 부정행위자 시험 무효 절차 개시",
+      "headline": "경남창원 수출플러스간담회 개최",
+      "summary": "경남창원 수출플러스간담회 개최",
       "source": "기획재정부",
-      "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079971"
+      "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079984"
     },
     {
-      "headline": "국유재산 안전관리 체계 고도화 추진",
-      "summary": "국유재산 안전관리 체계 고도화 추진",
+      "headline": "국산 중고차 수출 원산지 증명 간소화 추진",
+      "summary": "국산 중고차 수출 원산지 증명 간소화 추진",
       "source": "기획재정부",
-      "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079967"
+      "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079957"
     }
   ],
-  "updated_at": "2026년 11월 17일 13:17 기준"
+  "updated_at": "2026년 11월 18일 12:17 기준"
 }
