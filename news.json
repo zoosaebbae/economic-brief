@@ -1,95 +1,101 @@
 {
   "finance": [
     {
-      "headline": "[게시판] 우리은행, 베트남 현지 맞춤형 모바일뱅킹 '뉴 원'",
-      "summary": "▲ 우리은행은 18일 베트남 현지법인인 베트남우리은행이 모바일뱅킹 애플리케이션 '뉴 원(New WON)'을 출시했다고 19일 밝혔다. '뉴 원'...",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261119083600002"
+      "headline": "개미들 계좌 1억개 넘었는데… \"주식 살 돈은 없어요\"",
+      "summary": "개미들 계좌 1억개 넘었는데… \"주식 살 돈은 없어요\"",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/202611209606i"
     },
     {
-      "headline": "[게시판] 농협은행, 퇴직연금 DB·IRP 비보장 수익률 적립금 상위사중 1위",
-      "summary": "▲ NH농협은행은 올해 3분기 기준 퇴직연금 확정급여형(DB)과 개인형퇴직연금(IRP)의 원리금비보장상품 1년 운용수익률에서 적립금 상위 10개...",
+      "headline": "[게시판] NH농협은행, 기후금융·포용금융 강화 위한 ESG추진위원회",
+      "summary": "▲ NH농협은행은 19일 서울 중구 본사에서 기후금융·포용금융 강화를 위한 '2026년 제2차 ESG(환경·사회·지배구조) 추진위원회'를 개최했...",
       "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261119061300002"
+      "url": "https://www.yna.co.kr/view/AKR20261120064700002"
     }
   ],
   "securities": [
     {
-      "headline": "\"기관 유입 촉진·부실기업 퇴출로 코스닥 활성화해야\"",
-      "summary": "(서울=연합뉴스) 한지훈 기자 = 코스닥시장 활성화를 위해서는 기관 투자자를 유입시키고 부실기업을 빠르게 퇴출해야 한다는 코스닥 상장사 대상 설...",
+      "headline": "코스피, 4%대 급락에 5,000선 밑으로…삼전닉스, 5~6%↓",
+      "summary": "(서울=연합뉴스) 김유아 기자 = 20일 코스피가 4%대의 급락세를 이어가고 있다.",
       "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261119079700002"
+      "url": "https://www.yna.co.kr/view/AKR20261120075600008"
     },
     {
-      "headline": "DB운용, '싱가포르 플러턴운용 대표펀드에 재간접 투자' 펀드 출시",
-      "summary": "(서울=연합뉴스) 고은지 기자 = DB자산운용은 싱가포르 국부펀드 테마섹의 자산운용그룹인 세비오라 산하 플러턴자산운용의 대표펀드에 투자하는 'D...",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261119081500008"
+      "headline": "[오전시황] 외국인·기관 1조원 넘게 팔았다…코스피 장중 4900선 하회",
+      "summary": "[오전시황] 외국인·기관 1조원 넘게 팔았다…코스피 장중 4900선 하회",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/202611209694i"
     }
   ],
   "realestate": [
     {
-      "headline": "경매·소송 뛰어든 세관, 체납액 110억원 징수…역대 최대",
-      "summary": "(세종=연합뉴스) 안채원 기자 = 세관 당국이 체납업체의 부동산 경매와 소송에 직접 참여해 110억원의 체납액을 받아냈다.",
+      "headline": "HUG, 하나자산신탁과 전월세 안심신탁 양해각서…850가구 접수",
+      "summary": "(서울=연합뉴스) 오예진 기자 = 주택도시보증공사(HUG)는 하나자산신탁과 전월세 안심신탁 활성화를 위한 업무협약을 체결했다고 20일 밝혔다.",
       "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261119074300002"
+      "url": "https://www.yna.co.kr/view/AKR20261120060500003"
     },
     {
-      "headline": "국토부, 이혜훈 반포 원펜타스 계약취소 요청…조합에 공문",
-      "summary": "(서울=연합뉴스) 오예진 기자 = 국토교통부가 부정 청약 혐의로 송치된 이혜훈 전 의원의 서울 서초 반포동 아파트에 대해 조합에 계약 취소를 요...",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261119043400003"
+      "headline": "\"4인 가구 만점은 돼야\"…더 높아진 서울 신축 청약 문턱",
+      "summary": "\"4인 가구 만점은 돼야\"…더 높아진 서울 신축 청약 문턱",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026112089756"
     }
   ],
   "global": [
     {
-      "headline": "남원 화장품기업 코빅스, 튀르키예에 8억원어치 수출",
-      "summary": "(남원=연합뉴스) 백도인 기자 = 전북 남원시는 관내 화장품 생산업체인 코빅스가 튀르키예에 화장품 8억원어치를 수출했다고 19일 밝혔다.",
+      "headline": "원주 미용의료기기 기업 5곳, 홍콩서 165만 달러 수출 상담",
+      "summary": "(원주=연합뉴스) 임보연 기자 = 강원 원주지역 미용의료기기 기업 5곳이 홍콩 국제 미용 전시회에서 165만 달러 규모의 수출 상담 성과를 거뒀...",
       "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261119078300055"
+      "url": "https://www.yna.co.kr/view/AKR20261120076200062"
     },
     {
-      "headline": "[속보] 시진핑 \"아태지역 경제협정 체결 촉진 필요\"",
-      "summary": "[속보] 시진핑 \"아태지역 경제협정 체결 촉진 필요\"",
+      "headline": "중국이 메모리 주문 확 줄였다…삼전닉스 '날벼락' 맞은 이유",
+      "summary": "중국이 메모리 주문 확 줄였다…삼전닉스 '날벼락' 맞은 이유",
       "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026111970217"
+      "url": "https://www.hankyung.com/article/202611209413i"
     }
   ],
   "rates": [
     {
-      "headline": "국고채 금리 대체로 하락…3년물 장중 연 3.731%",
-      "summary": "(서울=연합뉴스) 19일 국고채 금리가 대체로 하락하고 있다.",
+      "headline": "국고채 금리 일제히 하락…3년물 장중 연 3.669%",
+      "summary": "(서울=연합뉴스) 20일 국고채 금리가 일제히 하락하고 있다.",
       "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261119083000008"
+      "url": "https://www.yna.co.kr/view/AKR20261120082600008"
+    },
+    {
+      "headline": "식품업계, 연말 맞아 김장 후원·취약계층 기부 등 나눔 활동",
+      "summary": "(서울=연합뉴스) 김세린 기자 = 연말을 맞아 식품업계가 김장철 물가 안정을 위한 기부금을 전달하고 취약계층과 스포츠 선수단을 지원하는 등 사회...",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261120057000030"
     }
   ],
   "employment": [
     {
-      "headline": "전주 서울세종사업소장 임용 공정성 논란…경력 공백인데 최고점",
-      "summary": "(전주=연합뉴스) 김동철 기자 = 전북 전주시가 개방형 직위로 최근 임용한 서울세종사업소장의 채용 과정과 평가 점수가 공정했는지를 두고 시의회 ...",
+      "headline": "행안부, 지방세 체납관리단 3만명 채용 추진…확대 방안 논의",
+      "summary": "(서울=연합뉴스) 차민지 기자 = 행정안전부가 2029년까지 지방세입 체납관리단 3만명 채용을 추진하는 가운데 구체적인 운영 방안을 논의했다.",
       "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261119077400055"
+      "url": "https://www.yna.co.kr/view/AKR20261119135900530"
     },
     {
-      "headline": "외국인 유학생 학업·취업·정주 연계 모색…'SCH 이민정책포럼'",
-      "summary": "(서울=연합뉴스) 정아란 기자 = 외국인 유학생의 학업부터 취업, 국내 정주까지 연계해 지원 방안을 모색하는 '2026 SCH 이민정책포럼'이 ...",
+      "headline": "당근알바 '약속 점수' 도입 후 노쇼 신고 20% 감소",
+      "summary": "(서울=연합뉴스) 한상용 기자 = 지역 기반 구인구직 서비스 당근알바는 올해 9월 '약속 점수' 제도를 도입한 뒤 면접이나 첫 출근 약속을 지키...",
       "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261119075800371"
+      "url": "https://www.yna.co.kr/view/AKR20261120033700017"
     }
   ],
   "policy": [
     {
-      "headline": "경남창원 수출플러스간담회 개최",
-      "summary": "경남창원 수출플러스간담회 개최",
+      "headline": "'26.11월 국고채 「모집 방식 비경쟁인수」 발행 미실시",
+      "summary": "'26.11월 국고채 「모집 방식 비경쟁인수」 발행 미실시",
       "source": "기획재정부",
-      "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079984"
+      "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000080007"
     },
     {
-      "headline": "국산 중고차 수출 원산지 증명 간소화 추진",
-      "summary": "국산 중고차 수출 원산지 증명 간소화 추진",
+      "headline": "2026년 3분기말 대외채권채무 동향",
+      "summary": "2026년 3분기말 대외채권채무 동향",
       "source": "기획재정부",
-      "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079957"
+      "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079995"
     }
   ],
-  "updated_at": "2026년 11월 19일 11:55 기준"
+  "updated_at": "2026년 11월 20일 11:48 기준"
 }
